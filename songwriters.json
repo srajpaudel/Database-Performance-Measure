@@ -1,0 +1,9110 @@
+[{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af3"
+  },
+  "songwriter_id": "2mnD3lfc9infcjV6vHIV6b",
+  "fans": 9,
+  "name": "La Roscada",
+  "reputation": 0,
+  "genres": [],
+  "recordings": [
+    "0QGjIeJXg1nnbnqK6rXqBD",
+    "0V7SFxvxLKazc8mrxPg0Yz",
+    "16Wh7h8MuNP1AR4pqAa6NM",
+    "1MaH9xcvURAx0Iqs9DseTI",
+    "25236VTqb4GN6e4pq0A4Qt"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af4"
+  },
+  "songwriter_id": "7y4tFWcESTjfDcPSzqjOzL",
+  "fans": 2,
+  "name": "Lawson-Haggart Jazz Band",
+  "reputation": 0,
+  "genres": [],
+  "recordings": [
+    "01fMp9WHQJtJkA0s6r1kjC",
+    "05SOD2z4H0PBzANPX7kKvd",
+    "0SRmyQ0oII6gsya1ZMazWr",
+    "1arMklaO3dyCM1VtEBzeEV"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af5"
+  },
+  "songwriter_id": "3NfYRC8K0hTE1tWGu5AvMR",
+  "fans": 74,
+  "name": "Sterling Brown",
+  "reputation": 3,
+  "genres": [
+    "poetry"
+  ],
+  "recordings": [
+    "0MLUayv72M6Pm0QRBHat0x",
+    "0hZKCE8QirKYs0n4OTWoLR",
+    "5uhuEd3FBXZO4ewGZ7JK3O"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af6"
+  },
+  "songwriter_id": "1OCPhFtvkZDLUJJkrJfD2G",
+  "fans": 155,
+  "name": "The De Castro Sisters",
+  "reputation": 8,
+  "genres": [],
+  "recordings": [
+    "0JqKK01MXbnDhBKKdcUCnX",
+    "2iKCL9YGGTpDPen0LhzcX2",
+    "2fwms7R3b5N8aBnJ1CaltH",
+    "22McLEDE7FIJDSNUhYqnKz",
+    "0CYtIR0IcGbxL497RrfpE8",
+    "2ci8nINuwXRBrFyHuPnO3c",
+    "3eKcBZ9sqp8QclKARSf3Bk",
+    "419BNwrQPeVN9D8BJBHoB0",
+    "5lSQoBw8en3fs3DrFjLKsE",
+    "4TDSHnJFIzcLkOEc8hoRlm"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af7"
+  },
+  "songwriter_id": "6Rboxwjnvu3wLcwzhlnaSO",
+  "fans": 3811,
+  "name": "The Fireballs",
+  "reputation": 27,
+  "genres": [
+    "surf music"
+  ],
+  "recordings": [
+    "6uHwXH6JS9jrEPiYiILNKP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af8"
+  },
+  "songwriter_id": "2ikAwFLCJ5H9SEAsoxk2Va",
+  "fans": 2544,
+  "name": "The Dingoes",
+  "reputation": 26,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "0cgIpWV1j6mYHNDRqdDXA1",
+    "0wG39KuDIv7gORg7Y7mSF0",
+    "2t5YzTKdMXhYjOpoC6abmB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3af9"
+  },
+  "songwriter_id": "3XGBZeimYdPt1rLdy0JqrQ",
+  "fans": 8258,
+  "name": "Billy Thorpe",
+  "reputation": 34,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "5iiadi85b2MArbziJVTsEv",
+    "5oWQhRi8yOgtSpbEPopz7g",
+    "4i2SdP0c6GYTByDXPUF9sE"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3afa"
+  },
+  "songwriter_id": "2ApYZSCRExRk3TR9qnENt4",
+  "fans": 531,
+  "name": "Helen St. John",
+  "reputation": 31,
+  "genres": [],
+  "recordings": [
+    "4VjTNoHP2W0GYfqn47v3XH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3afb"
+  },
+  "songwriter_id": "5IH6Xg8ILCVJIiGVIYklK2",
+  "fans": 2051,
+  "name": "Robin Zander",
+  "reputation": 35,
+  "genres": [],
+  "recordings": [
+    "5gf9qeUJUHvhp1TkHUJ2sR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3afc"
+  },
+  "songwriter_id": "5iA3hgdfblCifdxOrPvJMF",
+  "fans": 912,
+  "name": "Peter Blakeley",
+  "reputation": 32,
+  "genres": [],
+  "recordings": [
+    "3bgrrmGOh23O97dSvnklcK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3afd"
+  },
+  "songwriter_id": "5sHPYevv4ykaH79HIHqBDP",
+  "fans": 18279,
+  "name": "Yothu Yindi",
+  "reputation": 40,
+  "genres": [
+    "australian indigenous",
+    "australian rock",
+    "didgeridoo"
+  ],
+  "recordings": [
+    "0RGD7VXcMiPGmnha3vXSt3",
+    "2cySbtIzIXLe95sNfe4Aj9",
+    "6S8AoLX1vjvScELjPMrrJ3",
+    "4jQdaO0VRRJj2C0yydJfJh",
+    "5bSVz3mkY0PthzOLxJCp6D",
+    "020bGSaodlyG8YPCRXexrx",
+    "5ZkObtTSqiw2LSfCV8qN55"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3afe"
+  },
+  "songwriter_id": "1RNwrc6Yfn4mxT8RCnck0y",
+  "fans": 12670,
+  "name": "Weddings Parties Anything",
+  "reputation": 39,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "recordings": [
+    "2mnvzsLKEG033tp9Bqm4S1",
+    "6re5v0DJzNelwuMOVpehWC",
+    "2EvqDV5V2Sz58Izlw8Z8FZ",
+    "3qsp5pF2ikuZMU34alcUfu",
+    "4oSQS0yP7DHb4rmc5jvKeO",
+    "7AsHr5FLA4NiAnSV2ZEFMY",
+    "61bqJmnkUp9qDUmzF0rLbk",
+    "2iMTa95tOcPuvUyny7It2O"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3aff"
+  },
+  "songwriter_id": "3kpwO5KGhMeWcWq6MiGVXN",
+  "fans": 4011,
+  "name": "Things Of Stone and Wood",
+  "reputation": 34,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "4H3aS6slQrNt9GqsDzKNOL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b00"
+  },
+  "songwriter_id": "7AhDVqsNA5q46WKsRPXvoe",
+  "fans": 64263,
+  "name": "Son Volt",
+  "reputation": 45,
+  "genres": [
+    "alternative country",
+    "alternative rock",
+    "country rock",
+    "folk",
+    "indie folk",
+    "new americana",
+    "roots rock",
+    "stomp and holler"
+  ],
+  "recordings": [
+    "52iyhfd6jgU2wYB8QIYs6t",
+    "6FsTBcizGfeEQeVjgzZ1wi",
+    "69BCRKCiQhrhrg7gkbNUNd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b01"
+  },
+  "songwriter_id": "7bLwCpWq5uZb7PoccAaEsV",
+  "fans": 3314,
+  "name": "Leonardo's Bride",
+  "reputation": 34,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "5VPy7NeI6uCRCcZp3VIqsJ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b02"
+  },
+  "songwriter_id": "4MuzHxgmTOW1JFRJan4p1s",
+  "fans": 332,
+  "name": "Jojo",
+  "reputation": 45,
+  "genres": [],
+  "recordings": [
+    "1pviZGWVoeYGZn4bmRUoX4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b03"
+  },
+  "songwriter_id": "6L9bfTvOEA9BOJEIBhU4ln",
+  "fans": 54281,
+  "name": "Jebediah",
+  "reputation": 43,
+  "genres": [
+    "aussie emo",
+    "australian alternative rock",
+    "australian rock",
+    "perth indie"
+  ],
+  "recordings": [
+    "3OtIgLTHpPYez3WmDN2iYZ",
+    "68goERlTUUjuyGNJonAZ5K",
+    "0zmnZjHnIoqCvDRg2RFxxG",
+    "3azxK6VZFOSJmh5NjABi9W",
+    "2TmboC0lRS43U9QvjzAz2i",
+    "1EAtCqaNqiCtqUMKiDCc8V",
+    "08vctXbWBzMIlare7Ny8Pv"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b04"
+  },
+  "songwriter_id": "0cmBbO2sr4w0rRGt3rKvs6",
+  "fans": 113616,
+  "name": "Mad Caddies",
+  "reputation": 51,
+  "genres": [
+    "modern ska punk",
+    "punk",
+    "ska",
+    "ska punk",
+    "skate punk"
+  ],
+  "recordings": [
+    "7v9tpAyVYvIueLtl82bMIz",
+    "2Q0dushaDSMplO0MudDEPD"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b05"
+  },
+  "songwriter_id": "5X2XAU0eSvRPWUl9hUb9mV",
+  "fans": 36035,
+  "name": "OPM",
+  "reputation": 46,
+  "genres": [
+    "rap rock"
+  ],
+  "recordings": [
+    "1Sm3U3B5XoidYQEZQZrh3i"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b06"
+  },
+  "songwriter_id": "1aVud1rCHS8xrpDjI7zEUy",
+  "fans": 22961,
+  "name": "Alex Lloyd",
+  "reputation": 42,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "recordings": [
+    "6HrNOiJDXZee4eMTzm1NbW",
+    "1nDwGcdtCwB4Ipfli2k57i",
+    "0PgUzm9svpD9SIeCTTmHU6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b07"
+  },
+  "songwriter_id": "2yFyO5Fo9FGo2ddPKdk2m4",
+  "fans": 333,
+  "name": "Lino Patruno",
+  "reputation": 15,
+  "genres": [],
+  "recordings": [
+    "7Fk6uz0MRJKibXZfTt0vmK",
+    "5lroXvuHznuX8kgzNUcATf",
+    "2xKxY5hsn9XgEksB4G7zwS",
+    "0acf6xvkNTeJ2iMBneXrDY",
+    "6aTvozntS3PxPGQyllrhpP",
+    "7JIoWtOlGL5tNC7ay6ttBy",
+    "48IdxRYYLfUiYzJAgU6IRY",
+    "5fAk6fU2YSfWzK3KFUK2m2",
+    "6DG9Ts4KVWgqO7JvHG2mG9",
+    "5pSF7H7vxe3YIVjMSAyfzh",
+    "29o8fBJts79HghRwsWHwIv",
+    "5fHWpHf9CwOdKGeIlpWE1Y",
+    "4lSOHNrI70D2eKe1Qv6vnH",
+    "6si6bAHoCI8Sn8LJ6TiObo",
+    "4QZRA7Uhm7QMNFlPd9TvFv"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b08"
+  },
+  "songwriter_id": "5JmeloS88DjYXJulG7qgwF",
+  "fans": 16386,
+  "name": "The Getaway Plan",
+  "reputation": 39,
+  "genres": [
+    "australian alternative rock"
+  ],
+  "recordings": [
+    "1NlV7N8dIfIgb3O4k7oExO",
+    "0uX6Y7mRIJjswGAcLg1oz9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b09"
+  },
+  "songwriter_id": "0tTLmQvo0tn8vYlpJpA2no",
+  "fans": 68006,
+  "name": "Thirsty Merc",
+  "reputation": 53,
+  "genres": [
+    "australian pop",
+    "australian rock",
+    "pop rock"
+  ],
+  "recordings": [
+    "5r7XHPnTPeLKcBeDMLzkse",
+    "3Y0VSWTyXPeOevtxyLSoYl",
+    "7uCQb1MoL0kC4nw6WsGk38",
+    "4h64azBMSFV2yRFpavLtqY",
+    "2yIWGeH9w7vwbZE9x9z6va",
+    "4Uee0iy5rLJdvVEVSiFLpK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b0a"
+  },
+  "songwriter_id": "47yawJswuSfSvizYhItoOP",
+  "fans": 64479,
+  "name": "Something For Kate",
+  "reputation": 45,
+  "genres": [
+    "australian alternative rock",
+    "australian indie",
+    "australian rock"
+  ],
+  "recordings": [
+    "4X8ppJdBoODwodOqIiaPB5",
+    "1dZn3hOhDRjHrmU0E9y8nc",
+    "32mpQkCbUCHWlLGbs3RwFw",
+    "6RNE3sfaupCCMjwNbz1WQU",
+    "6KnhpDCa2FDfdYF4Hbkp0R",
+    "39afEPa3gyP6g4gE9Tm8YX",
+    "78v3iTANj3QDYYItNqTnFI",
+    "5G2HpjNA0jz7p9QhLM0mca",
+    "39p1vOsrGwQb7oEXBLEkWI",
+    "5ORG67RvkCA33KlzUR2h2T",
+    "3MTQdS3rCj8AyZt1euOkU6",
+    "08lB9ztW82gztN7f4MWR16",
+    "4MYxRQaY1lq9YPmTo9Ni1C",
+    "5QdQkErLJUcAUWzkhZw5Ey",
+    "3qU64I9z39l10DwFMdZe2i",
+    "3XqZ0MTOPYiPFkwZ0cIO3P",
+    "0UiL01lcr1510DsHHHcz2i",
+    "3qVFQr9hq0EHv7miDt3Scf",
+    "745wmnLfu8shKYK7IekCRC",
+    "1xPEzmFmeniY27mKYn5Fjw",
+    "2CZP7M7XgBh1bVVYC059qZ",
+    "5LiPcBTG9vjY4dhhgsY4yW",
+    "2aKKAVkieeQWsd1cbCXzRI",
+    "2mX6Yco2WcmDHwWuadG0Qq",
+    "1I0bJosWIH5B4qtjKt3TNH",
+    "1NK65NiwXOQ9IKc1U9zLlB",
+    "7FYvShdwstSG9na57lZgR5",
+    "5MIhVSZ2aLKcucVx9Cx4Lp",
+    "4D69Rhb8drPCHKJpDvfm8W",
+    "6MmocIHIOGnkkmyHTRlbdu",
+    "5NjwS48Rn9HfGIMTZOnnXq",
+    "6yNh1tBFK06vI2jM5FWgLY",
+    "5vmUuZFyQEKZALyxQzy9t6",
+    "7glzqUBop8ap2uWx9J0SC6",
+    "1bOjAQHYtPIsZfPAc1Qq61",
+    "7w2pLfy5C9tfssZSlxpJXU",
+    "6OVCo2oB8EQyvzCnI2nek9",
+    "1SjKeeRTB10boFevR2fyOv",
+    "6F0aZM4vU2b0uTm4Ry5Cp5",
+    "4x5GLTFPmE89oj4PjhmSKd",
+    "1AxEbZ9YeiU7GwxO2cClea"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b0b"
+  },
+  "songwriter_id": "2NqgE99Ll5vOTvmbN7O2R6",
+  "fans": 224743,
+  "name": "Boy & Bear",
+  "reputation": 60,
+  "genres": [
+    "australian indie",
+    "australian indie folk",
+    "australian pop"
+  ],
+  "recordings": [
+    "4HopuG8wQBlvXQ6xwA79FG",
+    "5PRN8ql17R8rcKnHo6Ajlk",
+    "0sfMc7DhDVGRuTvVb53s5v",
+    "2lLmKqitOFjnVHVGOazDsa"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b0c"
+  },
+  "songwriter_id": "10nZL5iEI60Z11z1BUtfRj",
+  "fans": 8832,
+  "name": "Graeme Connors",
+  "reputation": 36,
+  "genres": [
+    "australian country",
+    "australian rock",
+    "classic australian country"
+  ],
+  "recordings": [
+    "5l9DFjO7mFzsEa1TktdK3M",
+    "2TTCFRA36QQBh77L0ARI5t",
+    "23tUoTNNe9VWcKuI7Hdz3w",
+    "6gFen8CBsnamM8rf5gHxK7",
+    "6dD4mh9fMtiAFGrrGAXeLa",
+    "6IZOOUGRFsA4mUXTyUePo4",
+    "2VhcItFRQcCSz8NdQ0o6G4",
+    "4h2GBFc9MtwyR34FxwWk4F"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b0d"
+  },
+  "songwriter_id": "6DW1Yqi5B34jRtn9hPLvFp",
+  "fans": 82456,
+  "name": "The Smith Street Band",
+  "reputation": 50,
+  "genres": [
+    "aussie emo",
+    "australian garage punk",
+    "australian indie"
+  ],
+  "recordings": [
+    "0cZubG4EkYgsN3G1BYdKPL",
+    "02dbjppa0QT5KCuYxpyzEw",
+    "6ZJKPwTaEJSB4xHnCf4Sfp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b0e"
+  },
+  "songwriter_id": "2lyDLsnU3pS26GoJzrppCS",
+  "fans": 1845,
+  "name": "Angry Anderson",
+  "reputation": 32,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "2kObAQFp78CAvMYKZLQlHL",
+    "1rJnjpFes5MSrn0xphsTUN",
+    "2z2cMjYxNo9WxyghwzupDf",
+    "0bU7OwkG8DDSxf7JBh37r1",
+    "5cyULy8giI8txgxAT3c8wK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b0f"
+  },
+  "songwriter_id": "5a1eYf2G4v4UKubimlfGAJ",
+  "fans": 2042,
+  "name": "Joey Dee & The Starliters",
+  "reputation": 28,
+  "genres": [],
+  "recordings": [
+    "7dROEZTDD4nWtf4tywSt7j"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b10"
+  },
+  "songwriter_id": "78n9nsu9Z5URFwrV32Wokk",
+  "fans": 6024,
+  "name": "THE SPORTS",
+  "reputation": 30,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "recordings": [
+    "5fMv3MNuPtmXyudS7qlPkV",
+    "1AZUd42rO0ei1FEFG6Ttf6",
+    "6pmVvhatwvrBTlC37kAgqV",
+    "2OVYUgDIGjqSsSTXEsaVg4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b11"
+  },
+  "songwriter_id": "6eQ3AHw7yEVoX87xDS1ZiP",
+  "fans": 55634,
+  "name": "Killing Heidi",
+  "reputation": 44,
+  "genres": [
+    "australian alternative rock",
+    "australian pop",
+    "australian rock"
+  ],
+  "recordings": [
+    "1umlKmiauqM9GFnk25HwCb",
+    "4U5pHHkjDW6smXnnEt7Umx",
+    "73jnxgAGluuFRGxP7oFnXt",
+    "0lCj03FXDWpXu6smlujEey"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b12"
+  },
+  "songwriter_id": "3CDzOX9D1buMRHeTNFHXMm",
+  "fans": 40985,
+  "name": "GANGgajang",
+  "reputation": 45,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "5hC6zj0AL4iwOBm7eepgEj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b13"
+  },
+  "songwriter_id": "2raahe5HKL8Fd4H03JP9es",
+  "fans": 5473,
+  "name": "Aerodrom",
+  "reputation": 32,
+  "genres": [
+    "croatian pop",
+    "croatian rock",
+    "yugoslav rock"
+  ],
+  "recordings": [
+    "6pHC3PR0Ia6Dt2SafTUodB",
+    "2IJ10uMYCmUD1djhk0cI9S",
+    "4ClUnnn772Ju8RFyfxhN6Z"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b14"
+  },
+  "songwriter_id": "2O7qtwbMUKIK1Va8EF48Pr",
+  "fans": 11107,
+  "name": "Kids In The Kitchen",
+  "reputation": 30,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "6H57i1EV2JfkpvYi4zO4E5",
+    "2PokM5DfJJW20jQOyVVxPJ",
+    "4GiP4BZVEztoEIH4KuT7I1",
+    "09mfCChKFyaGkdY18Idflu",
+    "3bdEPMkwIV5Bs4Z4h7KEeW"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b15"
+  },
+  "songwriter_id": "5ydii9WwX1NPG6k5lrAb6m",
+  "fans": 11838,
+  "name": "Ratcat",
+  "reputation": 35,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "recordings": [
+    "5MGtAZeDVFvJUdB1fGaMgM",
+    "64iZLIYuqRR8rNedN0Yvnh",
+    "2ZIRNLB7nrc03MgpdW8CDI",
+    "2YbwkDu7LATFJAuhyOBUTI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b16"
+  },
+  "songwriter_id": "7MVIWM1HQ4AJ9MdWWwwK1z",
+  "fans": 811,
+  "name": "Matt Taylor",
+  "reputation": 22,
+  "genres": [
+    "australian blues"
+  ],
+  "recordings": [
+    "4E5H5fqw4ckghQmX0Zpjmq"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b17"
+  },
+  "songwriter_id": "7o0zXmlrHW4OT3AZCUHMaW",
+  "fans": 1095,
+  "name": "Hush",
+  "reputation": 22,
+  "genres": [],
+  "recordings": [
+    "4LHfbj11Teq1fK57UUAsCT",
+    "2nJx2VF14TGiqItgUSWbyn",
+    "6UqUD0QUJts2BdlrP50jGo",
+    "1M9yX3n1YzVsXHDSdkjnj8"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b18"
+  },
+  "songwriter_id": "3UmfCgpdKzg2WTa6453o4E",
+  "fans": 10854,
+  "name": "Ol' 55",
+  "reputation": 29,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "3u15HIfwOuesnY5Bn27eXm",
+    "2lERSnSw1xBZYogcrU2Ntp",
+    "4OyP0EYBhR5PoeFBwlcTGO",
+    "5tyJFNpm94NvSKZA31H4r4",
+    "5DSQxU0SHRhLhGR7uiIfjZ",
+    "7Cq0QcAsdZPi794LY5HcXP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b19"
+  },
+  "songwriter_id": "6jIVYCgMJgMtdqKO8pbMY3",
+  "fans": 10658,
+  "name": "Uncanny X-Men",
+  "reputation": 28,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "4sWh622ZgNeokhyhlR7X9e",
+    "6G6QWAJfaTiI8KwEGKty6D",
+    "5F5RMPC6jrUDrPFLhXVtqN",
+    "6jXHhE9gLb7pOtwdQ99d5g",
+    "1U1TM370mRy32GlRmPxFxd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b1a"
+  },
+  "songwriter_id": "2fczAptz6g62e12F9LxYI6",
+  "fans": 58698,
+  "name": "The Whitlams",
+  "reputation": 44,
+  "genres": [
+    "australian alternative rock",
+    "australian rock",
+    "piano rock"
+  ],
+  "recordings": [
+    "6Lsj7lUt1kcKtVWE02BxBK",
+    "1iNkpCJOAOokeapM774xGE",
+    "4uCtXyE3HgeFTu6py7p9qW",
+    "0vlAjnJdVsoh1nUfwdR3JE",
+    "054NRH22MJwGvW52hISY5O",
+    "1qGAxJaUOr2ro8HaDI1GXx",
+    "3heaUJlrW5IyLEYkwaMX1T",
+    "3JAlpnPIOhXur3QRVR2bXB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b1b"
+  },
+  "songwriter_id": "1nCht41FuMcmG1FIoyjWCH",
+  "fans": 22918,
+  "name": "Taxiride",
+  "reputation": 43,
+  "genres": [
+    "australian pop",
+    "australian rock"
+  ],
+  "recordings": [
+    "0r4IWIanmyhOueD888Ztwf",
+    "4n6qCrHzgjw0qcjg02AWi0",
+    "0l3sVjZbVPao0RlEg2NAyS"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b1c"
+  },
+  "songwriter_id": "5PbZIYWcDuRgEbMs7abSTH",
+  "fans": 4332,
+  "name": "Ian Carey Project",
+  "reputation": 49,
+  "genres": [
+    "pop house"
+  ],
+  "recordings": [
+    "7lLvyMx4KFDixMBJ94bcAJ",
+    "6PRVTsvb4Ofp8dtNqHUJkc",
+    "0hRZYb7QcMzgl4Ntqzo7Or",
+    "4acrpgt0ru7p8QWxyvYFtZ",
+    "0YiReIeCQKpsxD0p1ANcgk",
+    "76juDmdOF5jly6YlTcmSnJ",
+    "3Qce9unbQ0HmStTXg2dKtG",
+    "3mxOC51SA3jjzEDmgFAplV"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b1d"
+  },
+  "songwriter_id": "67dnqvT66VC7F7EEMbhfWS",
+  "fans": 1280,
+  "name": "Blackfeather",
+  "reputation": 16,
+  "genres": [
+    "psychedelic blues-rock"
+  ],
+  "recordings": [
+    "5up9KPZw2576erDQ3xCmlc",
+    "0b8NSp03mAkWHZoQYRYvO4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b1e"
+  },
+  "songwriter_id": "6AETRCQep85mUtIlX7BaFV",
+  "fans": 20203,
+  "name": "Color Humano",
+  "reputation": 25,
+  "genres": [
+    "argentine rock",
+    "rock nacional"
+  ],
+  "recordings": [
+    "1Mq2dQTepr89jGZpUM9R3O",
+    "1Xt49c7S2rjLGUxEPGezzV",
+    "6gWplVwr7ta6vpp2DSCo96",
+    "5J6CXkqNiNyQDe4Qcv5FTU",
+    "6eTVvF2PudAASKQjuqWJAM",
+    "1qgvilHimZIkfz4BNn97si",
+    "73IxOrxYomTjqO0Vn0E8CV",
+    "1eb3ETW2lwDuVFnuVM7dXJ",
+    "0hbyLyXa4KGfD6zZCJwJwK",
+    "1abOzmags4Lm1G4PUlMV5h",
+    "09ogaUQvbM4PnmfOT0tBdq",
+    "14xZmzlQl2MGgZRR53hgJO",
+    "4T8WTggt5csEkCmahz2881",
+    "56V1FlqU8QR7e5s5oLSbF1",
+    "19NLZJoHgfyDOgpwjcKPYL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b1f"
+  },
+  "songwriter_id": "6tABMXblSHdJq8tV4hMBK3",
+  "fans": 4310,
+  "name": "Milance Radosavljevic",
+  "reputation": 29,
+  "genres": [
+    "narodna muzika",
+    "sevdah"
+  ],
+  "recordings": [
+    "1u4bm4vmE7R3vco75gQsbC",
+    "5T4EC54iNAPUNn8tjHMbDg",
+    "6GVf2HY2SKywqWDtIlcO9x",
+    "0DvZMiLtOqz2T6gyxVFWiH",
+    "4oWt8gkWg0C7cs85dnAS3o"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b20"
+  },
+  "songwriter_id": "4c6RPvqSQZ0OwpNEQrgjVL",
+  "fans": 1070,
+  "name": "Hugo Midon",
+  "reputation": 25,
+  "genres": [],
+  "recordings": [
+    "5CFDU39SInr5JBv1cCSw17",
+    "6nyJtbjCbEQou6CMrDjDnX",
+    "7JEW1p1ZRQFJvQx2DQBiei"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b21"
+  },
+  "songwriter_id": "6c9FzXhLIBgreWOkqdPPH1",
+  "fans": 335,
+  "name": "Carlos Gianni",
+  "reputation": 25,
+  "genres": [],
+  "recordings": [
+    "5CFDU39SInr5JBv1cCSw17",
+    "6nyJtbjCbEQou6CMrDjDnX",
+    "7JEW1p1ZRQFJvQx2DQBiei"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b22"
+  },
+  "songwriter_id": "3EYczbK5GQd1kfINZAU53A",
+  "fans": 1003,
+  "name": "Ulli Baer",
+  "reputation": 20,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "4R2bTrEhOcL8bUMqz8ZyH3",
+    "4RltMy2UUfVZZMwc77xVvu"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b23"
+  },
+  "songwriter_id": "42MtvWbpLboJmThRItMWSZ",
+  "fans": 7635,
+  "name": "Cecilia Todd",
+  "reputation": 25,
+  "genres": [
+    "classic venezuelan pop"
+  ],
+  "recordings": [
+    "1krnYeQFhqh1monCQCJSvT",
+    "1wIIv29O9j2SpYjZ9oSldm"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b24"
+  },
+  "songwriter_id": "5R5eccQc8EF4ROO0HNRW9m",
+  "fans": 744,
+  "name": "Bruce Rowland",
+  "reputation": 33,
+  "genres": [
+    "australian classical",
+    "oceania soundtrack"
+  ],
+  "recordings": [
+    "6ADqO4tqj4L1RujBcGYemW",
+    "6MPad9oXUvP4UsaC2l94a2",
+    "0ot7v4gZ7994klpEIax6mD",
+    "19mQ7KAK6gqR0VNVetGeQf",
+    "2ayYAp60J3JM5iqwYkkYy7",
+    "5SNtzQht6DXdbTAkqtZfOw",
+    "4uCbWZ6T1nb8ps5UZuwJn7",
+    "0jDEpjnD4fosk2K3C7suEw",
+    "5ciu2kSglK3ydoiRbFdXx2",
+    "71r3gnMYKmT5LLmMrz6SAl",
+    "7LIvCDPcD97drmSTgnPbki",
+    "2rQq8TPiawdNyIK5uNRtUM",
+    "44x52VLThMSHefrPXSNyYp",
+    "4yUHVDBq1Jq05RwMtUVQb7"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b25"
+  },
+  "songwriter_id": "0XLhfP0Nt0IYLLKqfWjnbb",
+  "fans": 2345,
+  "name": "George Kranz",
+  "reputation": 36,
+  "genres": [],
+  "recordings": [
+    "2Os4d9KF1Z0NPWnGJODaRs"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b26"
+  },
+  "songwriter_id": "75TWu6cZrPyBeB9k2MLuma",
+  "fans": 11263,
+  "name": "Ostbahn-Kurti & Die Chefpartie",
+  "reputation": 35,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "0N6s9EmhiZv7mCOqyIUp4s",
+    "6yhIhSley6UYLPLNRVXJLS",
+    "6foC8MDPtUNSSocJdztVfk",
+    "0kpPL0p2FZa8E3ZklMwMUA",
+    "0KH7LydkCmadhsnOds3DnT",
+    "4MoHlM2rd7mGY9Kc9VrCd6",
+    "1zzozpSgT4B3i3wPrtEaKc",
+    "1adYlRHhVStHNY2iOpFZek",
+    "1w7PQAMSZt7nRGIOtiyTBJ",
+    "3B2TNuWqTDrWq317Bdpuvj",
+    "2Fjzhlsy46fLjUoZWtpiae",
+    "169CsTxczhRvKa1WA6Kzut",
+    "5r221LVru97xLlmCkAcypF"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b27"
+  },
+  "songwriter_id": "7mU7GZdZcudkj1cF5RFoUO",
+  "fans": 5771,
+  "name": "Boris Novković",
+  "reputation": 34,
+  "genres": [
+    "croatian pop",
+    "yugoslav rock"
+  ],
+  "recordings": [
+    "5d0LjggeuMPbzqsLhf5FzC",
+    "5yrWvCrWrqK4Pk1pGRVkXM",
+    "39QFQaLPgA9uekdvY61BD4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b28"
+  },
+  "songwriter_id": "27EJnmD3j3yVZzEPYUyGup",
+  "fans": 949,
+  "name": "Carl Peyer",
+  "reputation": 23,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "74k4khe4FU0nUkQWBvfWkn",
+    "2attTYuB1Wivum2ocEm1wT",
+    "1Uxq2bcLwr9CDuQ28gWMKL",
+    "0XKyugyhpnM5sy7ghI3SJU",
+    "2rvUgDE7wGjoy3pzrO29fQ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b29"
+  },
+  "songwriter_id": "5Y9q3CBPhPwRBbuJj5TP62",
+  "fans": 362,
+  "name": "Alen Slavica",
+  "reputation": 25,
+  "genres": [],
+  "recordings": [
+    "6rLb5XFKahbTI6ZDUemlJa",
+    "4gadccYawatdtQfm6fdRFA"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b2a"
+  },
+  "songwriter_id": "5Z7pOsavFP8sACkWxYHMW1",
+  "fans": 7409,
+  "name": "Big Pig",
+  "reputation": 31,
+  "genres": [
+    "australian rock",
+    "double drumming"
+  ],
+  "recordings": [
+    "3FUXIiVAVbifAEYXdcUBbb",
+    "7DLe5d6DPmsHTsExc7Kemu",
+    "4VjEEqn7DlFlo2pzXeF5UA",
+    "4KboYSX5SqpT4TIbGVU5ti"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b2b"
+  },
+  "songwriter_id": "3N4ZBIXZfvF0VLgEclgJvX",
+  "fans": 8855,
+  "name": "Enes Begovic",
+  "reputation": 35,
+  "genres": [
+    "narodna muzika",
+    "sevdah",
+    "turbo folk"
+  ],
+  "recordings": [
+    "2fWw2jusTDCz82l2FPSxpo",
+    "3ESRmuzfFqVCD9lGp0lvTE",
+    "6O3K8BEiSvOFX295W5aSZy",
+    "47DEiMAkfXUc33BHaJCfPR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b2c"
+  },
+  "songwriter_id": "5YL5sKtxi1J4bApusQ2uwI",
+  "fans": 38778,
+  "name": "Thomas D",
+  "reputation": 38,
+  "genres": [
+    "german hip hop",
+    "german pop"
+  ],
+  "recordings": [
+    "1rQRYIhKeQtxyasMQfg5lY",
+    "5YXI1M3ZpgxgXwpMvfHAMN"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b2d"
+  },
+  "songwriter_id": "6E4eoLJTZYyIC5cZVg6fDx",
+  "fans": 27869,
+  "name": "Kate Ceberano",
+  "reputation": 37,
+  "genres": [
+    "australian dance",
+    "australian pop",
+    "australian rock"
+  ],
+  "recordings": [
+    "03Bgy8sbBMxyQ3yYNwhTxR",
+    "4gLz8C5muA3c4cKPWpcPjE",
+    "3KOuDB3KwpNW2CmXOp1JT1",
+    "5Wgo3dYtNCuTZR6SXMbCZ6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b2e"
+  },
+  "songwriter_id": "1HWqgnE1js4TDGa4rfwOSH",
+  "fans": 2164,
+  "name": "Relax",
+  "reputation": 34,
+  "genres": [],
+  "recordings": [
+    "4uOTs0o1n26fdlKzAwL4jG",
+    "3SVo7iJk6KQYwfkqlpAZNS",
+    "7GqgZAFTXyP00HWZ3LBtHH",
+    "552FJeoHHKND6lnMxPeWqR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b2f"
+  },
+  "songwriter_id": "5AmJYBIvICxss43P05MkU8",
+  "fans": 111419,
+  "name": "La Ross Maria",
+  "reputation": 60,
+  "genres": [
+    "dominican pop"
+  ],
+  "recordings": [
+    "3JgGutjAwNXGAxcXaqVgWe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b30"
+  },
+  "songwriter_id": "7eZq9rAksJe2LfpUQ3ng59",
+  "fans": 1451,
+  "name": "Tutti Frutti",
+  "reputation": 28,
+  "genres": [
+    "croatian pop",
+    "croatian rock",
+    "yugoslav rock"
+  ],
+  "recordings": [
+    "1lEGCuJVU81NkMwWQAZ0hC",
+    "7CFqF4jh3toJbjY2DjqXY4",
+    "0ZOqVG4gK3VCXoXFfN7ERG"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b31"
+  },
+  "songwriter_id": "2LyXoG111QdqfI0HLYQgvS",
+  "fans": 27188,
+  "name": "Bodyjar",
+  "reputation": 43,
+  "genres": [
+    "australian alternative rock",
+    "melodic hardcore",
+    "skate punk"
+  ],
+  "recordings": [
+    "0q6Qyd2QaHMHp7APKyQsyi",
+    "1FCRwAc7gICLzdd5pjFWuK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b32"
+  },
+  "songwriter_id": "7Lk3qnu0GGnvG33t23iz5k",
+  "fans": 12276,
+  "name": "Alex K",
+  "reputation": 42,
+  "genres": [
+    "bouncy house"
+  ],
+  "recordings": [
+    "4rbhlfkFS6m7Ft8I0avwzu",
+    "7F53Dz0aO9Piy52w8iGdiB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b33"
+  },
+  "songwriter_id": "1wELOF6Lb5TckxS5EiiQZe",
+  "fans": 10689,
+  "name": "Don Cornelio Y La Zona",
+  "reputation": 35,
+  "genres": [
+    "argentine indie",
+    "argentine rock",
+    "post-punk argentina",
+    "rock nacional"
+  ],
+  "recordings": [
+    "7Gl2RyA6Vn4KdgpacprbUg",
+    "1qBr7Q9iOS46pWBWgIzY0B"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b34"
+  },
+  "songwriter_id": "6nv55DhqbeO8YUWFCfFAys",
+  "fans": 1506,
+  "name": "Zoot",
+  "reputation": 20,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "195BSMZC1sjaNqt8NziMh5"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b35"
+  },
+  "songwriter_id": "3nJsM5uIME4qqS0dD0K0mo",
+  "fans": 1611,
+  "name": "The Ferrets",
+  "reputation": 23,
+  "genres": [],
+  "recordings": [
+    "6zU7qPbE6S9ShTSToWTgEp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b36"
+  },
+  "songwriter_id": "4cpMQdcPKsbw2SaTjGazQf",
+  "fans": 27296,
+  "name": "Radio Birdman",
+  "reputation": 35,
+  "genres": [
+    "australian alternative rock",
+    "australian rock",
+    "garage rock",
+    "protopunk",
+    "pub rock",
+    "punk 'n' roll",
+    "punk blues"
+  ],
+  "recordings": [
+    "04gqgeTOQwtg6f9YwgU4vW",
+    "2QGCeYmbherfGblF6l5GT9",
+    "0qYHgNDXzmzvXJay9AZTZ3",
+    "4pmtalVrMkuK3lWTu8ZFJv",
+    "0LsNb1Yf4n5ARwxNn5todl",
+    "3cCjlsLgeH2VjRxlbWVGy6",
+    "6iaNR28S0lXot1tmFbgld4",
+    "0QOeIfBIy0l5Ej3ssTfdjS",
+    "6iCEGRzxxp5xaruaSDFmNc",
+    "4G1InSK9BiZ4c1irTtZKYo",
+    "0JSFzKUkAePxQOsCcIc2WB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b37"
+  },
+  "songwriter_id": "0ND4nMCVbGAnwrBP9uIfoc",
+  "fans": 2261,
+  "name": "Matt Finish",
+  "reputation": 21,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "36ayIrJqte6HScXUCjeaWs",
+    "6sxfNlkKfoD8UbdwYBGbUn",
+    "6ZMkZrPgJN2U7p3wKui7dZ",
+    "5XIQ9BbIuDGyLoaoGm6YKz",
+    "6AzBTqU88T9roQUt2BotJw",
+    "5Mtze7NjGpMRkXTPNMVhMu",
+    "1xzTonyRIpEKKm5sajEsLR",
+    "4NhBrrULX56njnzGqrMkUF"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b38"
+  },
+  "songwriter_id": "16uR0wl5ShrtluUW707XPv",
+  "fans": 631,
+  "name": "The Little Heroes",
+  "reputation": 28,
+  "genres": [],
+  "recordings": [
+    "523uk3CDXUNSXPAMqFvibP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b39"
+  },
+  "songwriter_id": "0aRJShMkUsHVCyCw5Klxj3",
+  "fans": 5099,
+  "name": "Do Re Mi",
+  "reputation": 24,
+  "genres": [],
+  "recordings": [
+    "2wtqBurDM5kxuH6WhxwIJr"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b3a"
+  },
+  "songwriter_id": "5ghiRwgyYZfnmC0Upu6ZtR",
+  "fans": 6607,
+  "name": "Machinations",
+  "reputation": 25,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "0i1m5yDNgR3sr6CyIIqf1G",
+    "1fSiCwCfOBGh3Cij6clWXx",
+    "7IjYBLX4MCVV9Ro4yjzGG7",
+    "4o3E2kCwXoxVkr0hid3hVY",
+    "2CKZS6WdOyj9hjgW0H4DLI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b3b"
+  },
+  "songwriter_id": "4I0BixMk7zPyKimeO3HrTa",
+  "fans": 1656,
+  "name": "Don Spencer",
+  "reputation": 33,
+  "genres": [
+    "australian children's music"
+  ],
+  "recordings": [
+    "0YMBXD9yNAw8ev8BoTfcMJ",
+    "4tbOVXJqJ2EMDTUcYjrcC6",
+    "4U9l9kAmodjVJ0dTp5hq16",
+    "6mjcz1K35CHG96EtTTUWND",
+    "1r2PNOIi1gDsExtPWnNLlw",
+    "7HiMeq0ZrcYUfdNZUMXSbW",
+    "3TkEWQ2ANnciTPiFK30iNj",
+    "4CwHsiEjypqdfE1ZtO2J8E",
+    "0KwfMQs2srJLMR8G2LtleS",
+    "1YbF9iPq6MMCa9kkaYsVwR",
+    "3MCBO2VULkxSfteGU3DOQM",
+    "5V1GoFLW4HP0uSKu6nHiav",
+    "7jhMF0EpgvbALY6KZLYxqW",
+    "5O7baxNJk3cSMy5MyiB6gj",
+    "4MSAwLKHiXnFyzOzHwR342",
+    "3EuA9KKFy5Ib6ibWH21Kha",
+    "6saVsW4bPQOWWlN751EhX7"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b3c"
+  },
+  "songwriter_id": "1s64XtBG170B6uqwJDBGzc",
+  "fans": 6785,
+  "name": "The Party Boys",
+  "reputation": 28,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "0wmey5UfcFvYvlp7y0uopE",
+    "5ByLgz3RnV0hyVkrsfXqDG",
+    "0ElpKZNMt9RXVlVTy8SS8V"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b3d"
+  },
+  "songwriter_id": "4LtYxILg8YPMwQjKnXb5kh",
+  "fans": 21703,
+  "name": "Archie Roach",
+  "reputation": 38,
+  "genres": [
+    "australian alternative rock",
+    "australian indigenous",
+    "australian rock"
+  ],
+  "recordings": [
+    "2PolnevtHIyrxe6CjWYpXx",
+    "4eY6lTOvMqWwy5IVk0A2lb",
+    "3XhjdHcb8Hi4zBPCkneDYz",
+    "5KakKpFCklLrOgPGqDDI2H",
+    "41KNztI95qBxE9t3XTgIeY",
+    "1UDGMEyfgWwKKq9nsjkFop",
+    "6G8jb6hHEL5rzQGIBNTeSZ",
+    "6PPJ8tkzIsb4XwKj3UHsyW",
+    "0NEd5Wd0cj61CsUwQ7rCjc"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b3e"
+  },
+  "songwriter_id": "3l1Tuoqd0JXoaOrAiOyrB0",
+  "fans": 17010,
+  "name": "Deborah Conway",
+  "reputation": 37,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "recordings": [
+    "1HXaX12pA7jVuwUczy5UOd",
+    "2YMWa5EveQZrgbvJOf8GYS",
+    "6vRLVUDcdUhSkpQEx8Wjk5"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b3f"
+  },
+  "songwriter_id": "7EUjDdRgLHcgFIL4sfhvFo",
+  "fans": 3397,
+  "name": "CDB",
+  "reputation": 36,
+  "genres": [],
+  "recordings": [
+    "7K4AUODt2GjZdizNkJkJ1c",
+    "2ADU49RKktDsdPj0vKqJ6j"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b40"
+  },
+  "songwriter_id": "7o9kdTx6RmO12iAVVsNehd",
+  "fans": 35587,
+  "name": "The Superjesus",
+  "reputation": 41,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "recordings": [
+    "29bqMdlCPKCxdj4Yb2Yyce",
+    "6U8koDtkewQRZPl4X3xQxs",
+    "1B7tV3WzEnDUS7wXSKDXk3",
+    "1z9avEqOLYsjuK9YtJ5kfm",
+    "6OzX6yfsK7Bbp5qPSgjdbP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b41"
+  },
+  "songwriter_id": "0NXVGrFkPu0Cohh3BJV5Wx",
+  "fans": 29855,
+  "name": "28 Days",
+  "reputation": 41,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "recordings": [
+    "0EcdmJCR4pURncLgeeBYvl",
+    "3BHwgqKfFUlqHxUuXxsrP3"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b42"
+  },
+  "songwriter_id": "5EkpFNNGJTnndTQLzqTFut",
+  "fans": 3124,
+  "name": "Deni Hines",
+  "reputation": 38,
+  "genres": [
+    "australian dance",
+    "australian pop"
+  ],
+  "recordings": [
+    "09cipkVDxpgmbgG9HCLYjq",
+    "4oX4WNqPhgKQrl5W4tdt7V"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b43"
+  },
+  "songwriter_id": "3YUrEElXpqiPSbffh9XXZd",
+  "fans": 21818,
+  "name": "Rogue Traders",
+  "reputation": 42,
+  "genres": [
+    "australian dance",
+    "australian pop",
+    "dance rock"
+  ],
+  "recordings": [
+    "5KVll4Si4pL02nmrUvAHrc",
+    "7uU3Jb0ELZN8ilYwwMdEjd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b44"
+  },
+  "songwriter_id": "6B9zcemB6pCVlbLac9pwWF",
+  "fans": 43352,
+  "name": "Hillsong Kids",
+  "reputation": 45,
+  "genres": [
+    "vbs",
+    "worship"
+  ],
+  "recordings": [
+    "6EDgHoK9DJgJ6OY3EHXbDe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b45"
+  },
+  "songwriter_id": "51K48NCxjB11t9eqUWWoIq",
+  "fans": 19660,
+  "name": "Youth Group",
+  "reputation": 46,
+  "genres": [],
+  "recordings": [
+    "0rdEIRgDyH03nwzk7cbbh2",
+    "3tFECpGckFpp0HpQje78gi"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b46"
+  },
+  "songwriter_id": "0vntgse6gPZfthoW8kTTlR",
+  "fans": 23238,
+  "name": "Augie March",
+  "reputation": 43,
+  "genres": [
+    "australian alternative rock",
+    "melbourne indie"
+  ],
+  "recordings": [
+    "5gPL7XvlYmX922oyxscYH4",
+    "5JLy9IPZhFwmPBlPjcqDL0",
+    "138tRBHtGif2seu11dLvlm"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b47"
+  },
+  "songwriter_id": "5FWTu1MZdB5fjKif2rZldJ",
+  "fans": 117070,
+  "name": "Easy Star All-Stars",
+  "reputation": 52,
+  "genres": [
+    "dub",
+    "reggae",
+    "reggae cover",
+    "roots reggae"
+  ],
+  "recordings": [
+    "09GSwI8Yh7MUHTU2VpHm7z",
+    "5QREkNN2kAKUsXppK9Vrcu"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b48"
+  },
+  "songwriter_id": "4UzQ37Y0rzonVpsXpcNyFH",
+  "fans": 64681,
+  "name": "Josh Pyke",
+  "reputation": 50,
+  "genres": [
+    "australian alternative rock",
+    "australian indie",
+    "australian pop",
+    "australian singer-songwriter"
+  ],
+  "recordings": [
+    "2xN6Xkcx09kPPlNR7gPZRV",
+    "0MIoXOgLcUKRJEtb1rKh17",
+    "1nRXsbBZhdgN6a5JUo8MSn",
+    "3va4xUnfKX40Mux99pOqai"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b49"
+  },
+  "songwriter_id": "75jU2q0uEWzSIlqRJtedJV",
+  "fans": 92590,
+  "name": "Sarah Blasko",
+  "reputation": 48,
+  "genres": [
+    "australian alternative rock",
+    "australian indie",
+    "australian singer-songwriter"
+  ],
+  "recordings": [
+    "6fG3vZYXmaocQnKT8G2ZN2",
+    "5H8rK4MwmqpBd9u0V0oDVa",
+    "5quDJPCAum2ZXgadOI023X",
+    "7pBpdziMk55LaCJrNJPuZx",
+    "0OUWImDyxZMP0myhpiwQpo"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b4a"
+  },
+  "songwriter_id": "74WcfqC2hmUFHEJs0PDqYi",
+  "fans": 13782,
+  "name": "Little Red",
+  "reputation": 43,
+  "genres": [
+    "australian indie"
+  ],
+  "recordings": [
+    "3gkUWlXM4gDUZbKn5WO3N9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b4b"
+  },
+  "songwriter_id": "7sCcPQQft3sSxcJaB30dlb",
+  "fans": 34884,
+  "name": "Bluejuice",
+  "reputation": 48,
+  "genres": [
+    "australian alternative rock",
+    "australian indie"
+  ],
+  "recordings": [
+    "3HLicjnTcxTyykFvlHJxd7",
+    "32G0h9eJinZuDu89USLU2V",
+    "0pBVEfjoWDErPWlboJbRdR",
+    "5Qk1mCqD5rUiWK2p1XABG4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b4c"
+  },
+  "songwriter_id": "0dwYOqqBADcpYOJRmlZSgH",
+  "fans": 42237,
+  "name": "Big B",
+  "reputation": 46,
+  "genres": [
+    "rap rock",
+    "redneck"
+  ],
+  "recordings": [
+    "2Atez6pjDhWglsk36nZ7T6",
+    "6VgWqvetn0KUnSQoyUG4GT"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b4d"
+  },
+  "songwriter_id": "1ououJVWgWsHWMYDLvT7sH",
+  "fans": 114763,
+  "name": "Ball Park Music",
+  "reputation": 56,
+  "genres": [
+    "australian garage punk",
+    "australian indie",
+    "australian pop",
+    "brisbane indie"
+  ],
+  "recordings": [
+    "25u1ohVuLSEcTaFjIXNkz3",
+    "1yHldU14rCkhzrXtgaqndu",
+    "7cSP0MGGYVANF20tjeI1JV",
+    "4wKt0DEnwfG41G4BFmzMHc",
+    "1byz2Dig9pILIfya2X1WGS",
+    "50QieT02ZZJZ5EHDie1dCR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b4e"
+  },
+  "songwriter_id": "07Q9n9pbwR6jQ8xH4SA46b",
+  "fans": 95042,
+  "name": "Justice Crew",
+  "reputation": 51,
+  "genres": [
+    "australian pop",
+    "australian talent show",
+    "dance pop"
+  ],
+  "recordings": [
+    "0UmXSUCoE2I67n8ERd0Hdi",
+    "71CgN6BVkaXFNB5xPnvY9o",
+    "5YdPlbnZLbnCjTFyfap1zN",
+    "10kcfnWl3qEaKJNGP28AKy",
+    "7zdKMUR80sJMrP0BYrmUDK",
+    "0ZShFfdyPtOTgLkUr8a4pa"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b4f"
+  },
+  "songwriter_id": "5gcDZA9xXCOspWgQilUYIu",
+  "fans": 64438,
+  "name": "The Preatures",
+  "reputation": 49,
+  "genres": [
+    "australian indie",
+    "australian indie rock",
+    "australian pop"
+  ],
+  "recordings": [
+    "3OIKgKNUt87GHz8OmmHZop",
+    "71l93iUkmRg9jpeAgjN3LU"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b50"
+  },
+  "songwriter_id": "500YRyClzP6Z7HtWd1BIje",
+  "fans": 42423,
+  "name": "Northeast Party House",
+  "reputation": 52,
+  "genres": [
+    "australian indie",
+    "australian pop"
+  ],
+  "recordings": [
+    "1TOkbYusbOHXEVxTWfU02m"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b51"
+  },
+  "songwriter_id": "3D04EJ7Bvcko5xB2UWolID",
+  "fans": 248,
+  "name": "Decidic FX",
+  "reputation": 49,
+  "genres": [
+    "environmental"
+  ],
+  "recordings": [
+    "7pjG0uixjZKFqsj05SJIOi"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b52"
+  },
+  "songwriter_id": "3Qs1EAnyqWLaNqk0wHS63M",
+  "fans": 4463,
+  "name": "Rain Sound Studio",
+  "reputation": 58,
+  "genres": [
+    "sleep",
+    "water"
+  ],
+  "recordings": [
+    "18aGDOpPblt4w29uE9NMbd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b53"
+  },
+  "songwriter_id": "2C1zgkYFPzuU7GBM66c1S9",
+  "fans": 21815,
+  "name": "Victor J Sefo",
+  "reputation": 48,
+  "genres": [
+    "jawaiian",
+    "polynesian pop"
+  ],
+  "recordings": [
+    "7nU8U3l1MbQupRDP8YACUv"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b54"
+  },
+  "songwriter_id": "2IP71LH7CbwddhsEXBI0fy",
+  "fans": 22328,
+  "name": "1991",
+  "reputation": 53,
+  "genres": [
+    "drum and bass"
+  ],
+  "recordings": [
+    "1bKLxdg9QOkwcOy3PYv7Fk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b55"
+  },
+  "songwriter_id": "5u0dE6Vw509dFP0YK5y8lc",
+  "fans": 1497,
+  "name": "Epic Soundscapes",
+  "reputation": 59,
+  "genres": [
+    "sound"
+  ],
+  "recordings": [
+    "7rQ1E6bl6UMhrRhf8quVIR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b56"
+  },
+  "songwriter_id": "38wtgSBaCeiA3hxkWuYvwy",
+  "fans": 164,
+  "name": "Uama",
+  "reputation": 1,
+  "genres": [],
+  "recordings": [
+    "72Faiea3KeWo41vFfnW6T2"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b57"
+  },
+  "songwriter_id": "6rd2bxN4Z9rdmG39X23dmd",
+  "fans": 177,
+  "name": "Johnny Smith Trio",
+  "reputation": 10,
+  "genres": [],
+  "recordings": [
+    "3fbJi6LMjd55lYAiVoTSRS",
+    "6kCjsFvmnm8f9p1krnt90M",
+    "03odHr5nFrklbQJ7H71wOH",
+    "3hzug7ocSnBYjpKDl36I0M",
+    "74F1vG0PhTGKCcqV4fxOJB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b58"
+  },
+  "songwriter_id": "2hnvTF9jhYWs6iEWdmJ50b",
+  "fans": 3016,
+  "name": "Chain",
+  "reputation": 24,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "4Dm8Fvuapc297EHBxkuc28",
+    "4hDbDXaGnBylXUSBVx3fPW",
+    "1LqQdcT4MvoWb7jvCUyljE",
+    "47Yj9vq1pJZtjZGbO7lIxF",
+    "0ch4rUu1FdWXt1qOh6cgGF",
+    "3U0JWqzYPpHhH7kAOTB1rF",
+    "4IaicLXqSDxao8TaouXyNL",
+    "37JXJGvO4YIlTqJ3UOPjpC"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b59"
+  },
+  "songwriter_id": "6ysvKUB9wvh3iY18obS8dT",
+  "fans": 2271,
+  "name": "Medklang",
+  "reputation": 48,
+  "genres": [],
+  "recordings": [
+    "1Nsnj3Po7gY4nf6UOrPyuA",
+    "6E6IinmDkW1upcokHAjsnz",
+    "4BvRkuyqBuzyICjSgl7IbH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b5a"
+  },
+  "songwriter_id": "0xEo4m46co9IGYyLQ5gRjp",
+  "fans": 5037,
+  "name": "Oliver Mandic",
+  "reputation": 31,
+  "genres": [
+    "yugoslav new wave",
+    "yugoslav rock"
+  ],
+  "recordings": [
+    "43OYBT58I1u5JqkPBGXk9L",
+    "5sCb8lhJ5kfJ6DFLAdfdDj",
+    "4vh4iPaADbbLDFrnELsuzS",
+    "0MmmG0xAtWqEtOcq5oN2KH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b5b"
+  },
+  "songwriter_id": "3xFLWu0BzO1O5ba9QduoVN",
+  "fans": 1114,
+  "name": "Johann K.",
+  "reputation": 19,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "4aO2vZdlarxxJuGgs8yXzb",
+    "50qpIfnO77DsIGvvIMfJmK",
+    "17OKfy9UXsLhnWhHJN5W8f"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b5c"
+  },
+  "songwriter_id": "29ruXKXBILdJvUe4stHvFZ",
+  "fans": 2378,
+  "name": "Pro Musica Niños Rosario",
+  "reputation": 19,
+  "genres": [
+    "musica para ninos"
+  ],
+  "recordings": [
+    "7D8R2hT9LOMChLHMlRuh0X"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b5d"
+  },
+  "songwriter_id": "3xycgFpr4XMrrogwChK3zw",
+  "fans": 4603,
+  "name": "Mario Álvarez Quiroga",
+  "reputation": 32,
+  "genres": [
+    "folclore santiagueno",
+    "folklore argentino"
+  ],
+  "recordings": [
+    "74Ytg4qNpMTi2VcD90B3ux"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b5e"
+  },
+  "songwriter_id": "2OL1Rpd8YwI243JOKhC02L",
+  "fans": 2504,
+  "name": "La Torre",
+  "reputation": 21,
+  "genres": [
+    "rock nacional"
+  ],
+  "recordings": [
+    "4cIZO1HErkR8rXSwQKe1CZ",
+    "5f5b4AlzF42gLjrentic5P"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b5f"
+  },
+  "songwriter_id": "3juLGrDGl9tPVXCSCdR1RO",
+  "fans": 4668,
+  "name": "Los Cartageneros",
+  "reputation": 28,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "recordings": [
+    "3IsWxSZOJf7ROea9BuVxLm",
+    "0dIgBICvSMKRgYfGlILM5a",
+    "5Yx9eaGgGPbzd3K8zt68j4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b60"
+  },
+  "songwriter_id": "5JLw6ymW8NjsrKjLqze64A",
+  "fans": 10440,
+  "name": "Baja Mali Knindza",
+  "reputation": 40,
+  "genres": [
+    "narodna muzika",
+    "sevdah",
+    "turbo folk"
+  ],
+  "recordings": [
+    "3X8drIzb3rMLOJJLhGscZ4",
+    "54lNjpeTolIJzOGahPbyaL",
+    "1aDrVigr8IhBHqXkvH879d",
+    "2uKpZOUTtGLcWhFkGz1YbX",
+    "3V9zpoOWE4rLJ8hABY1cYR",
+    "1sDHRwaOT1OllC60cVZHdY",
+    "5TC7m3r82M8asl5RSEMBq7"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b61"
+  },
+  "songwriter_id": "6XCS9JCn56Q252cMOTbeq6",
+  "fans": 80624,
+  "name": "Dannii Minogue",
+  "reputation": 43,
+  "genres": [
+    "australian dance",
+    "australian pop",
+    "bubblegum dance",
+    "dance pop",
+    "electropop",
+    "europop",
+    "new wave pop",
+    "strut"
+  ],
+  "recordings": [
+    "5OKjyuulniceXswXHLYZqV"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b62"
+  },
+  "songwriter_id": "4YodKr9jquVtUcSmB0gQEf",
+  "fans": 1338,
+  "name": "Jorge López Ruiz",
+  "reputation": 13,
+  "genres": [],
+  "recordings": [
+    "1ZWSJpOly61ojUNQZXA9tm",
+    "4fBQs7JfAu0mM2bXt2EOla",
+    "2Gmd4s3XwgCYxvpyaYiXKJ",
+    "34YESQEn2elBmPtAVeYsTM",
+    "0eJ7EGgVunnH87jgEcCD5p",
+    "23cZNOQx2i4OF3Su9Irdm1"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b63"
+  },
+  "songwriter_id": "3PN8odvj48fnALdAsCKG3g",
+  "fans": 10400,
+  "name": "Crucis",
+  "reputation": 22,
+  "genres": [
+    "italian progressive rock",
+    "rock nacional"
+  ],
+  "recordings": [
+    "56vhyP9UvLtGYUbeBBxqke",
+    "0aF2ape2b7Tzgo1GLs9re3",
+    "1tXJC1XWlQb9dLbOV86Mn9",
+    "5iFx1JwYEl4AehgNZMNXmL",
+    "7Mj76h83u3Cx4RBeBiujn0",
+    "5gfVBnwtCIIsjDX7wchXcl",
+    "0uYxeSsUttSJE7mJG8lkNq",
+    "7yn4243jQ1vb0TXvsSqCLO",
+    "06d4mMKC6mSx3ANXc2ZXYE",
+    "559ZXG23PMJMTNqxw7OnUq",
+    "6bp37SXvXHS79vSltEe7jJ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b64"
+  },
+  "songwriter_id": "5b0UnnfFNudJBMFuvit4fT",
+  "fans": 820,
+  "name": "Banda Original Columbia",
+  "reputation": 25,
+  "genres": [],
+  "recordings": [
+    "1Xm9G0H8dtDyRvcqlDvugI",
+    "7H851ulmXQFlBOrLjbyHgj",
+    "6nDbBe96eWkowt5AF7BS2G",
+    "4ehBNy9cwxA37DcTG2WH4j",
+    "3kXNq3RgOvf6cnxeJlQAFe",
+    "1rsYrVuEG2WdQL4ijLylUx",
+    "0iMOiHHjwk3L5TQBIkTyPZ",
+    "4eYzcIeaFhphykYWdSlZjX",
+    "7e6RzvzwVSMZ7a4fuZIBr0",
+    "6zUqU0SEbB0EiJjuM3dS3S"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b65"
+  },
+  "songwriter_id": "49UpIRD1s5bMEhbYYTnqUD",
+  "fans": 1467,
+  "name": "Sobrecarga",
+  "reputation": 21,
+  "genres": [
+    "post-punk argentina"
+  ],
+  "recordings": [
+    "24X9r3zeRgB4VTLz75TRw9",
+    "30hedgQCyR9YG9VIuf970W"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b66"
+  },
+  "songwriter_id": "4LcVOgiAzJlIZJk5gFa4yu",
+  "fans": 2821,
+  "name": "Rubén Goldín",
+  "reputation": 20,
+  "genres": [
+    "rock nacional"
+  ],
+  "recordings": [
+    "7z8Kpr12udmZ2WXUiLPDXs",
+    "4qjHYU86ciSRIXNvaELxCG",
+    "3FXVbVDVhibwcVPBb7rPKa"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b67"
+  },
+  "songwriter_id": "2q6X99CH0WLrL5YFJVOhZc",
+  "fans": 8007,
+  "name": "Pocho La Pantera",
+  "reputation": 30,
+  "genres": [],
+  "recordings": [
+    "6BNiQX0xz7bk0rOIVBlFag",
+    "5Yk0wfk3FwTcGDAtU7BJvr"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b68"
+  },
+  "songwriter_id": "28DInKJA1f9LhVK1LqMaHW",
+  "fans": 11351,
+  "name": "Los Visitantes",
+  "reputation": 33,
+  "genres": [
+    "argentine indie",
+    "argentine rock",
+    "rock en espanol",
+    "rock nacional"
+  ],
+  "recordings": [
+    "5N7oqsGGw7zQ8PVfAKS4XY",
+    "7DILjt03RFcEZsPQz0Tuc2",
+    "6QZxprZ0Vlk4iVxXkdTtki"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b69"
+  },
+  "songwriter_id": "7Ij3qRinMFtEpzRghKIHtE",
+  "fans": 15567,
+  "name": "Sexteto Imperial",
+  "reputation": 33,
+  "genres": [
+    "cumbia villera"
+  ],
+  "recordings": [
+    "3MLq3n8fNlubRM2FmPREbF",
+    "3uFUhqhpbV8WcY9D9HZgZe",
+    "2ab4uGgCr8cWBw0QZgDJh3"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b6a"
+  },
+  "songwriter_id": "6YbPwijYI1KH2v4aPzAORT",
+  "fans": 11369,
+  "name": "Suéter",
+  "reputation": 32,
+  "genres": [
+    "rock nacional"
+  ],
+  "recordings": [
+    "0KsITYRFHQmz9YwsafUQAz",
+    "2F1vbTtyEC531VQhqh2LlK",
+    "29UOHJBpXY1L1QiWaZLY8o"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b6b"
+  },
+  "songwriter_id": "6po2f29ob2NrxTHXbsSS9i",
+  "fans": 12212,
+  "name": "Peligrosos Gorriones",
+  "reputation": 29,
+  "genres": [
+    "argentine indie",
+    "argentine rock",
+    "indie platense",
+    "rock nacional"
+  ],
+  "recordings": [
+    "1o1EKep0fZJGlSyL6oAuLp",
+    "09XkPoMOoWRiwMkwMMcCN1"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b6c"
+  },
+  "songwriter_id": "0DQ9JcIWMGVzlQSfCVK4oN",
+  "fans": 28437,
+  "name": "IQ",
+  "reputation": 37,
+  "genres": [
+    "neo-progressive",
+    "progressive rock"
+  ],
+  "recordings": [
+    "75w0Q1A27oOOAHhsdYffmS"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b6d"
+  },
+  "songwriter_id": "7c8SVvHiXiEY6f3H7M6BcW",
+  "fans": 13232,
+  "name": "Facundo Saravia",
+  "reputation": 35,
+  "genres": [
+    "folclore santiagueno",
+    "folklore argentino"
+  ],
+  "recordings": [
+    "7ulPSJhpt3Wx5PneaF1bfR",
+    "7CuJoi1vQF9Au3zyLEaSG0",
+    "2mttiM3hZzQrzwXoBfpW07",
+    "3bPMzOQUOunrnIEjmg79pR",
+    "4Wvh7yuglcMLQVQTD0ofdB",
+    "39O5uln1K6RoKFEIcIZiVY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b6e"
+  },
+  "songwriter_id": "7czgdE1A5cjIIp5J4qtANj",
+  "fans": 14527,
+  "name": "Sin Ley",
+  "reputation": 37,
+  "genres": [
+    "argentine punk"
+  ],
+  "recordings": [
+    "1c0CEKgNI4E7gsOQFT2Kju",
+    "1gfYb8g8QgDpsrNXC7kd8g",
+    "1duVGNLOu12K6k6tL2Zgaw",
+    "5X5ZsjgCv8DMDuyiMNaZuf",
+    "6XAzucwHqTeupo8virN246",
+    "6Z8esG5bY2CCEjmXF1cAJK",
+    "45aJIOtUUkTWnBJG9NpDOT"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b6f"
+  },
+  "songwriter_id": "3RKWrEVRl77uOIUxpy1lEC",
+  "fans": 7232,
+  "name": "Diego Frenkel",
+  "reputation": 32,
+  "genres": [],
+  "recordings": [
+    "3iEDY1w9tKER7hafCZ1cUq"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b70"
+  },
+  "songwriter_id": "3UmO1Acb6OVGSfiLnYe69n",
+  "fans": 7264,
+  "name": "Suarez",
+  "reputation": 31,
+  "genres": [
+    "argentine indie",
+    "post-punk argentina"
+  ],
+  "recordings": [
+    "3ErnpA5sFpJbCQTkwp7CEK",
+    "6jlKcy0Rke6iGvAjRW32IU"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b71"
+  },
+  "songwriter_id": "26Omu9H1XR7cBoEYrMD9gF",
+  "fans": 5953,
+  "name": "Alfredo Casero",
+  "reputation": 30,
+  "genres": [
+    "argentine rock",
+    "rock en espanol",
+    "rock nacional"
+  ],
+  "recordings": [
+    "3mu8zt7WSkRRjeNwuu1QKB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b72"
+  },
+  "songwriter_id": "24rWeSxIXfwzrN8Ho7Hdtv",
+  "fans": 25321,
+  "name": "Los Continuados",
+  "reputation": 44,
+  "genres": [],
+  "recordings": [
+    "2WFr7BkSkotz63IiotlpT8",
+    "2uiHU6cqsgy2OVp4a4PsZe",
+    "0KGqqkqQcgB5DK0MNs14Jd",
+    "4zmkaTNMSAu9i88EONgH0I",
+    "71zaNOXK1vHawwZE77hC2h",
+    "4bAJkc7WaGPBusys55sohX",
+    "7i2VK4lBfsI74fOBXNAWQ5",
+    "2Vty3MwZftzJ15fmDnqEX3",
+    "6WH2vUkHcxKu9UIqoXDN7D",
+    "1bWPAF8yYbGEFaynFYK84S",
+    "4kPQTDRrScseOqXINBGjTM"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b73"
+  },
+  "songwriter_id": "3zDNMwCfVORx1xwo6DGBlp",
+  "fans": 6352,
+  "name": "Roque Narvaja (F)",
+  "reputation": 36,
+  "genres": [],
+  "recordings": [
+    "6mFdDYmOzdE7suUpYi23Ie",
+    "4C9A4Mm86Usqa1ZpYIUZET",
+    "1Q4vh2iiDwFEf7erbXMpHz"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b74"
+  },
+  "songwriter_id": "72l6wuv5Ic1Lm9yAMayCKx",
+  "fans": 7573,
+  "name": "Mariana Baggio",
+  "reputation": 36,
+  "genres": [
+    "musica para ninos"
+  ],
+  "recordings": [
+    "4PijTOHhkJ3R9F8p69Lhrx",
+    "5LgXOrNYrFvpHLthpfffI9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b75"
+  },
+  "songwriter_id": "0P2q6xyNc2hVFkG3ThjYcJ",
+  "fans": 74822,
+  "name": "The Magic Numbers",
+  "reputation": 45,
+  "genres": [],
+  "recordings": [
+    "1b9FpRqQk07agQgIB3nKWz",
+    "0CIUacqGuohdes8fdIP4K3"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b76"
+  },
+  "songwriter_id": "0y2UIyqXN4KctxsMLgSMhm",
+  "fans": 12756,
+  "name": "Nolberto Al k la",
+  "reputation": 43,
+  "genres": [
+    "cumbia villera"
+  ],
+  "recordings": [
+    "05MJWNOPPFJu536MC3fTRd",
+    "419UrKLfM1CM8vuJTGdgCz",
+    "5OAkz6hvd5UCsZkg9itdoo",
+    "7JeBE29gGWSwtCkM4I87FM"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b77"
+  },
+  "songwriter_id": "6Hs8U0JO2nacXFG4kp15Co",
+  "fans": 191599,
+  "name": "Chico Trujillo",
+  "reputation": 55,
+  "genres": [
+    "chicha",
+    "chilean rock",
+    "cumbia chilena",
+    "latin alternative",
+    "latin rock",
+    "nueva cancion"
+  ],
+  "recordings": [
+    "7nqJSKq4bLSU5np1UKQl6f",
+    "2dmiAdscYWQIhRpbQc5TFm",
+    "1lMxEHxFMSbwr6nVxlzQ1G",
+    "6orkKcLFfNacnV5J0xnFjJ",
+    "0IOo0Qwhkj07rUOwh1n3lW",
+    "5a55eSUH25mYgrYmAKDuRD",
+    "3hWP7gZBIcRoLsPhH0oduK",
+    "6XMY9qZM7HXXu0PVqnv7y9",
+    "5DrsyiBfSuIHS015buu06S",
+    "25uRXdik8Q50BhU12KUrrL",
+    "2LekureJkYmKUcUTBoHUaX",
+    "0bhp7w8wAMfguJW5n8iuVA",
+    "2nb9vco2qQWXPBkn9qefJ3",
+    "5xpzjqb00GNVfCsgfP3igG",
+    "1AUb7MTJRGDrkjRjrZdpRO",
+    "3HZB6WbNbSQGHqb2Eto2Sm",
+    "5l3FSFs2BRim2BnJlY8Yzf",
+    "0TaDD7ih30EteDCc9mMA1L",
+    "3gN9FwWzG5v2mrJvdxGtFB",
+    "2MSuiAejQ5LxGMvDwiNOfy"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b78"
+  },
+  "songwriter_id": "0FtOEaKA25lR6G48iP1Jnt",
+  "fans": 22183,
+  "name": "Los Dragones",
+  "reputation": 43,
+  "genres": [
+    "cumbia villera"
+  ],
+  "recordings": [
+    "4XC1IDxFKnNY1ZAWhE0sfI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b79"
+  },
+  "songwriter_id": "32MqW6QPGJov4Vtl2xYs7a",
+  "fans": 10787,
+  "name": "Vuelta Canela",
+  "reputation": 43,
+  "genres": [
+    "musica para ninos"
+  ],
+  "recordings": [
+    "6psM6WzipMxhkXbMn15k17",
+    "5Zezq8mmCShgrKRT94Esxf"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b7a"
+  },
+  "songwriter_id": "2N4oh0cKq5FwoO94p4DTVK",
+  "fans": 17354,
+  "name": "La Contra",
+  "reputation": 48,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "recordings": [
+    "4yldjb1SmwLONGJqBk5rJW",
+    "5uEooUmY5X4yxrxiArJ2Sg",
+    "4ZBZYRgKOnRZU65Wlx7qh2",
+    "5h9YOc4uXaDs0BRpOGKEt9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b7b"
+  },
+  "songwriter_id": "3ZsohZm3TsffH1MmUNrK8G",
+  "fans": 34757,
+  "name": "El Stylo",
+  "reputation": 35,
+  "genres": [
+    "cumbia villera"
+  ],
+  "recordings": [
+    "2SKZveofPpBrgk1kpvb8jW"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b7c"
+  },
+  "songwriter_id": "1vJHAIU4DSvj4XipPK3IR8",
+  "fans": 17733,
+  "name": "Sonido Cristal",
+  "reputation": 40,
+  "genres": [
+    "cumbia pop",
+    "cumbia uruguaya",
+    "plena uruguaya"
+  ],
+  "recordings": [
+    "2pbWhN6eySwYWXRUhRw22j",
+    "4AKm9SfY8az1ZV9ltcL6LD",
+    "1N5lyDfYxK7lwCnCUcoXTq",
+    "7JveYIm61ZedqWnxtKP6yw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b7d"
+  },
+  "songwriter_id": "0bYQe0JDIjxkSHQoXlfngl",
+  "fans": 193728,
+  "name": "Acru",
+  "reputation": 59,
+  "genres": [
+    "argentine hip hop",
+    "rap underground espanol"
+  ],
+  "recordings": [
+    "2pAQToHCsDf4UyCOv7l43P"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b7e"
+  },
+  "songwriter_id": "0N9TZYLIcufVLj5eQl5GLm",
+  "fans": 38712,
+  "name": "El Triangulo Estudio",
+  "reputation": 47,
+  "genres": [
+    "argentine hip hop",
+    "rap underground argentino"
+  ],
+  "recordings": [
+    "6t5PsfTj1NA2hEwXcgsLYY",
+    "1V6KZnJeDj25lYJdqDoydT"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b7f"
+  },
+  "songwriter_id": "3XBw8ImFEo86mEB2dYh0vS",
+  "fans": 46708,
+  "name": "Zoe Gotusso",
+  "reputation": 55,
+  "genres": [
+    "argentine indie",
+    "pop argentino"
+  ],
+  "recordings": [
+    "3uz2tyLRgSzSlhOIXCz0DB",
+    "1Sr0zBbzovJTg5yxd41CcQ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b80"
+  },
+  "songwriter_id": "5wkCcDqHUaJbR79G5rEEpL",
+  "fans": 3920,
+  "name": "La Cofradia De La Flor Solar",
+  "reputation": 13,
+  "genres": [
+    "rock nacional"
+  ],
+  "recordings": [
+    "2GFKZgxxZ40OhqH31g3OCk",
+    "7sYM4xTvfR0N3UkRT9n7Vp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b81"
+  },
+  "songwriter_id": "4LoFcBNitqIC130rvzS6BG",
+  "fans": 14494,
+  "name": "Porsuigieco",
+  "reputation": 25,
+  "genres": [
+    "argentine rock",
+    "rock nacional"
+  ],
+  "recordings": [
+    "34MKQgDEwYzDer6VZKIGhZ",
+    "3e29OJCIWi1wsG1TjUW7CS",
+    "68eG9PLf42GfD7ZozQHZSt",
+    "5f7klRsXV8ife3ZqOOCxPE",
+    "5ZOOHkuzNi2e2zdwphse4e",
+    "2JmfB9i73m8daDafBp3sed",
+    "1CABCEHC8I0WkxTrvR3EIb",
+    "6mmYcy74mOebT2zmqn88Ac",
+    "7EuxJmFcYU8v5vt8c89zk3",
+    "1TpXUHVG4R3T1oqZoLhTsR",
+    "7CUz5MVOv9YNV9Nuevhhmm",
+    "02tIEnsR4A1lIBbGPpJs1G",
+    "13aruUWipliujeNkv1bzg1",
+    "1434wjsEElhNCoOyKfwQWS"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b82"
+  },
+  "songwriter_id": "6CsleyOZtyt16saX8WhzDx",
+  "fans": 181202,
+  "name": "Brother Ali",
+  "reputation": 53,
+  "genres": [
+    "abstract hip hop",
+    "alternative hip hop",
+    "conscious hip hop",
+    "hip hop",
+    "minnesota hip hop",
+    "political hip hop",
+    "underground rap"
+  ],
+  "recordings": [
+    "30rKpknfedhHqVJkpmPijV",
+    "1iz4IsVFn1zbymbRqzmEpL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b83"
+  },
+  "songwriter_id": "361pK7YDT3pQopAH7M0jr3",
+  "fans": 1434,
+  "name": "Marianne Mendt",
+  "reputation": 16,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "1bspyBk1HTTLlLgI9PRDzO"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b84"
+  },
+  "songwriter_id": "4qZeDZdBD3NiWVbkwX2Lpx",
+  "fans": 8401,
+  "name": "El Reloj",
+  "reputation": 20,
+  "genres": [
+    "argentine metal",
+    "latin metal",
+    "rock nacional"
+  ],
+  "recordings": [
+    "10F81E1vPGGROdMHyVthSh",
+    "5KDsctT0xXmo2BkkCXuxLS",
+    "0kCvymt8ka2hQqecsJDC4h",
+    "7cz0ucfOmEhpQIhv8y79IG",
+    "4mGLzmictTcEcrSehVWBco",
+    "06ZgcziK9BqTspYzNK0HwN",
+    "3T8nSpqeydPGfxQPNOtQgS",
+    "4PDMbmHYzVRwg8F08ErzKE",
+    "1AEFUeI8JLlkjASAuWigsL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b85"
+  },
+  "songwriter_id": "4arvU6IZ9iiulbCZPiO1GB",
+  "fans": 29522,
+  "name": "Pelusa",
+  "reputation": 41,
+  "genres": [
+    "cuarteto"
+  ],
+  "recordings": [
+    "6iw3LhDBlu7YY5K1g8YkAK",
+    "5jyKJDdSNiozZ6vuHCotgs",
+    "7j124o3B4oTZeUMpfu453M",
+    "6lobAMfpVoiO2pVFrF0pkM",
+    "6ywSDnmtNvsBd4hzKRHv6u",
+    "2qo6WzBUUa09sCMY2NqcnU"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b86"
+  },
+  "songwriter_id": "6uLWD7WMJKMyP1DD1eg96R",
+  "fans": 81040,
+  "name": "Cachumba",
+  "reputation": 43,
+  "genres": [
+    "cuarteto"
+  ],
+  "recordings": [
+    "1DKiKqd2S5OVyQmj7OS855",
+    "1Rn9HS69AVyqeWq6EV5xDF",
+    "2pkhARfkuHXQf5E67TZKBi",
+    "7KvfNsGM46mPIierM2ftqK",
+    "1p8zM3M43yrcxVWaw8wXp8",
+    "7qquCDxmqg6i3SGznMIfOR",
+    "2HGWRFjxJgcWmdtnSKRDvI",
+    "5X2RBJbY5Q2REAd7lMJ4V2",
+    "2PeSqn7fiq4e5dWNGMw7Cw",
+    "3kMSuLu5Jihu5ETI06ch0b"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b87"
+  },
+  "songwriter_id": "5nBItoqtPDVkiyNhzjbUO1",
+  "fans": 45676,
+  "name": "Jelena Karleusa",
+  "reputation": 40,
+  "genres": [
+    "narodna muzika",
+    "turbo folk"
+  ],
+  "recordings": [
+    "37Jl5Rg0Pd61GibIRELXoS"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b88"
+  },
+  "songwriter_id": "1g31gW7m6FH9LljAfobGh8",
+  "fans": 21764,
+  "name": "Marcos Castelló Kaniche",
+  "reputation": 42,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "recordings": [
+    "3trzCCEnxmzybmFYY8KPdL",
+    "2ztRpiApkVtZrYHZKDgaLH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b89"
+  },
+  "songwriter_id": "76KHdORVQMt7L6nVzvOUph",
+  "fans": 104098,
+  "name": "The Jezabels",
+  "reputation": 45,
+  "genres": [
+    "australian alternative rock",
+    "australian indie"
+  ],
+  "recordings": [
+    "3bJ73tmHnoeBfDZ4pLZqZ8",
+    "1qd89nxexpEj8N7TTOYzZZ",
+    "7qo5m52K1ijTQtH10dyJX5"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b8a"
+  },
+  "songwriter_id": "5WJWxdQGsrF1G1iX0ixLfb",
+  "fans": 76806,
+  "name": "La Fiesta",
+  "reputation": 45,
+  "genres": [
+    "cuarteto",
+    "cumbia villera"
+  ],
+  "recordings": [
+    "7FnNMHyONreKLMWU3STSwK",
+    "0aNn6bnLdDCRi4sTRjWED2",
+    "49nLdGkkDKFP86DGSCPfna",
+    "1ivmWVwLVZ2cgwywZjaRPk",
+    "3AuNiqjRQ3VOEv58ad86B8",
+    "7AVXX1AruwZbvbKxu3UQIQ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b8b"
+  },
+  "songwriter_id": "6bsc2dtiid9hfn1vCOROgG",
+  "fans": 3536,
+  "name": "Wilfried",
+  "reputation": 24,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "3s1qMqk4gkz4vxE7TpTnuO",
+    "6yKiO5lnKRL8QVIfU8Wspm",
+    "2bycGIYTvfMcIA9qqgiHmy",
+    "3Ki1zK4onyj4Quqym5tBA8"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b8c"
+  },
+  "songwriter_id": "1TQRWNQjkYhUnhZ5y6c22o",
+  "fans": 1430,
+  "name": "Nervozni Postar",
+  "reputation": 30,
+  "genres": [
+    "narodna muzika",
+    "sevdah",
+    "yugoslav rock"
+  ],
+  "recordings": [
+    "17gnWZis84T3BRxCQz0OBz",
+    "0JDMEBkmVB9qf8vG9Hi8C6",
+    "0qnRMtUtsqjoC76XB6uecm",
+    "4HgsOAG1DmUzqKhZPCydwt",
+    "6BjVPbrxPwScDtVRwbY2k9",
+    "64K6X8qiBroLVpm4Hsn281"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b8d"
+  },
+  "songwriter_id": "76uZxKWThuSOXRQlHy5xP6",
+  "fans": 2656,
+  "name": "Stoja",
+  "reputation": 39,
+  "genres": [],
+  "recordings": [
+    "4kTjn5aEZ85NgKg0EtEcgy",
+    "2AgYoBhg8op8cD1rrJwlEc",
+    "3Lcz4hfs52uX0dqwIiQoRn",
+    "3eBnCRsBFNXrJIlTZs95MJ",
+    "6Evp4nGB9Q7C7OyO0qor56"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b8e"
+  },
+  "songwriter_id": "4IBe9m7y3V2rO1nblX5MR4",
+  "fans": 8877,
+  "name": "Osman Hadzic",
+  "reputation": 37,
+  "genres": [
+    "narodna muzika",
+    "sevdah",
+    "turbo folk"
+  ],
+  "recordings": [
+    "3y2krVxoPWjcHwKgA3bSZR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b8f"
+  },
+  "songwriter_id": "5faZyVmlARwkZUKNPRDXYt",
+  "fans": 24619,
+  "name": "Viki Miljkovic",
+  "reputation": 40,
+  "genres": [
+    "sevdah",
+    "turbo folk"
+  ],
+  "recordings": [
+    "2lhieGX6SBYbHUBHwxOydq",
+    "4pP09y3b9yDqwbF5itbuV6",
+    "3nzW2pnEKDC0WSi8P7JcP8",
+    "6DQzosqlU8tyLXHsGHdNHx"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b90"
+  },
+  "songwriter_id": "14gLKsLTpoAVHr7bbUg5HM",
+  "fans": 3945,
+  "name": "Zeljko Joksimovic",
+  "reputation": 44,
+  "genres": [],
+  "recordings": [
+    "7JmOLZXjPRADNG2ueAMJ0Z",
+    "6EJMiuYuFWSgWEhBmfW1uz",
+    "54SIOiKUGFdQopk4OFhM8O"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b91"
+  },
+  "songwriter_id": "7e3BSeFzlCGyAdbsUbgUaD",
+  "fans": 272543,
+  "name": "Damián Córdoba",
+  "reputation": 56,
+  "genres": [
+    "cuarteto"
+  ],
+  "recordings": [
+    "6KaxyYZhOU04b8IlJk7qOl",
+    "0cH2nR2ISmkLVW7e7ogTYw",
+    "531bje91fAP4OviryRojvY",
+    "0Jg7uoRXfF5SkOOpU4AvtO",
+    "2F1mUxdhgDc8xKQvSMlifD",
+    "61SuldN9cUeac7RCtxgxAz",
+    "0Q6NNGDbh228B8I6aBR3wY",
+    "6B1zyqSzZ0aXQDrvjsBV38",
+    "0URzkqWsT0YCaV4Nskgwl7"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b92"
+  },
+  "songwriter_id": "7aFWI1ooewKlAlMparvoab",
+  "fans": 27481,
+  "name": "Tren Loco",
+  "reputation": 33,
+  "genres": [
+    "argentine heavy metal",
+    "argentine metal",
+    "latin metal",
+    "spanish metal"
+  ],
+  "recordings": [
+    "1y25iPqPvHGoePmhKrZij5"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b93"
+  },
+  "songwriter_id": "3aAUu37qACrKr6h9eQyNVj",
+  "fans": 5141,
+  "name": "The Reels",
+  "reputation": 25,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "5w1L21OFYZ4kEMiyXfhFCK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b94"
+  },
+  "songwriter_id": "4mZlgrDsGRgWXy7T5ke3hP",
+  "fans": 8106,
+  "name": "Celibate Rifles",
+  "reputation": 27,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "recordings": [
+    "5tAx2WaDStsk09MwzVCJni",
+    "0YqFfrf7I9uZkJX8howisu",
+    "6xmUtrETD3JDNNrm4CsWyi",
+    "68yFv65gMR7Y0p0dTT3SSf",
+    "64PhDVi04LsUYeCIcH8Pqt",
+    "2cHe4IsWCj2H2pnPGeM7ts"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b95"
+  },
+  "songwriter_id": "35YkpX0zYwHG8vOIhObvxP",
+  "fans": 2639827,
+  "name": "Mano Walter",
+  "reputation": 65,
+  "genres": [
+    "forro",
+    "sertanejo",
+    "sertanejo pop",
+    "sertanejo universitario"
+  ],
+  "recordings": [
+    "74i0ocFuhVOLp3f5kNKjeT",
+    "0lCmp1Mws7I9K4a0OAgces",
+    "4gryO2XRHDvVgDfAoxZCi4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b96"
+  },
+  "songwriter_id": "6wNpKnX7J4VMll0LKHGGlD",
+  "fans": 12454,
+  "name": "Miroslav Skoro",
+  "reputation": 40,
+  "genres": [
+    "croatian pop",
+    "yugoslav rock"
+  ],
+  "recordings": [
+    "2PgUhFSSkSiiLeP2NLWmCZ",
+    "5OfzdzlTmIE9NVJ3fPuiaJ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b97"
+  },
+  "songwriter_id": "60El5gpHTkzTCmrNz0VG7i",
+  "fans": 39791,
+  "name": "Sonora Skandalo",
+  "reputation": 48,
+  "genres": [
+    "cumbia villera"
+  ],
+  "recordings": [
+    "614tWb7BNM0KgQb2sVktG2",
+    "0Q4VRYG0RySZ7zlGNkSUIM",
+    "4ga7vzX0WRFJYNrC6teojv",
+    "3Vci1PwfBYNHLcZC8WulH5",
+    "04sLoJFVAtzRXr3YAGUDqd",
+    "7FrEHhKPDD7jdmJXRLONld",
+    "3q1u9F6TMfb0iUunDKfp0I",
+    "3C4NQNOGQ50Y4LZSJlAqHt",
+    "5pDWG8Rb3sCBg3ZVdgAHz4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b98"
+  },
+  "songwriter_id": "1uCJyMTl9jebVT28WAQtur",
+  "fans": 1695,
+  "name": "Simone",
+  "reputation": 29,
+  "genres": [],
+  "recordings": [
+    "2v0zcEyYyCuckVlmTzVfle",
+    "4KAdRm3zwPaUizG9qqXJP1"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b99"
+  },
+  "songwriter_id": "05ndiewdJogtosuRWN8iwF",
+  "fans": 43766,
+  "name": "Adaro",
+  "reputation": 54,
+  "genres": [
+    "classic hardstyle",
+    "hardstyle",
+    "rawstyle"
+  ],
+  "recordings": [
+    "0P2lKGnrFMO7j5RndnCWSm"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b9a"
+  },
+  "songwriter_id": "3mZqziCJj4pq3P2VBpmK6p",
+  "fans": 221516,
+  "name": "Friendly Fires",
+  "reputation": 51,
+  "genres": [
+    "alternative dance",
+    "dance rock",
+    "dance-punk",
+    "indietronica",
+    "new rave"
+  ],
+  "recordings": [
+    "2XvxT05vgWnn2TfcGyxdhi"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b9b"
+  },
+  "songwriter_id": "7If8DXZN7mlGdQkLE2FaMo",
+  "fans": 298886,
+  "name": "The Gaslight Anthem",
+  "reputation": 58,
+  "genres": [
+    "heartland rock",
+    "new jersey hardcore",
+    "new jersey indie",
+    "new jersey punk",
+    "skate punk"
+  ],
+  "recordings": [
+    "4T1PtJLCbe7MIsvhQZURXL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b9c"
+  },
+  "songwriter_id": "4662l1ZmSwzD5gDGF0I5uu",
+  "fans": 165,
+  "name": "Brusa y los Bombones de Murano",
+  "reputation": 6,
+  "genres": [],
+  "recordings": [
+    "0L8ImXvcfhwluCgFsB8GgJ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b9d"
+  },
+  "songwriter_id": "7AGlWsIaI9UeK7XxvUDpcC",
+  "fans": 419,
+  "name": "Los Arroyenos",
+  "reputation": 15,
+  "genres": [
+    "villancicos"
+  ],
+  "recordings": [
+    "2rfxxLTpHsH0SAHW9DJbf8"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b9e"
+  },
+  "songwriter_id": "1ga5jO5WHSc52U7aLHjgMu",
+  "fans": 4837,
+  "name": "Orly",
+  "reputation": 32,
+  "genres": [
+    "cuarteto",
+    "musica blumenauense"
+  ],
+  "recordings": [
+    "4Ym7LdTi0zbk3kda3UUHW1"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3b9f"
+  },
+  "songwriter_id": "37u2QUmBNw4I8SYy75mzfn",
+  "fans": 2663,
+  "name": "Orlando Vera Cruz",
+  "reputation": 26,
+  "genres": [
+    "chamame",
+    "folklore argentino"
+  ],
+  "recordings": [
+    "63hfNlQGNzQpDwildSZfGn"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba0"
+  },
+  "songwriter_id": "4okirS2wFnoVYH60wFbiuL",
+  "fans": 713,
+  "name": "José Angel Trelles",
+  "reputation": 17,
+  "genres": [],
+  "recordings": [
+    "2PLn4TSNoUofS7yg1vUkcU"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba1"
+  },
+  "songwriter_id": "2xbIkKN0Yzb14N9WTZWtD2",
+  "fans": 4381,
+  "name": "Las Primas",
+  "reputation": 24,
+  "genres": [],
+  "recordings": [
+    "196i04Q218so8RqnZsY5Bk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba2"
+  },
+  "songwriter_id": "53PMMY1sInP2hfK6TzIijL",
+  "fans": 33868,
+  "name": "Chebere",
+  "reputation": 42,
+  "genres": [
+    "cuarteto"
+  ],
+  "recordings": [
+    "3wJLiaao54fngKLWqPiWw7",
+    "43tibWHa3568icHSRt9k58",
+    "7j124o3B4oTZeUMpfu453M",
+    "4gyWRrd7oErUUqQNKE1Utz",
+    "6lobAMfpVoiO2pVFrF0pkM"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba3"
+  },
+  "songwriter_id": "3IprieiPDB9fKuhL75Shhw",
+  "fans": 1653,
+  "name": "Los Caimanes Santiagueños",
+  "reputation": 21,
+  "genres": [
+    "folclore santiagueno"
+  ],
+  "recordings": [
+    "0XxlscOEaMEhTJWnJTtXR1",
+    "0pjTtrHiN7E7Q9QcQvWiLc",
+    "5DlSTOUivHPlbmxYsPK7CL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba4"
+  },
+  "songwriter_id": "6h8PLh7ArvvIG7ZD5g32yu",
+  "fans": 14918,
+  "name": "La Secta",
+  "reputation": 26,
+  "genres": [
+    "puerto rican rock"
+  ],
+  "recordings": [
+    "5fnyLwfLjy06b8AKdy3mNy"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba5"
+  },
+  "songwriter_id": "09EcsyJqVbqPZRzwfs1pyc",
+  "fans": 17747,
+  "name": "Jorge Veliz",
+  "reputation": 31,
+  "genres": [
+    "chamame"
+  ],
+  "recordings": [
+    "4bXvVREVQ7KLecHhQYzXga",
+    "4KFJGKspruuRZfSGYBuXAn"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba6"
+  },
+  "songwriter_id": "4aCWTRWrh5lyIaZTVCP6ja",
+  "fans": 6084,
+  "name": "Logos",
+  "reputation": 30,
+  "genres": [
+    "argentine metal"
+  ],
+  "recordings": [
+    "5QVFOgHCV6rXkDXpJp0Wsr"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba7"
+  },
+  "songwriter_id": "5SAeZRhgmJhgq196BR1Mna",
+  "fans": 9642,
+  "name": "Dúo Salteño",
+  "reputation": 31,
+  "genres": [
+    "folclore salteno",
+    "folklore argentino"
+  ],
+  "recordings": [
+    "0UFqmYkVvWIFDY4VrjDEJ1",
+    "58DXmtkrsRxfLoLiJ0utKs",
+    "7qWJ0cirjoRlYY4qyrVEcK",
+    "3iSkp3Yk2Eiw34ev6v38JY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba8"
+  },
+  "songwriter_id": "4R5IzlNSizG1oT8Gs4HH6k",
+  "fans": 54009,
+  "name": "Grupo Cali",
+  "reputation": 49,
+  "genres": [
+    "cumbia santafesina",
+    "cumbia villera"
+  ],
+  "recordings": [
+    "0a8jgI5IaMMmPC82GlsiDT",
+    "1s3vmN2vFiN6RLDp268bqV",
+    "44KbxAnyRpfMuDLeN4Uels",
+    "1Dp2L8HtcxVdVJlIUBi4oc",
+    "4VGpnmSjn7dmmwng3ED0Xe",
+    "4h1eEzkphsuP7VZhGdhrCJ",
+    "32UBCCIiJ6AVqpcrqP2wVP",
+    "78kge4ox8p14FWVfWqrapf",
+    "7HRTiUF721TP6lPBjMXHa5",
+    "0Yjs4dV82xl4GF63wrXm7i"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ba9"
+  },
+  "songwriter_id": "2TbgthCBr5sAwMWqVz8Cf1",
+  "fans": 7356,
+  "name": "Los Boys",
+  "reputation": 28,
+  "genres": [],
+  "recordings": [
+    "55mNz5VLgLZPOuI8moMduD",
+    "2Lz76hqnBDxgcJxPFWX7Ej"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3baa"
+  },
+  "songwriter_id": "5QlBlgZQXTj4adeTRqPywe",
+  "fans": 712,
+  "name": "Los Bonys",
+  "reputation": 28,
+  "genres": [],
+  "recordings": [
+    "0z7SV9VHt7DOe7NQqwNRAI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bab"
+  },
+  "songwriter_id": "6JogLFS7BAeUUE7DBgOOVb",
+  "fans": 7329,
+  "name": "Jaime Torres",
+  "reputation": 30,
+  "genres": [
+    "charango",
+    "folclore jujeno",
+    "folklore argentino",
+    "world chill"
+  ],
+  "recordings": [
+    "4GFwnT8DWfm465bIaBWxOD",
+    "4HwjIJ2iLvk8dlnhGSUVVx"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bac"
+  },
+  "songwriter_id": "5U4f1gmVVLf0uhhcg0mJA9",
+  "fans": 14747,
+  "name": "Jorge Véliz y Los Santiagueños de Oro",
+  "reputation": 37,
+  "genres": [
+    "chamame"
+  ],
+  "recordings": [
+    "09GyJX9YToDJFbUyek7kty",
+    "4sjALJADMWwhhnW69H8t8n",
+    "5xDkqOKfoc51lKaWR2nyzD",
+    "6gYYGZfr2049NoNsbjrKmH",
+    "6egfqOkzgF4BejiFVZRhVZ",
+    "4tNINN3eZVJWx8CxedUG75"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bad"
+  },
+  "songwriter_id": "05aqPZGak6jQkKZHoXkO8E",
+  "fans": 2085,
+  "name": "Adrián Maggi",
+  "reputation": 28,
+  "genres": [],
+  "recordings": [
+    "0zL6voJ495HSO2MnYaJZkR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bae"
+  },
+  "songwriter_id": "35C2ZfgMovQotan3rNrYT3",
+  "fans": 6432,
+  "name": "Monchito Merlo",
+  "reputation": 31,
+  "genres": [
+    "chamame"
+  ],
+  "recordings": [
+    "2uICvrN0pWeUk1FAK5Y3PB",
+    "7sBr9fBWX2ro0LTHnUZQyk",
+    "0DfMxk5Mf0ivXNHYReJe1V"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3baf"
+  },
+  "songwriter_id": "0Ju8LutOzYuBpC3XtwcLZa",
+  "fans": 18307,
+  "name": "Fernando Bladys",
+  "reputation": 35,
+  "genres": [
+    "cuarteto"
+  ],
+  "recordings": [
+    "69GBTaOUrUbfFtgs5NrjZI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb0"
+  },
+  "songwriter_id": "4NbPIhaePRUz9iZxc9IvWa",
+  "fans": 23870,
+  "name": "Gary",
+  "reputation": 43,
+  "genres": [
+    "cuarteto"
+  ],
+  "recordings": [
+    "6wtYGDddR3utLsMcHtSPmX",
+    "2WJyEx6ZwHuG9q0ULbySXk",
+    "77gOkkT8DRUnWNfj92YUIA",
+    "17KmCrGE4bNq8F8GTq8247",
+    "1vFwiyxVN6wVRmQEOYXNU0",
+    "2fmCmqRXROHRVIegS0WerE",
+    "3nLfYkKdNwaZCdBhI8yI2A"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb1"
+  },
+  "songwriter_id": "4RWsSjLE6TMBwdYzHj2NiO",
+  "fans": 10424,
+  "name": "Sergio Galleguillo Y Los Amigos",
+  "reputation": 35,
+  "genres": [
+    "folklore argentino"
+  ],
+  "recordings": [
+    "1wSUeoaWT5MuyPfliZrYpI",
+    "5F1lIMyP7CQTlV6fZrYp5j",
+    "5CmcMR0LhzL8n6dD7P1am2",
+    "75vTPpt7cJUtStEu3lXNAB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb2"
+  },
+  "songwriter_id": "2qnTUTsuypizIuMwVM1ffR",
+  "fans": 6947,
+  "name": "Los Hermanos Cardozo",
+  "reputation": 28,
+  "genres": [
+    "chamame",
+    "folklore argentino"
+  ],
+  "recordings": [
+    "6myPU49XhJGyE95Ec22ked"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb3"
+  },
+  "songwriter_id": "2EIDNRLlK40vvt5EyhiwFE",
+  "fans": 12722,
+  "name": "Los Bonys",
+  "reputation": 31,
+  "genres": [],
+  "recordings": [
+    "75KPIxe0M0PnfNuwbKpkXE",
+    "5UComE5HSStrU6WkxijV1n"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb4"
+  },
+  "songwriter_id": "3SGdv7Nnxz36kYLYcSWuJf",
+  "fans": 5523,
+  "name": "Suna Rocha",
+  "reputation": 25,
+  "genres": [
+    "folklore argentino"
+  ],
+  "recordings": [
+    "3mvqXHClXJg09S59sD5MTZ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb5"
+  },
+  "songwriter_id": "4crE1FjbdIpLTdrbzCZmuS",
+  "fans": 12456,
+  "name": "Loquero",
+  "reputation": 36,
+  "genres": [
+    "argentine punk"
+  ],
+  "recordings": [
+    "4bKDdVkOwqM1Fk9cRItss3",
+    "5cOwiCOd1fVM8aLEZzb4Cn",
+    "7n428wb4zXP3TE2vz4peVG"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb6"
+  },
+  "songwriter_id": "1CPCudqABxMYzF2PFEfQme",
+  "fans": 24145,
+  "name": "Media Naranja",
+  "reputation": 37,
+  "genres": [
+    "cumbia villera"
+  ],
+  "recordings": [
+    "5BykxClsNqFLRijAf7sZRu",
+    "5512gKeAGzF3Qkj9JyrtBX",
+    "4u52pt70M84YOQ6iFi3aMC"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb7"
+  },
+  "songwriter_id": "0uITrMC16Eg9bbPu0PNfzk",
+  "fans": 14366,
+  "name": "Grupo Alegria de Santa Fe",
+  "reputation": 35,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "recordings": [
+    "2XkV8n37qwGI0qK0biSQ0h",
+    "6Vbc8vQ0W5nQvwIZEnUhrp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb8"
+  },
+  "songwriter_id": "1Sbn533a3TmseHmdYtGElm",
+  "fans": 8995,
+  "name": "Orellana Lucca",
+  "reputation": 43,
+  "genres": [
+    "folclore santiagueno",
+    "folklore nuevo argentino"
+  ],
+  "recordings": [
+    "5Fs4cdxzXm0DDtpZiulVik",
+    "7xcPOrHWvXbB18bHKd6bkQ",
+    "4jQ2fKNUCVMtUKyFSJGaeH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bb9"
+  },
+  "songwriter_id": "1qo1zFHkGHoy8pSFFQkbtw",
+  "fans": 15470,
+  "name": "Los Guaraníes",
+  "reputation": 34,
+  "genres": [
+    "folclore salteno",
+    "folklore argentino"
+  ],
+  "recordings": [
+    "3gGZHrUnRiT6dOLjrZMblR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bba"
+  },
+  "songwriter_id": "137pHEZ9U76r4ouXTa6Bjc",
+  "fans": 14823,
+  "name": "Chanchi y Los Autenticos",
+  "reputation": 41,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "recordings": [
+    "08c3uA4n8HcMMj8zgTqAZK",
+    "03IoH7NmNDEXW7SSGj0ISS"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bbb"
+  },
+  "songwriter_id": "325zdFw59lq0YHEmd5rWtk",
+  "fans": 21299,
+  "name": "Ezequiel El Brujo",
+  "reputation": 43,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "recordings": [
+    "2VoXXbqULk6GZf0lhEi2bl",
+    "4W5PWx4nbZs2ewSBOCfRTZ",
+    "1UUJ9llquXbgipyUUoQqgc"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bbc"
+  },
+  "songwriter_id": "4YujyddKSDZt6gpAesPnEB",
+  "fans": 9745,
+  "name": "Kalama Tropical",
+  "reputation": 26,
+  "genres": [
+    "chamame"
+  ],
+  "recordings": [
+    "5ubZk8awFellg8WS0Jw2XY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bbd"
+  },
+  "songwriter_id": "7jrhpOLZv1IDPEUcIVYZ5Z",
+  "fans": 127,
+  "name": "Sexteto Cantábile",
+  "reputation": 33,
+  "genres": [],
+  "recordings": [
+    "25Pn9XovndfZ3jdXf1qa2R",
+    "5qoHAVOIZpo92GLy6Cq4vW"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bbe"
+  },
+  "songwriter_id": "6P7mWyfrVRNgrd5DWjgkAp",
+  "fans": 8737,
+  "name": "Los Majestuosos Del Chamamé",
+  "reputation": 36,
+  "genres": [
+    "chamame"
+  ],
+  "recordings": [
+    "1rfgUfeqqqvB8QnIJfr7rj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bbf"
+  },
+  "songwriter_id": "7tqwTqZQXmwtlvj4WdsGUe",
+  "fans": 36994,
+  "name": "Banda Express",
+  "reputation": 35,
+  "genres": [
+    "cuarteto"
+  ],
+  "recordings": [
+    "22aB6Mwslw0IbCkfQs4lhC",
+    "4qqlYBWAQg6V7OVgH44b6L"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc0"
+  },
+  "songwriter_id": "5V3p1FHktSmZSGyfvSGdhY",
+  "fans": 24147,
+  "name": "Villanos",
+  "reputation": 32,
+  "genres": [
+    "argentine rock",
+    "rock en espanol"
+  ],
+  "recordings": [
+    "51ujAnIRCpKM5ymBg91i2u"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc1"
+  },
+  "songwriter_id": "4fARNbsdisPYTZtwYzAayh",
+  "fans": 12717,
+  "name": "Simplemente Naguel",
+  "reputation": 39,
+  "genres": [
+    "cumbia santafesina",
+    "cumbia villera"
+  ],
+  "recordings": [
+    "4I17shszGarI3lEcneeEEK",
+    "1blhnIXhg3Bpt2qzVVxPRD",
+    "6Iodn1dtdHKjoctu6J48fE",
+    "0DFpicseIBlfhGrXKgo9qW"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc2"
+  },
+  "songwriter_id": "2qA6QJKyk9W627mEn65hob",
+  "fans": 16326,
+  "name": "Raúl Carnota",
+  "reputation": 34,
+  "genres": [
+    "folclore santiagueno",
+    "folklore argentino",
+    "nueva cancion"
+  ],
+  "recordings": [
+    "5BBV6SfWByHxjQjyByWcQw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc3"
+  },
+  "songwriter_id": "7FGAi3mSjLMsq6p8SErsTA",
+  "fans": 26842,
+  "name": "Cabezones",
+  "reputation": 38,
+  "genres": [
+    "argentine metal",
+    "argentine rock",
+    "latin metal",
+    "latincore",
+    "rock en espanol"
+  ],
+  "recordings": [
+    "2ZCmVIyuxGlF8MKyNMcL8Y",
+    "1RDKHa8uHT0e2HwXY9KsK0"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc4"
+  },
+  "songwriter_id": "17SdOua747pMkSrZFYlr2L",
+  "fans": 18136,
+  "name": "Expulsados",
+  "reputation": 35,
+  "genres": [
+    "argentine punk"
+  ],
+  "recordings": [
+    "5pG2M0EQRjTBaNcK1Ozoed"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc5"
+  },
+  "songwriter_id": "7Ky9MAWbIE0z5VtPSNiMvd",
+  "fans": 18619,
+  "name": "Guitarreros",
+  "reputation": 38,
+  "genres": [
+    "folclore salteno",
+    "folklore argentino"
+  ],
+  "recordings": [
+    "28m3HWrb2ehCMDF3Z75LM3",
+    "5vfL9E8anBE7ZPGPwVGhBY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc6"
+  },
+  "songwriter_id": "2803Kpv7qVYIAyKWfl2RNc",
+  "fans": 12122,
+  "name": "Los del Portezuelo",
+  "reputation": 39,
+  "genres": [
+    "folklore argentino"
+  ],
+  "recordings": [
+    "5ULPFMQ1rDkp8XsyqunJ5d",
+    "17rRg0d8CZMx9yccSNAEyl"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc7"
+  },
+  "songwriter_id": "0TLoZhTnP0vyp61bIO4FgF",
+  "fans": 11691,
+  "name": "Los Sacheros",
+  "reputation": 35,
+  "genres": [
+    "chamame",
+    "folklore argentino"
+  ],
+  "recordings": [
+    "5ZCOYgFHFfjZXE1kS5dMxs",
+    "23Xz4PcuQMPXw7uTXAIyja"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc8"
+  },
+  "songwriter_id": "4mG70wQ5qWBs9GogyP7WuM",
+  "fans": 18931,
+  "name": "La contrà",
+  "reputation": 37,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "recordings": [
+    "6SVfRk1V41tJm9MHzXTHHT",
+    "6X4fk1YMYQNIwDaVnVD3Ut",
+    "5l4vFZvA9YpHNPWfQJEoo0"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bc9"
+  },
+  "songwriter_id": "7hY9Nctj1rismpSsCItWFC",
+  "fans": 7205,
+  "name": "Nacho Prado Y Daniel Campos",
+  "reputation": 40,
+  "genres": [
+    "folclore salteno",
+    "folklore argentino"
+  ],
+  "recordings": [
+    "18mg4rQOALlJsHL3gEAAzj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bca"
+  },
+  "songwriter_id": "6yX2GzaudljEEBKfMZpOXE",
+  "fans": 25556,
+  "name": "Coty Hernández",
+  "reputation": 49,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "recordings": [
+    "752j9FabixCNPWHU2nByil",
+    "2I4e5VF1SQvSrwbtvSlEoY",
+    "4hW1Bq82JYy5tvZLGSS4xQ",
+    "20DbqQ7SNfIbid1UG8LnVq"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bcb"
+  },
+  "songwriter_id": "0gxy0foaJsRc1tfpByJWCK",
+  "fans": 40415,
+  "name": "De La Gran Piñata",
+  "reputation": 39,
+  "genres": [
+    "argentine alternative rock"
+  ],
+  "recordings": [
+    "6KvM9hNOk3Sa7pknGBHHQp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bcc"
+  },
+  "songwriter_id": "5YcTv2UEkzSdBgDUlCHSya",
+  "fans": 4614,
+  "name": "El Suppe'r De Oro",
+  "reputation": 34,
+  "genres": [
+    "chamame"
+  ],
+  "recordings": [
+    "5EpqlFx0EaIQH0yBChXJ8R"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bcd"
+  },
+  "songwriter_id": "75mIeyYiajAsiAMo735gr7",
+  "fans": 19595,
+  "name": "Luz Mala",
+  "reputation": 31,
+  "genres": [
+    "cumbia villera"
+  ],
+  "recordings": [
+    "22wFBRQBtrmPLBjFTthvtd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bce"
+  },
+  "songwriter_id": "7fxj9VjDxGpHfOPEkgxm6e",
+  "fans": 47357,
+  "name": "Ale Ceberio",
+  "reputation": 39,
+  "genres": [
+    "cuarteto"
+  ],
+  "recordings": [
+    "7hIytqIz9AKgutgikzrQij",
+    "6gkkXS8MmLcjRjC3laEcCp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bcf"
+  },
+  "songwriter_id": "1zfAJtfJEpUvMiQxigYj57",
+  "fans": 38423,
+  "name": "Banda de Turistas",
+  "reputation": 37,
+  "genres": [
+    "argentine indie",
+    "argentine rock",
+    "latin rock"
+  ],
+  "recordings": [
+    "3HNapK04Tyu5HgSL9A1q8y"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd0"
+  },
+  "songwriter_id": "6zuShqSKzYP7ZPGMkMFhbL",
+  "fans": 78205,
+  "name": "Chipote",
+  "reputation": 45,
+  "genres": [
+    "cuarteto"
+  ],
+  "recordings": [
+    "1acvvVw1GV9sWBS5GEOhdR",
+    "63Zq5YXl1jIvK3bdP4gSrw",
+    "58sbUD66EPwkdLugHJjMb6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd1"
+  },
+  "songwriter_id": "0l3lrsagH8oE0CAkXdyNMI",
+  "fans": 8889,
+  "name": "El Turco Oliva",
+  "reputation": 35,
+  "genres": [],
+  "recordings": [
+    "3DVEkLep87N6TM6GffOwa8"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd2"
+  },
+  "songwriter_id": "1PvGlWWeeIvW3xeTjAZxda",
+  "fans": 7286,
+  "name": "La Bruja Salguero",
+  "reputation": 32,
+  "genres": [
+    "folclore jujeno",
+    "folklore argentino",
+    "folklore nuevo argentino"
+  ],
+  "recordings": [
+    "4HImzTUgpgjZP5epAww5c7"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd3"
+  },
+  "songwriter_id": "59OheJsvimLlXWvuL9j7Df",
+  "fans": 18409,
+  "name": "Bruno Arias",
+  "reputation": 38,
+  "genres": [
+    "folclore jujeno",
+    "folklore argentino",
+    "folklore nuevo argentino"
+  ],
+  "recordings": [
+    "4HImzTUgpgjZP5epAww5c7"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd4"
+  },
+  "songwriter_id": "625kGlmcaDymYRSEawXlI9",
+  "fans": 16584,
+  "name": "Pitty Murua",
+  "reputation": 41,
+  "genres": [],
+  "recordings": [
+    "3adR8DLAx96wdQ9yvbP8Li",
+    "4MM2hXSpFKcKsLOpnzvPN2"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd5"
+  },
+  "songwriter_id": "4L0qUjWxrWG3vjYu1sasHN",
+  "fans": 42968,
+  "name": "Lisandro Marquez",
+  "reputation": 41,
+  "genres": [
+    "cuarteto"
+  ],
+  "recordings": [
+    "4CIYRfPAUpiCl9OdVu9zcc"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd6"
+  },
+  "songwriter_id": "7v8veUQH2fro2QjkOKS7vB",
+  "fans": 14544,
+  "name": "Coty",
+  "reputation": 40,
+  "genres": [
+    "cumbia santafesina"
+  ],
+  "recordings": [
+    "4p7WDW0Mh0GmDSmqF8e4wi"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd7"
+  },
+  "songwriter_id": "2tt7weNE75ITTS9gLyAmt4",
+  "fans": 44207,
+  "name": "DJ Liendro",
+  "reputation": 44,
+  "genres": [],
+  "recordings": [
+    "1d5hx2nX2Nr87orTqBVR9T"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd8"
+  },
+  "songwriter_id": "5M5yM2s8dqrvy4y0AJ10Z4",
+  "fans": 72894,
+  "name": "Emus DJ",
+  "reputation": 46,
+  "genres": [
+    "cumbia pop"
+  ],
+  "recordings": [
+    "4eBnQjcQJUh6KPPm1MJr9o"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bd9"
+  },
+  "songwriter_id": "5ts3iw277wUG2DUKnqktAD",
+  "fans": 3526,
+  "name": "Monada",
+  "reputation": 45,
+  "genres": [],
+  "recordings": [
+    "4vEarTrAW9KEo3Pbu3vuRw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bda"
+  },
+  "songwriter_id": "7dlkBH23ERFXxuNoMHq94Y",
+  "fans": 188452,
+  "name": "Q' Lokura",
+  "reputation": 65,
+  "genres": [],
+  "recordings": [
+    "4zBUkGnrXrN32qp1Yb2wWm",
+    "0HvKiqOxkcyp1Thijqd4Ha",
+    "0BIBTk9Ztk1a23EFDeL12O",
+    "55jTBSOQ8YKvIYD7XQ6mjy",
+    "5cH2zkVZikF2sHRF0UAmLD",
+    "2UDSQryg2Htz1ZS4YjWOUN",
+    "7iaqnavZDzqMgpBSxW36Sf",
+    "3uCeMxxuMTwQk4ps4egWEf",
+    "0qousYiYP5waNyufKwhb3O",
+    "1ZgViWGusV8yqIUiyXkNN0",
+    "7ByRoLEDta9qeU2dqubei2",
+    "4hUkPGHP86mERlxYzZXF6o"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bdb"
+  },
+  "songwriter_id": "1pmmkE3BIdh9pxHecU09Oo",
+  "fans": 84781,
+  "name": "La banda de Carlitos",
+  "reputation": 40,
+  "genres": [
+    "cuarteto"
+  ],
+  "recordings": [
+    "0MkVMRIAidLA3j4TjCOcFe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bdc"
+  },
+  "songwriter_id": "3SdvCDQe1arGttSS9yMQTl",
+  "fans": 525,
+  "name": "Walter Salinas",
+  "reputation": 43,
+  "genres": [],
+  "recordings": [
+    "0qousYiYP5waNyufKwhb3O"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bdd"
+  },
+  "songwriter_id": "0SJy1J0FgP21lbvGBMKT8H",
+  "fans": 117650,
+  "name": "Camila Moreno",
+  "reputation": 48,
+  "genres": [
+    "chilean indie",
+    "chilean rock",
+    "latin rock",
+    "nueva cancion",
+    "nueva trova chilena",
+    "trova"
+  ],
+  "recordings": [
+    "6EYVI4zwxzP3EnViyiI5x0",
+    "1kNd5W7vGFZDCJi796nnkt",
+    "5dO3GQSHnc5vU5BWDmhNPX",
+    "688Ojx8ItjKB0GrbEYEany",
+    "02fBFDWJa1IbDAPbab0i3S",
+    "0WX1jsA8c7v2jrLBxsWmhL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bde"
+  },
+  "songwriter_id": "6hC3tI1R7sHgplEYPviFZY",
+  "fans": 342,
+  "name": "Carlos Acuña",
+  "reputation": 14,
+  "genres": [
+    "vintage tango"
+  ],
+  "recordings": [
+    "7AdLt5mAhUStautnKqWbiA"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bdf"
+  },
+  "songwriter_id": "2SlcrECcImhbvFUJcp5GlN",
+  "fans": 2828,
+  "name": "Oliver Haidt",
+  "reputation": 33,
+  "genres": [
+    "discofox",
+    "schlager",
+    "volksmusik"
+  ],
+  "recordings": [
+    "6VN5kDFU6FizZYZRUxbSVp",
+    "7sB4OvcwUo8dmG3CLXlXZa"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be0"
+  },
+  "songwriter_id": "6sNHXRLCirFkzNYkAXg4Zq",
+  "fans": 6472,
+  "name": "Jana",
+  "reputation": 41,
+  "genres": [
+    "turbo folk"
+  ],
+  "recordings": [
+    "1IkUzegzio3Uk0QxYmnfJY",
+    "7zc2BJ8cXyqa1iZOMl0ArT"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be1"
+  },
+  "songwriter_id": "3nAt447uifFrfj9s25bPo5",
+  "fans": 245,
+  "name": "Amadeus",
+  "reputation": 29,
+  "genres": [],
+  "recordings": [
+    "4Yj9JIIYsmZ05ueJPS0em0"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be2"
+  },
+  "songwriter_id": "0tgeIciWi8X9H6taJYRu0o",
+  "fans": 45278,
+  "name": "Mono & Nikitaman",
+  "reputation": 45,
+  "genres": [
+    "german reggae"
+  ],
+  "recordings": [
+    "0mILaPWFxUW8UWzyR1Vcop",
+    "1UAjCbQfrW8CGpap0zCBeL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be3"
+  },
+  "songwriter_id": "41U5QueLMyYyJ3Hoe4kKX4",
+  "fans": 30048,
+  "name": "Gurrumul",
+  "reputation": 44,
+  "genres": [
+    "australian indigenous"
+  ],
+  "recordings": [
+    "1KNHSeEOgrd1tuUlEEHAI9",
+    "3oTqeCB3j5Yk1PkCWbRyyj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be4"
+  },
+  "songwriter_id": "2tDVKS41XWT3vvy4A3ZbcV",
+  "fans": 52653,
+  "name": "Gisbert Zu Knyphausen",
+  "reputation": 47,
+  "genres": [
+    "german indie",
+    "german indie folk",
+    "german pop",
+    "german rock",
+    "german singer-songwriter",
+    "liedermacher"
+  ],
+  "recordings": [
+    "1d7jHTOtrZ9Myiee3cOGLd",
+    "2c9NNuOGFS3L9QOs0RdB9M",
+    "7tkLHTBnEHE1qqWdAt2FPD"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be5"
+  },
+  "songwriter_id": "7jy0nL3F5ehHJxXYMBImkk",
+  "fans": 100379,
+  "name": "Frittenbude",
+  "reputation": 46,
+  "genres": [
+    "antideutsche",
+    "elektropunk",
+    "german indie",
+    "german pop",
+    "german rock"
+  ],
+  "recordings": [
+    "1oKpxxe1L6YdriO8SnV6I1",
+    "7jI02mCFkOSivg3NjomHcG"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be6"
+  },
+  "songwriter_id": "01eNVgZ9dzR28mpouhde9h",
+  "fans": 6495,
+  "name": "Matty Valentino",
+  "reputation": 47,
+  "genres": [
+    "discofox",
+    "partyschlager"
+  ],
+  "recordings": [
+    "4txoYsjsBhES9FKOMqrJeE",
+    "7gJc9SPshSHnLSqz2d0ETV"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be7"
+  },
+  "songwriter_id": "1yyVo8VBUjIsROi57j7UIh",
+  "fans": 28517,
+  "name": "Fiva",
+  "reputation": 41,
+  "genres": [
+    "austrian hip hop"
+  ],
+  "recordings": [
+    "2KwBwm5Vxg5h9NNXMqwIDR",
+    "6brxbAHE4bzueqwQLnb3no",
+    "6FBaaxhbZkdP9ym0EK991X",
+    "0NPi54rLfhFhfFNUwWJv4Z",
+    "2N6hMzJBaFLQl9uYmhrEhr"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be8"
+  },
+  "songwriter_id": "41LLNWUptvfbQ9Q7oCefmg",
+  "fans": 423673,
+  "name": "Genetikk",
+  "reputation": 64,
+  "genres": [
+    "christlicher rap",
+    "deep german hip hop",
+    "german hip hop"
+  ],
+  "recordings": [
+    "7u9ZYnwIYRJAS587tSlM4j",
+    "2Nls307Gx84LacdCj7Ql7L",
+    "64Iu1YYGfIkMQWnf0LJHMD",
+    "5IvFgLGsq0LeEf09FuYfA2",
+    "7MWEA1GPJLhsWbA542WDw4",
+    "41AZ9AbtCEjIRSHdyCKqU2",
+    "1Y9YK6H1fopLOZfJdOZMbs"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3be9"
+  },
+  "songwriter_id": "3JE0uoggWwwYG6rSSJk0HN",
+  "fans": 102338,
+  "name": "FIL BO RIVA",
+  "reputation": 56,
+  "genres": [
+    "german indie"
+  ],
+  "recordings": [
+    "6hvpwZPS3x3XSv57qYWiUR",
+    "5veNqlivxPp7aHILe5d05a",
+    "6ajWRDvAfP9ZYZf8x3A13P"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bea"
+  },
+  "songwriter_id": "4sOLJi96MhdlMv5Iz9YZT9",
+  "fans": 36740,
+  "name": "Sean Koch",
+  "reputation": 52,
+  "genres": [
+    "south african alternative",
+    "south african pop",
+    "south african rock"
+  ],
+  "recordings": [
+    "6IWBimM3g5hEA8gUx7qCa1",
+    "1dIaJHPmolbloqp9ZYW5tj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3beb"
+  },
+  "songwriter_id": "74yjU6gHx05PeHAokao6DS",
+  "fans": 15457,
+  "name": "NUGAT",
+  "reputation": 53,
+  "genres": [
+    "german trap",
+    "indie deutschrap"
+  ],
+  "recordings": [
+    "0LqntLixTGtckvBqd0AIUk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bec"
+  },
+  "songwriter_id": "1ZHJdXXtKnmUh2qRN4LmbS",
+  "fans": 235506,
+  "name": "Ben Zucker",
+  "reputation": 59,
+  "genres": [
+    "german pop",
+    "german rock",
+    "schlager"
+  ],
+  "recordings": [
+    "6OniQ6SfLGKJkL0Wn5nNBL",
+    "2g8pMDC1lck27f85wSnO13"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bed"
+  },
+  "songwriter_id": "53xt77SWSCBxurJQWuxUkM",
+  "fans": 16942,
+  "name": "Johnny O'Keefe",
+  "reputation": 31,
+  "genres": [
+    "australian rock"
+  ],
+  "recordings": [
+    "7m3aXBcj8su4xuEb8AQqQ5",
+    "2fSaedNUcRODp2EZIrIgDq",
+    "3A8Ps651OBJSdWlGCNSYC5",
+    "6TJILqAGEMQgAnjBTgIA7T",
+    "7e374TpBHvZUrWBDfvy4vG",
+    "2I4ey4rBBS7dnI7N6ySdHQ",
+    "78c4poyKZl3AqJ0nGUcPLR",
+    "7EfrXxWPnAllvtzl9EH9mx",
+    "2OCfcmz6pNceTXBmTcYQ8C",
+    "3hbSHyWhYOIjeDtFRVewMY",
+    "41QcfAYw7UAAOblcPpNOo8",
+    "79pxWBeMFfK7K9mSte2iDG",
+    "7ki4bimAxUVuG07WfAZBbw",
+    "0hIBQi9wWGlO2qOuulU3ZX",
+    "6se8BoMOzh9nTL035WSdwc"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bee"
+  },
+  "songwriter_id": "7DZDByO8dEuOb1V5JcJPfI",
+  "fans": 12965,
+  "name": "Brian Cadd",
+  "reputation": 32,
+  "genres": [
+    "australian americana",
+    "australian rock"
+  ],
+  "recordings": [
+    "7ixkl0EfRPwRoDUkklhFsa",
+    "7Ef8oT4zNEmi46SONvZn5G"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bef"
+  },
+  "songwriter_id": "3JBecGeEHHqEDjxgjacmkv",
+  "fans": 4660,
+  "name": "Vince Jones",
+  "reputation": 27,
+  "genres": [
+    "australian jazz"
+  ],
+  "recordings": [
+    "3za8AQ1Whgze8gwqIT0Dpq",
+    "1ELxdREem8K2hCYF3DGwIw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf0"
+  },
+  "songwriter_id": "3orc30EUucavid98kNtMEf",
+  "fans": 16913,
+  "name": "Cosmic Psychos",
+  "reputation": 36,
+  "genres": [
+    "australian alternative rock",
+    "australian garage punk",
+    "australian psych"
+  ],
+  "recordings": [
+    "7HaiCHdRnITeQg9IepfxSC"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf1"
+  },
+  "songwriter_id": "6vnGscqt7xfOycanuJEqq9",
+  "fans": 4474,
+  "name": "Kev Carmody",
+  "reputation": 29,
+  "genres": [
+    "australian indigenous"
+  ],
+  "recordings": [
+    "1rPOVzv1LEXFhR8WLVnN9t",
+    "2sIigOeROPCB7E7uZpGXWy",
+    "4ymJqjpgzZUyNSWAShEBMr"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf2"
+  },
+  "songwriter_id": "1gqScLJ95gthFQ3TavIKSk",
+  "fans": 11736,
+  "name": "TISM",
+  "reputation": 37,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "recordings": [
+    "0br5uALQhhXLZqXOLlUlRG",
+    "7MS0Vwg41l1I4KtlrNOLn7",
+    "7kOMpFK3lFZbB3e06XccF3",
+    "22rKejpnd5nNs80PINE0f8",
+    "2bRgvNyVsN2IDeuQVpjCYP",
+    "4J1hpKuHG8wIBrngRrglLk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf3"
+  },
+  "songwriter_id": "7Ljxd3OR0Lxj3MO8gxrKVE",
+  "fans": 707,
+  "name": "Franciscus Henri",
+  "reputation": 33,
+  "genres": [
+    "children's folk"
+  ],
+  "recordings": [
+    "6JbkIWufoBc0eDRO8XLSpk",
+    "7GZ19FXuWBonqvWyR4OEGc",
+    "0DH7AzEaqmuZJ02GNnMjJM",
+    "4IpevnoDacrSzKuUkd0bIT",
+    "7tuXNdFlbBwL80s78VZCn9",
+    "63tgDMlTTEXscmmTowT6nw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf4"
+  },
+  "songwriter_id": "09NEIWHdaWneBWsjYdDnwz",
+  "fans": 16676,
+  "name": "Custard",
+  "reputation": 35,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "recordings": [
+    "2WheuVAKcZsQOZREbYtMvm",
+    "5ISdF6s5tsNkPEi0iINSib",
+    "3dk9yC7HFN9xosS0JVPH4o",
+    "6jrQpctf9Fg3btO1I7qX7X",
+    "2Q6hEaDXzqB49Zhk8oCWT1"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf5"
+  },
+  "songwriter_id": "5uKeKhwXi2w5cXdtoSaqjz",
+  "fans": 81801,
+  "name": "The Waifs",
+  "reputation": 48,
+  "genres": [
+    "australian alternative rock",
+    "australian rock",
+    "indie folk"
+  ],
+  "recordings": [
+    "1mrI3gFVVTPArX1y1miKkP",
+    "2uoxXaadBpSWEmIXSaVMYi",
+    "54aDjRpdM3EQUEkFolmsAP",
+    "7HYLU7M7kYRSSbiuvKye49",
+    "3eCOyxavbi8oPpXrthEcxJ",
+    "3LL8m2SsryZeNONRoJi0Lj",
+    "2S3TJmmhunWmwQwFmBAffL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf6"
+  },
+  "songwriter_id": "3RIsSUoG3tw0S19WabHxiM",
+  "fans": 37306,
+  "name": "Troy Cassar-Daley",
+  "reputation": 44,
+  "genres": [
+    "australian country",
+    "australian pop",
+    "australian rock"
+  ],
+  "recordings": [
+    "0MJNB1nR44ecRegDWpZev0",
+    "6idhj2Z472bI7V5OFBm1pr",
+    "7fyKM08UEosHuJCktaBSvt"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf7"
+  },
+  "songwriter_id": "0n9GlXRDsFC1OQutjpiw81",
+  "fans": 1455,
+  "name": "Neil Murray",
+  "reputation": 29,
+  "genres": [
+    "bush ballad"
+  ],
+  "recordings": [
+    "4GJorpNVRxPdnJs955Dysi"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf8"
+  },
+  "songwriter_id": "5aVKsCIE4jsTKODYwjVVLK",
+  "fans": 29652,
+  "name": "Machine Gun Fellatio",
+  "reputation": 39,
+  "genres": [
+    "australian alternative rock",
+    "australian rock"
+  ],
+  "recordings": [
+    "2xf9nTxHbWa2qSjfqtUcXJ",
+    "5KObYGm2eRzWCkpbIlK71d",
+    "02cC87YyLKhCQjU8IH1Frm"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bf9"
+  },
+  "songwriter_id": "56CaLNpHJAZY0MRw6S5DMB",
+  "fans": 332,
+  "name": "Sean O'Boyle",
+  "reputation": 41,
+  "genres": [
+    "australian children's music"
+  ],
+  "recordings": [
+    "37t5r7q0Cz2FJTH77O3UCx",
+    "6cWDM5a0dUSuFiAyYbJ4OX",
+    "70TpFLy76852OostBB2pYx"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bfa"
+  },
+  "songwriter_id": "0kns2X0IFTXafgOGd2IlKJ",
+  "fans": 44220,
+  "name": "The Butterfly Effect",
+  "reputation": 41,
+  "genres": [
+    "australian alternative rock"
+  ],
+  "recordings": [
+    "0nQxVi30vSdQcu3x0uFfbQ",
+    "0R8SH6rCPXu4MTabtWN6G0",
+    "0pR3wpFOtoIRhsWyhqOdfY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bfb"
+  },
+  "songwriter_id": "42XeVHEwXlejTSpz3lU0Ia",
+  "fans": 34817,
+  "name": "Adam Brand",
+  "reputation": 47,
+  "genres": [
+    "australian country",
+    "australian pop",
+    "classic australian country"
+  ],
+  "recordings": [
+    "6h6lmoL3DyP2oujHiV02CI",
+    "5eJCHC6NaH5pXHqSu6Kdrk",
+    "2QWEe3dQkKiGoTmptw3js1",
+    "24I0oYcIGNr9agujdOQ12B"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bfc"
+  },
+  "songwriter_id": "3h18aXqdmm2F13t6LIbTpq",
+  "fans": 33717,
+  "name": "Little Birdy",
+  "reputation": 37,
+  "genres": [
+    "australian alternative rock",
+    "australian rock",
+    "perth indie"
+  ],
+  "recordings": [
+    "2oDbNu0S9oaZoItnUT6vgO",
+    "2g381K6Sdvf4RYNsfdCLKh",
+    "1wCuEOXAG7miRiPMDBh1iL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bfd"
+  },
+  "songwriter_id": "14ERybNQCYthuN4NHM5uVe",
+  "fans": 21624,
+  "name": "Butterfingers",
+  "reputation": 40,
+  "genres": [
+    "australian alternative rock",
+    "australian hip hop",
+    "australian underground hip hop"
+  ],
+  "recordings": [
+    "6vQJrU2AxoRRgkzIeH8zo1",
+    "5PdUFOY5XmebdMFYNAUlpP",
+    "2AXmW1kCJWjAvuzHqASJ0E",
+    "5nikrNjcpPyofwkTwrtGC3"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bfe"
+  },
+  "songwriter_id": "21wuAm9OFJEeN7h3EozO0r",
+  "fans": 23859,
+  "name": "Kisschasy",
+  "reputation": 42,
+  "genres": [
+    "aussie emo",
+    "australian alternative rock",
+    "australian indie"
+  ],
+  "recordings": [
+    "7HDkrZUhWd4539BGLQgcRf",
+    "1i7fXPo9EG1wNfXC3VrV91",
+    "39IA9GoPnfM9ZNQVoekKXh",
+    "2VNTtjTOgs4fuPFhgjQU3e"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3bff"
+  },
+  "songwriter_id": "4ajzEXRIqw9kvEQQR4femH",
+  "fans": 19826,
+  "name": "Anthony Callea",
+  "reputation": 35,
+  "genres": [
+    "australian pop",
+    "australian talent show"
+  ],
+  "recordings": [
+    "2r9LMUnfsxtDqIZF8ByZ8n"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c00"
+  },
+  "songwriter_id": "0RaO9p4AomXaVUXzV8SPVW",
+  "fans": 15412,
+  "name": "Faker",
+  "reputation": 41,
+  "genres": [
+    "australian alternative rock",
+    "australian indie"
+  ],
+  "recordings": [
+    "3PjKoeIjpJVTN92y69NvD2",
+    "2HwlvOkwACOGFySnp16b9l",
+    "5Dw7Va6ij1yIh6tyMRpmLC"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c01"
+  },
+  "songwriter_id": "1F9bBR1SWdeGnIztqAxQVO",
+  "fans": 27219,
+  "name": "The Sunny Cowgirls",
+  "reputation": 41,
+  "genres": [
+    "australian country",
+    "classic australian country"
+  ],
+  "recordings": [
+    "2BvMgmJfX93gDxhi3rxAwj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c02"
+  },
+  "songwriter_id": "2j9Ronn6pPSxcsqnDbVGpZ",
+  "fans": 47525,
+  "name": "Urthboy",
+  "reputation": 42,
+  "genres": [
+    "australian hip hop",
+    "australian indie",
+    "australian underground hip hop",
+    "conscious hip hop"
+  ],
+  "recordings": [
+    "4u3h3XhLpN6d7TZZ7DW1OR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c03"
+  },
+  "songwriter_id": "3N9qpKjXarCt5AIZRCeqr8",
+  "fans": 95989,
+  "name": "Seth Sentry",
+  "reputation": 51,
+  "genres": [
+    "australian hip hop",
+    "australian indie",
+    "australian trap",
+    "australian underground hip hop"
+  ],
+  "recordings": [
+    "5eaAAviFXWibadcqCBSTG7",
+    "3bxnRKMXMS47tztLLpxxVg",
+    "0zzKIjDvsUDMyPlpEMQvoi",
+    "17vBtPHUd87QA3n15dM2VL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c04"
+  },
+  "songwriter_id": "05STafdfQBBQIV9duONwod",
+  "fans": 18765,
+  "name": "Children Collide",
+  "reputation": 39,
+  "genres": [
+    "australian alternative rock",
+    "australian garage punk",
+    "australian indie",
+    "australian indie rock"
+  ],
+  "recordings": [
+    "6PeWqpOSAd2IOBUa3ZWlgt",
+    "4eLkfHynkLVScVzv4wmPyk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c05"
+  },
+  "songwriter_id": "384DhgGNBZ91pyVJF61u18",
+  "fans": 29412,
+  "name": "Gyroscope",
+  "reputation": 41,
+  "genres": [
+    "australian alternative rock",
+    "australian indie"
+  ],
+  "recordings": [
+    "6hRoSJ3zFVLS20eMlm5UxI",
+    "05YvAxYqhW3ElFVSNjdkay",
+    "1AcsmpZBgAMNrzvB20GmI9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c06"
+  },
+  "songwriter_id": "11PYyk3kBXjDIFHiCc0psS",
+  "fans": 23173,
+  "name": "Paul Dempsey",
+  "reputation": 38,
+  "genres": [
+    "australian alternative rock",
+    "australian indie"
+  ],
+  "recordings": [
+    "7gFYlnip4bR9a98s52xE9Y"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c07"
+  },
+  "songwriter_id": "0EdNPfEHC714LHuN0NPIyU",
+  "fans": 13426,
+  "name": "Short Stack",
+  "reputation": 39,
+  "genres": [
+    "australian pop"
+  ],
+  "recordings": [
+    "532HJgeWZQIGef2hXD6iLd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c08"
+  },
+  "songwriter_id": "3jEg5HvT2cuJQDjwjZxTb0",
+  "fans": 27986,
+  "name": "Timomatic",
+  "reputation": 41,
+  "genres": [
+    "australian pop"
+  ],
+  "recordings": [
+    "0Q91cgw4SYxKrXvTh6FRxc",
+    "6na807uSbIS0E2GUL1d4HL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c09"
+  },
+  "songwriter_id": "4ETXyV9H1p2P1XYgXXTjiO",
+  "fans": 23662,
+  "name": "Busby Marou",
+  "reputation": 44,
+  "genres": [
+    "australian country",
+    "australian indie",
+    "australian indigenous",
+    "australian pop"
+  ],
+  "recordings": [
+    "4a76N7W47CU6JVMcpDYQuO"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c0a"
+  },
+  "songwriter_id": "1r6nvWvnqJYcm8kW3cX1zQ",
+  "fans": 8187,
+  "name": "Justine Clarke",
+  "reputation": 44,
+  "genres": [
+    "australian children's music",
+    "children's folk",
+    "children's music"
+  ],
+  "recordings": [
+    "4zR7Vs5v3AmgBrO9fEoSs2"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c0b"
+  },
+  "songwriter_id": "2zZLuLb5pslOJzeVCnnBQi",
+  "fans": 2104,
+  "name": "Jay Laga'aia",
+  "reputation": 42,
+  "genres": [
+    "australian children's music",
+    "children's music",
+    "preschool children's music"
+  ],
+  "recordings": [
+    "4EjIBfGNzYJUQCxQ7gSZlk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c0c"
+  },
+  "songwriter_id": "0RCHY4NGqCJ5GLWCYz2OiI",
+  "fans": 29020,
+  "name": "#1 Dads",
+  "reputation": 48,
+  "genres": [
+    "australian indie"
+  ],
+  "recordings": [
+    "08iWX11Pwi89iPstV5WZE4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c0d"
+  },
+  "songwriter_id": "6pOtVlJugMBAdUU8OU1xDe",
+  "fans": 9611,
+  "name": "Ainslie Wills",
+  "reputation": 50,
+  "genres": [
+    "melbourne indie"
+  ],
+  "recordings": [
+    "08iWX11Pwi89iPstV5WZE4"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c0e"
+  },
+  "songwriter_id": "4R3mzuQZhfwDkjdE1wx31O",
+  "fans": 19975,
+  "name": "Carmada",
+  "reputation": 39,
+  "genres": [
+    "aussietronica"
+  ],
+  "recordings": [
+    "46dEp5uZy65FLjRgVgxuiF"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c0f"
+  },
+  "songwriter_id": "1SFz3S9eSUTc49ysstadiO",
+  "fans": 75205,
+  "name": "Boo Seeka",
+  "reputation": 52,
+  "genres": [
+    "aussietronica",
+    "australian indie",
+    "australian pop"
+  ],
+  "recordings": [
+    "5GeIdhQ2HZ86I9HsQwvRAP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c10"
+  },
+  "songwriter_id": "1ZcnsSFqWusWlRK01vKE6b",
+  "fans": 59414,
+  "name": "Montaigne",
+  "reputation": 56,
+  "genres": [
+    "australian indie",
+    "australian pop"
+  ],
+  "recordings": [
+    "1RLCci3EUAH9t1spVptRWQ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c11"
+  },
+  "songwriter_id": "34sQ4BJAwfwQsn9OgJtIzj",
+  "fans": 13761,
+  "name": "The Potbelleez",
+  "reputation": 38,
+  "genres": [
+    "aussietronica",
+    "australian dance",
+    "australian house"
+  ],
+  "recordings": [
+    "3XC7jqT27zQWdesY2rbwMf"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c12"
+  },
+  "songwriter_id": "4mLYW48jy9Pwv6KpT74Evf",
+  "fans": 48447,
+  "name": "Big Scary",
+  "reputation": 45,
+  "genres": [
+    "australian indie",
+    "indietronica"
+  ],
+  "recordings": [
+    "7dXpZydn3nVqwyXG7l1AMk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c13"
+  },
+  "songwriter_id": "4zOw0E0NA7B4lIYyc3XNt5",
+  "fans": 44894,
+  "name": "Kingswood",
+  "reputation": 44,
+  "genres": [
+    "australian indie"
+  ],
+  "recordings": [
+    "6YKo8apCHPODSwnTiZTTV5"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c14"
+  },
+  "songwriter_id": "7Fe4vD5WyjtFxlxSO0d7lP",
+  "fans": 34099,
+  "name": "Complete",
+  "reputation": 49,
+  "genres": [
+    "australian underground hip hop",
+    "west australian hip hop"
+  ],
+  "recordings": [
+    "7KTLZDTOrszIj4oJbLsvBo"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c15"
+  },
+  "songwriter_id": "0s2ssiNRVz36nGW8sAv1wI",
+  "fans": 1375,
+  "name": "Paul Hörbiger",
+  "reputation": 20,
+  "genres": [
+    "vintage schlager"
+  ],
+  "recordings": [
+    "1ocBmkMhkRXNUIJ0mp3nON",
+    "7vDi7OgouojuKSJxMw8Y5d",
+    "2KMPkYQCvsk3Pp1v6xrgqS",
+    "1NqQRJWinJCHx2z6xGGCrE",
+    "6rfM5zrKIcKlvmOt99GQNL",
+    "4ut6kdU0bKGYArff4bHisg"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c16"
+  },
+  "songwriter_id": "72Iirq67NwcvcvgjPpiabj",
+  "fans": 1691,
+  "name": "Hans Moser",
+  "reputation": 23,
+  "genres": [
+    "austropop",
+    "vintage schlager"
+  ],
+  "recordings": [
+    "1ocBmkMhkRXNUIJ0mp3nON",
+    "7vDi7OgouojuKSJxMw8Y5d",
+    "2KMPkYQCvsk3Pp1v6xrgqS",
+    "1NqQRJWinJCHx2z6xGGCrE",
+    "6rfM5zrKIcKlvmOt99GQNL",
+    "4ut6kdU0bKGYArff4bHisg",
+    "0RJwaFTE7ZO26cYf4GVAMj",
+    "1QxzMwECNoNOtZ9FiD7oIe",
+    "7M6LrNbmwG6OBGI541jVpo"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c17"
+  },
+  "songwriter_id": "02eUZzLCjVzLteitetsffB",
+  "fans": 6957,
+  "name": "Gert Steinbäcker",
+  "reputation": 34,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "3J4A9Wf20TTTHXNLQIjWPG",
+    "1Gavuh4GwzGZdTwNtHvwrl",
+    "2YWcSxdEsCx2omQCT0sM4m",
+    "6jClPAl7Fv7BuDG7Iwj2z1",
+    "1KUJ8tLZcz2iwjlRHJuGKm",
+    "6wdQCuoW3s3AzltxbCY31p",
+    "09oXcP4KKFb5ahwU0Z6hSe",
+    "1CmOkS3yC3CJgCeQEZO8ZT",
+    "5SlI8R1Yv2rVFxcrV0pJ3i"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c18"
+  },
+  "songwriter_id": "0vr6IcFPFgjLKLUNPDlWmS",
+  "fans": 16010,
+  "name": "PeterLicht",
+  "reputation": 40,
+  "genres": [
+    "cologne indie",
+    "german indie",
+    "german rock",
+    "liedermacher"
+  ],
+  "recordings": [
+    "75jSpwHDakoTAR9oZwU2mI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c19"
+  },
+  "songwriter_id": "55PFCVxZdhFTclW84nNMIJ",
+  "fans": 17664,
+  "name": "Seer",
+  "reputation": 40,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "2cOhurM2xSmueK05pritY3",
+    "717WfrL8UHsFY0Z0t8vQV9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c1a"
+  },
+  "songwriter_id": "39q8IdEh1G6zNMqNQFVhzG",
+  "fans": 2217,
+  "name": "Militärmusik Tirol",
+  "reputation": 36,
+  "genres": [
+    "blaskapelle",
+    "blasmusik",
+    "musikkorps"
+  ],
+  "recordings": [
+    "7IbkX8xZe1oRhm7bffTSLL",
+    "3JiM1Amc7Ek9wiKI1N0uKT",
+    "2XrpIyslcFynjjXFVH0X09",
+    "4P9T4xi0EvD3ZJM8kACzkn"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c1b"
+  },
+  "songwriter_id": "4FL4X4J4kcvOG7d6V4r3PX",
+  "fans": 23326,
+  "name": "Die jungen Zillertaler",
+  "reputation": 42,
+  "genres": [
+    "classic schlager",
+    "partyschlager",
+    "schlager",
+    "volksmusik",
+    "zillertal"
+  ],
+  "recordings": [
+    "2IjeymO0qgP0FU1qa4UXg4",
+    "4j519BYe2oplfAkKgovJo8",
+    "33Un46VhkIKlAwIoqnwfVO",
+    "6Fp4VpI48xFrHseasr6ix2"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c1c"
+  },
+  "songwriter_id": "3z4aXIXMPnlSsk9zJFqmEh",
+  "fans": 1944,
+  "name": "Jonina",
+  "reputation": 39,
+  "genres": [
+    "kindermusik"
+  ],
+  "recordings": [
+    "3ea9o5sfJIOKdEQ72aFBMu"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c1d"
+  },
+  "songwriter_id": "4XL2VdzL4Op5RMAWKxB3EY",
+  "fans": 4557,
+  "name": "Skero",
+  "reputation": 34,
+  "genres": [
+    "austrian hip hop"
+  ],
+  "recordings": [
+    "6Xm9gOTPG3Vm0a4sxb13i8"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c1e"
+  },
+  "songwriter_id": "0nSloWzkGWXwj1v8nOI0Ma",
+  "fans": 45192,
+  "name": "Teesy",
+  "reputation": 51,
+  "genres": [
+    "german pop",
+    "german r&b"
+  ],
+  "recordings": [
+    "5OOzOOSu0xMqgf28twtUkY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c1f"
+  },
+  "songwriter_id": "1HORQCHE3Q4m0tAKiRsIAB",
+  "fans": 101451,
+  "name": "Antilopen Gang",
+  "reputation": 54,
+  "genres": [
+    "antideutsche",
+    "german alternative rap",
+    "indie deutschrap"
+  ],
+  "recordings": [
+    "40Coe8lqUkFfDjWWrjx9X6",
+    "64OZv7nYfdkUYF1FVzZWsY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c20"
+  },
+  "songwriter_id": "3TqfPVt0HX8GCzNOOjDcum",
+  "fans": 164163,
+  "name": "Sun Diego",
+  "reputation": 53,
+  "genres": [
+    "deep german hip hop",
+    "german hip hop"
+  ],
+  "recordings": [
+    "7kYC5ilFc6kXN6YagFRemB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c21"
+  },
+  "songwriter_id": "0lFLP59V4TY3XgnrkFIwxK",
+  "fans": 293146,
+  "name": "Katja Krasavice",
+  "reputation": 64,
+  "genres": [
+    "frauenrap",
+    "german pop",
+    "german viral rap"
+  ],
+  "recordings": [
+    "5rywC2PH49hTpJLXxwGlpE"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c22"
+  },
+  "songwriter_id": "4R0FKprdEeUIbzAwhrYTv2",
+  "fans": 146741,
+  "name": "Elias",
+  "reputation": 60,
+  "genres": [
+    "german hip hop",
+    "german trap"
+  ],
+  "recordings": [
+    "7uCpwrRNkm6ncwAWByIzW9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c23"
+  },
+  "songwriter_id": "1xctIs19lAHOT2FN0GyTHm",
+  "fans": 1,
+  "name": "Fatty George Trio",
+  "reputation": 4,
+  "genres": [],
+  "recordings": [
+    "5OdosCzJsjmihN9s5eiODX",
+    "2P8q93iynZRGOSIUuxv9gb"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c24"
+  },
+  "songwriter_id": "4YRJJ3IzTgjzxpeEN4K0SE",
+  "fans": 0,
+  "name": "Jubilation Brassband",
+  "reputation": 12,
+  "genres": [],
+  "recordings": [
+    "1To3kKg9RtjRofgiRQFa6y",
+    "1E3M6kOzD4ohMNBgCtW87G",
+    "1YW1toaSePn8d1zJWg3HN7",
+    "4cLhACzeRtQjgJCH4Q5Dhu",
+    "04CFx2Q4EIRT0YZSk43a9X",
+    "66KxUkvCZnikryzJ25jMin",
+    "0UDDhzwbjis6Oan5aiuVVu",
+    "3NdS5jPA0aDFsjnhPDdFST",
+    "4pyJMSjdKuLPwLTbw2I1Q9",
+    "3O7ONF6j2ZibSZSUY9jlDS",
+    "70senADjV9EBBXJ8izGJzQ",
+    "4yqPaAQ9HpLTHHYEychliA",
+    "1UnKS2cSoKs4a9hRoRr7sb"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c25"
+  },
+  "songwriter_id": "1ScnTX0lpnIRbC1NuXQ64k",
+  "fans": 1291,
+  "name": "Sigi Maron",
+  "reputation": 20,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "2Q55JNRRT300MvT0jg4gLM",
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c26"
+  },
+  "songwriter_id": "662c1F7YJSx9ZU68qVU6Ou",
+  "fans": 257,
+  "name": "Stemmeisen und Zündschnur",
+  "reputation": 13,
+  "genres": [],
+  "recordings": [
+    "1M7RT5Kzynzei9wB5dRHjk",
+    "5r53kCkK1qtembzVi3OTIj",
+    "0PoKyRx63BzJ0jgPGVkEqV",
+    "0mU6xK0Fr8q17U8OIpUKe3",
+    "1qfmnKyzNuuft5PHvwGmQF",
+    "1WxHTOYcJvIWFlYXriZGmA",
+    "4bO7isD4d57C7rPE4x5lEn",
+    "4VAtGjtcCsvSwkIeO9wLMK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c27"
+  },
+  "songwriter_id": "0ag5nMtlCbWXpXcILYaFAY",
+  "fans": 98,
+  "name": "Oscar Klein",
+  "reputation": 23,
+  "genres": [],
+  "recordings": [
+    "7yHet16hC7K7vTQVe6O8z2",
+    "2ws3aNfhe4nfJpKUzW88Qj",
+    "6u5LurMwhPeSpKPg2qq1uB",
+    "0kJzFmz1lNwKob7RjMLqUc",
+    "4XjKBbeGNwCypLnfAdSmjM",
+    "61KwWo4EJV3gpAat6Qvghr",
+    "5hvb8LD3dXxPQY1rTMEUyI",
+    "4ETHjfMZY5Jn3nw1OW1EQi",
+    "0HX1xqBs21Shv17gxRoTHL",
+    "3gpmEpVxVcKT5ESDFR7h06",
+    "13F740dHJTL3GTJhlvbmIs",
+    "3UV1OWilgAnUOjc8j6eyAD",
+    "76D5KMwzMPp3EaZWROChGt",
+    "0BFQnWcfsE36rekaLT3bWq",
+    "0TVTdqZ0nD34W3DKvLidZi",
+    "4MsGBQ1gGL6BmU0ttGWBa0"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c28"
+  },
+  "songwriter_id": "0J26pURcDFgrPbXu8YLQi8",
+  "fans": 7,
+  "name": "Festival All Stars",
+  "reputation": 10,
+  "genres": [],
+  "recordings": [
+    "1zE51klqbGcTzUjVas2sIy",
+    "1JZ37k0pTupeLtgbvMVjA2",
+    "53REhOcQTDz4CPHVS0kcoH",
+    "6gZ402JFagppaQxYwtkVoK",
+    "7ckRzZn3zh0WnCPhuBQCY9",
+    "5tg4R1CgEQD3ZtZpXD03pl",
+    "54JjaSrmxE1ybkkQenr4ND",
+    "274aWBiJtzBOyJ5JZEpG4i",
+    "36kAduJ6PAbLH2g77dIjUe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c29"
+  },
+  "songwriter_id": "66VRTkNitjm9sdfEGWbkYR",
+  "fans": 3156,
+  "name": "Drahdiwaberl",
+  "reputation": 22,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "6MWnaJjJwwN7V1q1zo6mfo",
+    "2mrBx8BeMu4FR2mIvYg17w",
+    "0jR9YMnGsRL3CYfAyQkGCw",
+    "5e4JFSzfQMGB0uk4k1zjYH",
+    "5LAEgTNBz38i8G7Q1NRQ2p"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c2a"
+  },
+  "songwriter_id": "5qDF2llrbUP7mxxdBQs6D3",
+  "fans": 418,
+  "name": "Karl Ratzer",
+  "reputation": 19,
+  "genres": [
+    "austrian jazz"
+  ],
+  "recordings": [
+    "0D2h3JvY5PIJTkHc4zYjOH",
+    "365odLcxmqHA90g5jNj4uO",
+    "09T9tXF1RCJC0QGudiD9FN",
+    "0HN7UlvqyXRTZFmJ71WFTL",
+    "644zzH82bWMXFKnl3KNjYQ",
+    "2OW39wzxsWXKxHojPSY58b",
+    "2CGjbS5UMHwNxhN9fwmN91",
+    "5sepyQqdc8SDZuDyDEr5L6",
+    "6xe4VOsH3uHSnZj4Lq9q9c",
+    "792NemB21S9RiebJ5plhdx",
+    "5x5xzQaNL38wUwBFQ5Ae8m",
+    "4MWeteM5Wg8BOAiW27Ycpv",
+    "13cHgK1eRBrRJSKY2DCAy8",
+    "3pfisYFfqvN7yFb6K5HkUe",
+    "5RYmo22kZWXrfBBQcsvfsW",
+    "6G5ATISDhKrktajSrg9bt8",
+    "4N3qL6NlzEaK4ZtXT60dF9",
+    "0vUlkCgpr5zx9xZVzy5lRK",
+    "0FjWiTPaZdipVmkpoqPi7m",
+    "5m3vVG27JRZKAEmmxE9GC5",
+    "0Cyuz0RzhltMmGZ6XNT769",
+    "0iGoqXDxFRiJza8GWCf5ZL",
+    "382f8BarWsjRlMdd0gesr3",
+    "6R8mdw7evaf7oUFyrmyr6p",
+    "5Ac2MKsquuLo1IcVNMueAn",
+    "1ACr4uQ4KGoPgbIry2be9k",
+    "2r0umafVTzScxePbwtcYpx",
+    "7chNFTx5kaZlol6lhBERZP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c2b"
+  },
+  "songwriter_id": "4wHkXW0YL5E1xFKyGKvpb5",
+  "fans": 3,
+  "name": "Eva Oskera",
+  "reputation": 14,
+  "genres": [],
+  "recordings": [
+    "6FDreIiEVACdn1DUqGbsZj",
+    "5Tn8yyASBiUaaeOldtumTN",
+    "2sJACJXQXcZt5Jst06FDX9",
+    "0HmSGs3om8YGOss7yc9ma1",
+    "50v2tNiHMv58xzAk6q0WOQ",
+    "70DrbrNm3VllNNgDoDcTZ3",
+    "0NRwCh83gDbnJsSOLqSj09",
+    "5oERFSICQGy3JIbk3kiyOD",
+    "0GnlGwKpYhSqhMBfHBe0H0",
+    "5qj4jgO0xXwOhVy9XjVc8J",
+    "22sLfsKTlV5E0soTgDFOMC",
+    "4iMMAzsIl1UCut6AF7T8Fz",
+    "59zhpbm2IPPfJFEzcJq11C"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c2c"
+  },
+  "songwriter_id": "2fzEsFUqdwRRWV2hnUA5J0",
+  "fans": 1154,
+  "name": "Willi Resetarits",
+  "reputation": 29,
+  "genres": [],
+  "recordings": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c2d"
+  },
+  "songwriter_id": "7ewnh2MTcg4essqHIIcCF0",
+  "fans": 1,
+  "name": "Schurli Herrnstadt",
+  "reputation": 15,
+  "genres": [],
+  "recordings": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c2e"
+  },
+  "songwriter_id": "2iSAwEBz0JwGMw17XRSXiy",
+  "fans": 0,
+  "name": "Herbert Tampier",
+  "reputation": 15,
+  "genres": [],
+  "recordings": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c2f"
+  },
+  "songwriter_id": "10PYJnaYTzQwrr7ZlV9aMI",
+  "fans": 4,
+  "name": "Beatrix Neundlinger",
+  "reputation": 17,
+  "genres": [],
+  "recordings": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c30"
+  },
+  "songwriter_id": "090b34nCQAmpCcYD513ZoP",
+  "fans": 520,
+  "name": "Lukas Resetarits",
+  "reputation": 21,
+  "genres": [
+    "kabarett"
+  ],
+  "recordings": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c31"
+  },
+  "songwriter_id": "65FPzJQHdaS0wwzEYgCSIg",
+  "fans": 14,
+  "name": "Lena Rothstein",
+  "reputation": 15,
+  "genres": [],
+  "recordings": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c32"
+  },
+  "songwriter_id": "3uPn6mx1q2gmMsGtfebqbi",
+  "fans": 0,
+  "name": "Erich Meixner",
+  "reputation": 17,
+  "genres": [],
+  "recordings": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c33"
+  },
+  "songwriter_id": "2EAu5vx9u4NPqBZp9x3Rld",
+  "fans": 1731,
+  "name": "Maria Bill",
+  "reputation": 21,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6",
+    "4Ay0tMwCEf1nDmuKoaorfe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c34"
+  },
+  "songwriter_id": "0fsmPQrj8CDPteLjH6jAF8",
+  "fans": 0,
+  "name": "Alfred Winter",
+  "reputation": 15,
+  "genres": [],
+  "recordings": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c35"
+  },
+  "songwriter_id": "3zQ3WSC2TN1zYwj86rQdwE",
+  "fans": 12,
+  "name": "Angela Berann",
+  "reputation": 15,
+  "genres": [],
+  "recordings": [
+    "440ZNb8S7GAV8lU1YXOyi0",
+    "4ZUEPHZ2l8hJ0ZpDVCZJrZ",
+    "6FFets7uPWO46MgjFYPmIm",
+    "07D8axIWUFtKU52g1FogY7",
+    "39x7Efodybkb8NtqlPzJDp",
+    "7v7Jsd24i2Spgpnx9LiPS1",
+    "1E4JpqmS8wPi4QPLEfjarc",
+    "7N1jcX0DXMDRrlze4giqFQ",
+    "4EDmUsVcZqL06ohL2HlU4w",
+    "1CARPjy4wTqK58tccAYkyz",
+    "4i5NrIM91LqPoQyLUWqA21",
+    "36gsyzE6MDGfn791a5zcT6"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c36"
+  },
+  "songwriter_id": "6vm6yyoBoXVTtd8ygtkKQP",
+  "fans": 3034,
+  "name": "Boris Bukowski",
+  "reputation": 25,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "0cEh6SUMDZ3S3e7L3mloZb",
+    "3kN8xauLTBsixQwqYId63Y",
+    "15U6Vr0YBgtZXAKl4EA2hA",
+    "7HlizQo7qFfv0gTiYXKzZa",
+    "731t4HRzyxakII4GjyGO5E"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c37"
+  },
+  "songwriter_id": "0IS139XlxgrUtELabpXCXU",
+  "fans": 0,
+  "name": "Tatjana Armand",
+  "reputation": 15,
+  "genres": [],
+  "recordings": [
+    "29OApF9DMO6jsxnuDuqKZf",
+    "4atRGU7qBSgPaWuo4OeFYk",
+    "64Ms85f0zQoOW26w3sq2W9",
+    "5pwoUyBMTdZBC9cTQ5nK4q",
+    "2gGvggeHmPQ3OzQoIQ7I4H",
+    "4Ki8z96if9vBQMH9jMwC1T",
+    "1fVihJoo9sesYFLmgRGyXG",
+    "6CKObWeOeq1FBBfhzgQrd3",
+    "1x0tFPaYLwf4D6TN6B8UTy",
+    "3Ne48wg6mPRq51nBL5YOzu",
+    "7eulBCpOM0MBWoxhXBoZcv",
+    "02J2xvoU0kcxnFj2WYoC9E",
+    "7BWpFhSSJotUvcd8hqZnPw",
+    "4v8IrfDCGBJk5FSWAyX3d9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c38"
+  },
+  "songwriter_id": "1aU6ie4Y2CqztAGsLSYwY2",
+  "fans": 2,
+  "name": "Zipflo Weinrich Quartet",
+  "reputation": 14,
+  "genres": [],
+  "recordings": [
+    "4071U7Z6bNSUJ5SqsIyqAJ",
+    "0MpmBq7WNzGcU2ZWQqNhBS",
+    "1l81yMpbmDNNUgToZIfKE8",
+    "5mkrTrdQRCdRLu1FuMXHSv",
+    "0FnIMYb0J327P0fvoLxjDD",
+    "0kq5JNsGtqxXAG5ycM3Fkv",
+    "1KOOgz2NsNDP8IWLVCf1R7",
+    "0kdjY7e44V52WJIYqMljzD",
+    "4a7PK4V52tlInfkSXEkYbT",
+    "5oEMgfihcGZNrvCCL8IHsE",
+    "4UHBIuSeAa0gkxPYftOPgJ",
+    "68l9qSzMvOPC2CBqEUBnEL",
+    "1OgB5Cr6KOQscKvoNs8Ukh",
+    "3EzJDWG7owhu1yzESWHMty",
+    "0cxZJCGl0BclaSwYkPT2mE",
+    "1E2PJj2ZuDq16ZisnSAZxI",
+    "0eSeotbCbFLSYSGVQFQ7Tk",
+    "6NeAaUzCXIgKApTKvp0Xsk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c39"
+  },
+  "songwriter_id": "7KC3KIKb9jMVliLiS74PMU",
+  "fans": 12,
+  "name": "Reinhart Gabriel",
+  "reputation": 31,
+  "genres": [],
+  "recordings": [
+    "3zFuUJ4l1F0iuzH8RpIemg",
+    "5ZGw5Hyikl3xqW8Iy9di9c"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c3a"
+  },
+  "songwriter_id": "6PwmECTvXteKtoBQOMo0WA",
+  "fans": 5903,
+  "name": "Jasmin Muharemovic",
+  "reputation": 31,
+  "genres": [
+    "narodna muzika",
+    "sevdah"
+  ],
+  "recordings": [
+    "6T1ghbjlg2CXOyTsaAOoWa",
+    "0tu4CVLTT8KTUyMFs41Dfa"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c3b"
+  },
+  "songwriter_id": "7sD3G8QKANUDsaNahaPids",
+  "fans": 2831,
+  "name": "Hansi Dujmic",
+  "reputation": 25,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "3pIE5m0ywxwtzVIME5de2i",
+    "3zZxubpHcOe9KG9GgTKkwl",
+    "5UdMp4iIyjiFtUu5hRNGyb",
+    "2M6ZSu7Y5Bzx0iidgTLPV3"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c3c"
+  },
+  "songwriter_id": "4CV49Qz3PyqrcAAgfEOH53",
+  "fans": 8741,
+  "name": "Stefanie Werger",
+  "reputation": 31,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "6JdiQkdLmOiPh3H5NdMa41",
+    "5uWtJdz95gYrcCkJnO3rbj",
+    "79AiXBB3Ng4jYkAfQWDRYu",
+    "42vSrYNY7ci1l5hrTizEeH",
+    "3aoZjTlzj50ZmZKIoBEec5",
+    "30dpCDPcc83HcQneZGzCza",
+    "4pADt0wsnESXju0JR9K5YC",
+    "2lRmmWzlAFHeLDkVuK7iZZ",
+    "3uz99olAAxWa1Ug9TJRUwP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c3d"
+  },
+  "songwriter_id": "31FAK36QTqQYOtoD0VsEcS",
+  "fans": 5,
+  "name": "Das Oberkrainer Echo",
+  "reputation": 16,
+  "genres": [],
+  "recordings": [
+    "4Tt3nOLIMO0PdoMavSQPk7",
+    "6wDlxy6G4EzzAQ98URNtv4",
+    "6wJAzc89k1oIAIlAeYHF9R",
+    "4P0DEhEXo3Azis39f0Mpel",
+    "5V8xw6LI9qbJGNuWc48IA8",
+    "6k7U8SDRV1C3bIvMHdOUhE",
+    "529HRia9TuCjIbcaSnRmFh",
+    "69xUsGMdaVThV4cDEV1rLo",
+    "6OVcK8xzezQmfHrK5ssN8z",
+    "77RTORanpQJqIZqWE8pFng",
+    "2FxjVNlsKuixUVfaphenf1",
+    "2ddfaUrxLUpj9ZZHBf42iH",
+    "1Xx0Xcc0itTbCUl0EimWAY",
+    "7MWmnVBxaqtEy59juzEcqv",
+    "5bidpW2D3JWmzvAjCOWY2x",
+    "3DW47AJ8PHqf2XbJEUXmWl",
+    "0GAKRCXVPJXnd7JRuz7rnz",
+    "3ieGuFOYE1TOXjKbhKswbE",
+    "6iu1qXxp3y10OUpRurfvvY",
+    "5OjDHQETctQWcKO8Lybb24",
+    "3CEGFHI3qZKCH1BwxNXnJH",
+    "1fF5pp0ApvaJBgglwhe4en",
+    "05PvVstgHspFmrhN6FTgvo",
+    "1XSfbbxL2PcLrmwNG7x0gg"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c3e"
+  },
+  "songwriter_id": "222oO9LQoimXbttVBYlKQY",
+  "fans": 47,
+  "name": "Franz Zimmer",
+  "reputation": 23,
+  "genres": [],
+  "recordings": [
+    "7tJtNdj0pU25hQOFc9YTM5",
+    "3yFjmqlBSSAZwEkXagJo26",
+    "23J7tYqz4xf2cdVPs7IeIj",
+    "7I3wUX42Vy5UOGEBaU1LbV",
+    "42n4V9hoOfNjXce6wRlZvF",
+    "7wtgSOWU2Ds1TGNlmDs5gR",
+    "6AzJ9ASg4AP3zffr9hAzXl",
+    "24eLWZSEPE9j8JeKHre1bu",
+    "1xb7yK3Q1lDPT2RlWFpoKj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c3f"
+  },
+  "songwriter_id": "7hyGaB1rayAXp5J3gfjOJu",
+  "fans": 22,
+  "name": "Christl Prager",
+  "reputation": 24,
+  "genres": [],
+  "recordings": [
+    "0AB9xHFUJZec6fjey4VYRG",
+    "64j0fd4AtRckRXKgR355qx",
+    "4b7VFlKOehVm7QgsRtO3hM",
+    "7B1iXfCAHIUMCbXT1zfiOq",
+    "0ywSYBCRE9z9iKgbSS7Bvh"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c40"
+  },
+  "songwriter_id": "6olZP51re1iNpGOYnwNdCo",
+  "fans": 2,
+  "name": "Walter Heider",
+  "reputation": 24,
+  "genres": [],
+  "recordings": [
+    "3Zt6Dsb7uV3qFdzCBrsWor",
+    "6DT9C57iS5qj0o0gNIpHhc",
+    "25McGZDTQQgBndF6MCP644",
+    "2Ps01eWkhfscuHk6bu7s7E",
+    "0IY4qKqRwBKZuSmYatCEeg"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c41"
+  },
+  "songwriter_id": "2mCZFfl9SXeb219eBUv3Tb",
+  "fans": 3,
+  "name": "Rudi Luksch",
+  "reputation": 20,
+  "genres": [],
+  "recordings": [
+    "635z9ou6ko90imJHVXvyAk",
+    "1W88r26mOemGlXv0UlLQgj"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c42"
+  },
+  "songwriter_id": "7dfj7RIEZ4np5RZdH3kvSK",
+  "fans": 367,
+  "name": "Horst Chmela",
+  "reputation": 19,
+  "genres": [],
+  "recordings": [
+    "21TjdOj5Hdy7C0qUpDiJin",
+    "4cka6mFrCs0X3H9iAbojIB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c43"
+  },
+  "songwriter_id": "0Xsv9BPJp7MEEsQb90zkjN",
+  "fans": 25,
+  "name": "Al-X",
+  "reputation": 20,
+  "genres": [
+    "indie electropop",
+    "vapor soul"
+  ],
+  "recordings": [
+    "2nmUQjtJvIyMjrJ7hWpJGR",
+    "0EZFvtEXLQVv5VlVjlYQgc",
+    "5plgksnhFXUnanYPzAvXs5",
+    "0TAdsHmOTLU5gpGXfGQKaj",
+    "6zOYfqHHvD4Wc4s1XmWjOD",
+    "2vXf02THkrwX4ekFVQjDO7",
+    "1L493nhYtcIkMp96dLD0uZ",
+    "0NOhnYt5yEcM3fmE7wzGhu"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c44"
+  },
+  "songwriter_id": "3Agtd9uqhZ8kVMME62fvCo",
+  "fans": 0,
+  "name": "Herbert Rimpl",
+  "reputation": 18,
+  "genres": [],
+  "recordings": [
+    "4v7avu6TGjSph4ebsY8nGB",
+    "1joTCAfBpmta72r42XLPmC",
+    "4LBzfq4NMVEbcbgfMeOuTc",
+    "1YpLizZkTqQLmkBOpYgoBI",
+    "62J43SIMg7htPdGUo3jXw1",
+    "4EcBKudqbl04iwbsiP8Hvi",
+    "1C7RKILwOyJoIPhhAaDLTv",
+    "2bjnKsh2y1tU1febw7MtGX",
+    "1qV8mFP0WaRvIqQApYRHGt",
+    "2G0xOEjXvbnsJxjCrYv6KD",
+    "5zAGcpkuhry4LCIaQc9WoX",
+    "5CPwjGNDQ08XJIcI22cM4m"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c45"
+  },
+  "songwriter_id": "0HLO9t6rVhQQ2og1fH8nsm",
+  "fans": 2,
+  "name": "Lothar Steup-Trio",
+  "reputation": 24,
+  "genres": [],
+  "recordings": [
+    "4v7avu6TGjSph4ebsY8nGB",
+    "1joTCAfBpmta72r42XLPmC",
+    "4LBzfq4NMVEbcbgfMeOuTc",
+    "1YpLizZkTqQLmkBOpYgoBI",
+    "62J43SIMg7htPdGUo3jXw1",
+    "4EcBKudqbl04iwbsiP8Hvi",
+    "1C7RKILwOyJoIPhhAaDLTv",
+    "2bjnKsh2y1tU1febw7MtGX",
+    "1qV8mFP0WaRvIqQApYRHGt",
+    "2G0xOEjXvbnsJxjCrYv6KD",
+    "5zAGcpkuhry4LCIaQc9WoX",
+    "5CPwjGNDQ08XJIcI22cM4m"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c46"
+  },
+  "songwriter_id": "449YEDzs43jOpY3YI6IpFs",
+  "fans": 16,
+  "name": "City Cops",
+  "reputation": 24,
+  "genres": [],
+  "recordings": [
+    "2ctN6smsScCBSx43KCGCNF",
+    "1X36fs2pkTrnspmXLpdZxt",
+    "52Ok6gSpncRiFAJsXpF0Qs",
+    "5NXWxitBtV0XwKLbBRDsnx",
+    "2RGwNPuymIUyxE1hOyqmCd",
+    "2s8CdONCfTFRn17XtEDkR8",
+    "3sxrdx6KyvpjGvMZzS6QGl",
+    "60A4fXILBQ019zeqKha0YO",
+    "6xHRAldqMfsJktwk7Qowx9",
+    "3HJJfK8CI2lymJzrWRy0jf",
+    "7owLY3lhwNHSIf2Vk64dTp",
+    "26ajNek3J5DeY2umgkSLf6",
+    "7ejuH6KFWeUcvbICbI8y4x",
+    "5ZGw5Hyikl3xqW8Iy9di9c",
+    "6wXOgEPrtarjaUkzbCMJt2",
+    "0Cpxj5D4XrayMS3akQt4ip"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c47"
+  },
+  "songwriter_id": "6K1sWkR7FFGDXbcBJoVXpu",
+  "fans": 308,
+  "name": "Hans Koller",
+  "reputation": 16,
+  "genres": [],
+  "recordings": [
+    "0peEqlwt6tkh9jLo9gBnYz",
+    "2VqZL2Xxhypxl8LmvO1k6n",
+    "2sRbu97I5ZFyx4YvwGw6FC",
+    "3qinWqI3cKu16jEfMP8SlF",
+    "7Hqa28VUhGsLhpzkmq9q8L",
+    "6rzAKEsiLbh4o1aAGlgAXP",
+    "74s4IxrhFHterrPixjjkkW",
+    "4IISFNxjaSWrC98mXmeC3G",
+    "65wCNCbGKMzFEfBfZKcu9Q",
+    "1aJjpzpt6Dh33W11lBfyFT",
+    "2QWZt3og2pgLO1GJEFWAKW",
+    "0xZEmUBjdGGJcFFTuGjAg2",
+    "4CDl9KEwOIQUeUZnq2daPd",
+    "0UVRFxMAjvG1gyRBJ9hejz"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c48"
+  },
+  "songwriter_id": "5trVnE5kuC1bW7h72BoR2E",
+  "fans": 8,
+  "name": "Rudi Hofstetter",
+  "reputation": 7,
+  "genres": [],
+  "recordings": [
+    "0bbGiMLKns1OB8U4n5Kn3p",
+    "1gMRbsoSzulfIuwrHqeUOq",
+    "3DITCjK91WKaAimjizVGLr"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c49"
+  },
+  "songwriter_id": "42dYIheYZEb7Yd1SK4jkLx",
+  "fans": 290,
+  "name": "Erni Bieler",
+  "reputation": 8,
+  "genres": [
+    "vintage schlager"
+  ],
+  "recordings": [
+    "0L2aAmjDxRWI1N4c4ZQ5gK",
+    "1gMRbsoSzulfIuwrHqeUOq"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c4a"
+  },
+  "songwriter_id": "2HBic4OlBg0x8zX36eQ7BB",
+  "fans": 5,
+  "name": "Peter Heinz Kersten",
+  "reputation": 4,
+  "genres": [],
+  "recordings": [
+    "17NP9ufXQKjuitGlNM9GSN"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c4b"
+  },
+  "songwriter_id": "6GJwMlxVLRvYmAma3STQLt",
+  "fans": 79,
+  "name": "Fritz Pauer Trio",
+  "reputation": 13,
+  "genres": [],
+  "recordings": [
+    "431uOA0fLXfu7G9sE6pp17",
+    "6ryQiVMmpZlrUMn3d80lnV",
+    "3bDouxtVR1VjItxmEvYE4x",
+    "1r2PK4aJ2qBhRqf3UIJTMx",
+    "5kB6jAkWYOmYam5J2EmJIk",
+    "5C9v1WEMpHiEpKBQCjlJ8A",
+    "2i3RYJ6T5zXLuSEIqtmEEe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c4c"
+  },
+  "songwriter_id": "3zuPMne7Hac8d8zjWx3EUx",
+  "fans": 6554,
+  "name": "Attwenger",
+  "reputation": 24,
+  "genres": [
+    "austropop",
+    "neue volksmusik",
+    "vienna indie"
+  ],
+  "recordings": [
+    "4vQy05VW5Gj55xHn9sMCEG"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c4d"
+  },
+  "songwriter_id": "0b5Zo59WiR7ioOjYZfu514",
+  "fans": 1721,
+  "name": "Alpensound",
+  "reputation": 32,
+  "genres": [
+    "blasmusik",
+    "zillertal"
+  ],
+  "recordings": [
+    "6l2LeSzuRQEeqtbRKmJ50T",
+    "1WczQK9v5IsbBK72C5pi9e",
+    "2HIDvjYnd9skcCI0phIjju",
+    "1pCk2LMoq4lsFOkQQxb73v",
+    "6BpNXuo4ajyUvAamjWBspS",
+    "0jQEVEsyrhhik3MreB7toA"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c4e"
+  },
+  "songwriter_id": "3KT7tZk04I54Rvnznb3cDK",
+  "fans": 2863,
+  "name": "Papermoon",
+  "reputation": 22,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "2T9jopxGi7d92gbU5lmxDh"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c4f"
+  },
+  "songwriter_id": "0TAFEIDOzsXDTVzP58b4sP",
+  "fans": 2,
+  "name": "Demo Boy",
+  "reputation": 21,
+  "genres": [],
+  "recordings": [
+    "6dANSM4njjrBRlLh9YZXCO",
+    "2L0VFAC7ReZRnaJf8I8WOY",
+    "0XrmBjy9NgTn2fYrjxiDpb",
+    "7cTBJcL3iEtc5FyeCubqDd",
+    "74XDYVp7wq13jy7slGeOgl",
+    "2lMaUHOyMNl4JVWAErHThA"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c50"
+  },
+  "songwriter_id": "3n8wZoStbkYCPJok3gmOm9",
+  "fans": 104,
+  "name": "Backgroundmusic",
+  "reputation": 34,
+  "genres": [],
+  "recordings": [
+    "3Ayjvf5SScEcILC0GG7ITS",
+    "0WMuL2T5z4SQ4cymsmIt9C",
+    "6XWSKU0bufMwEuDmVHaHnr",
+    "378WX5qZTbCRz2brEZOeQZ",
+    "3P9SD0AwZ29zv95REY9bVK",
+    "19rm41nBua2zimZZNx6ROm",
+    "31n4hjBPwHnOVN08VagACz",
+    "7uQglHQhhfVJRxbHILq4Ag",
+    "75B4zTK76TFddsIZyPyvAY",
+    "5PBTnQ3SPcRc7RFg5JwzjE",
+    "08eI7Fa49thuELpWqCvceA",
+    "5wrT9dRvmkiW3vZJzNhYGH",
+    "1pt4I9bveCXYXSAJnAbNeg",
+    "7gd58XkKQOEpzKm31kqtS2",
+    "6bMrq27AhqZvkPZK7ar3Kn",
+    "1HaIDo1C5QCFJ1VqzoOjxk",
+    "6l16nUGF26bddNjD0Do5eI",
+    "4KSntDyZ2qn81bQbh1KYd6",
+    "5h43Rvxkb9IbnrSGInixiA",
+    "0iXonmBqzo9faGbuM1HBgc",
+    "6B1BY82foEqqu24FvpdYGH",
+    "0EuGnUyAE7a2RG2MPEDOhi",
+    "5r9Ise9ijjmpQZ6rC08cGG",
+    "3Jx9t71vteQnwHyADkhvdA",
+    "7fl28WL3QyW26VBy3AdOA8",
+    "2WVDmJaMBbLQKlzmgPGyeF",
+    "4zV1RqUAswWYa42R9LKsMg",
+    "5oyBnwTu7BhBPbR27PqgfW",
+    "2YymvRR7ukfp1jaMOnKlQ5",
+    "60DqVHnQY7knrkcMBzshLn",
+    "5jw6rD79wDmcw6Nq4qdr7j",
+    "1Vau29p4PmQjBw4DYQ5732",
+    "2OMWfQKVBcZGEFI3ywnSOa",
+    "6uwJ8vdOaLzqGSZ8KZ4XV1",
+    "6nfaiZOutsAQcCdiBhHKps",
+    "4EmRAn3jzjhsPDawTmh6dQ",
+    "7D91UExVoZ7VsF6Iqmfdss",
+    "3ZxZ0I9xtVTliYXsKrg9N8",
+    "5rCQd34ojPKJdNWTamv5Ew",
+    "1FE7cijM0YWRvQdxp7U3zN",
+    "5mdcoAxa8OMS2MtadRwWd2",
+    "6TefTu2LKAKAL82pRsZn0u",
+    "7mYlgIo5Rb3n8UtlQmK0jU",
+    "5UtjVDfaYFIYleD9lQOjVi",
+    "4a8Fb3OyMYbmNt1Ip6uL1y",
+    "5ZaGtl75yiuAyODovGq074",
+    "4Fr1cY5nNwNeC5X6hOXJ3u",
+    "0gtSRHj9MR2A6LLLtWjkpe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c51"
+  },
+  "songwriter_id": "3mk1O2zfasN4Wgw1szvZ8e",
+  "fans": 78,
+  "name": "Die Tanzgeiger",
+  "reputation": 22,
+  "genres": [],
+  "recordings": [
+    "6UeVytQNCt2Mdg8nDEiKiD",
+    "3SS9kiqEwbdHNXn8MjgWJA",
+    "5L5fEv25j95heAjNAijttX",
+    "4rjbrHWyUYO6FU5gJ1Ntsb",
+    "6pnVWsaRvLdOsInzYQcG5B",
+    "5JvZa5e6UtLrZzaJU2MBeo",
+    "02aNN3OD2LOownGQRcTKKA",
+    "2WYE46l6p1tjE6pu3Fi3RW",
+    "7o1ExYUcYpwP8dVhUxL94r",
+    "74PxAAgdSx42mN1B6HI5BG",
+    "53eETaP3dc5dfsDPfJTJp2",
+    "2Q4rQFSsGqilj5b359nWZa",
+    "21GIyEipWH985IyELKZabG",
+    "0qMIjUh2FoTgKwIZo3ANhO",
+    "7nen5iTgRQLZWQTSd4a9Iq",
+    "1E7cElbLtogqJMo2zIyy1k",
+    "28TOxwIpZiKlFweKyt45zZ",
+    "6PZPqREjFc9bWdACr7wYuc",
+    "7nB5aa8whhhSk6eEomilJq",
+    "19MgIm9Z3Ah92LVCYULiHG",
+    "6ZgiJjCiXqghYwNmczv1Rm",
+    "6yW4TcENF57gbPM5WdkNtH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c52"
+  },
+  "songwriter_id": "0SRMVHC5eMaIclOnwK2pOy",
+  "fans": 7149,
+  "name": "AlpenRebellen",
+  "reputation": 32,
+  "genres": [
+    "volksmusik",
+    "zillertal"
+  ],
+  "recordings": [
+    "0lrhILoS9aNVuUKUoXi8eF",
+    "0DXL0kmWTr0NUMPkFlCiOi",
+    "5RDHbih0EcT23EU08bYcnX",
+    "7aIyyqOtbetRwZwdFLjI24",
+    "6ujJA26UEGLomGrAYY9xxR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c53"
+  },
+  "songwriter_id": "1PscH7644ANKkFBSIJwkHt",
+  "fans": 5760,
+  "name": "Seki Turkovic",
+  "reputation": 28,
+  "genres": [
+    "narodna muzika",
+    "sevdah"
+  ],
+  "recordings": [
+    "6mXaZ5H9uQijDZAbFz77JC",
+    "6CKlRZvDOWRFwwejaDsYDX"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c54"
+  },
+  "songwriter_id": "0whCzvi5KVZvWUGYTfjKG8",
+  "fans": 3,
+  "name": "Elly Wright",
+  "reputation": 18,
+  "genres": [],
+  "recordings": [
+    "3JERpPwfh6Q98EWBTh0omR",
+    "02g5UZuDfr5xYOAjRGl0Ef",
+    "2xodv80xHYftuqTtAYmwFH",
+    "57lnE7y3lYDTFu2HA8Haar",
+    "4btFKNuzJUErUFTpjsXSi5",
+    "6Z7aY05sJaeLUqOrSog0Rd",
+    "6Ojj1hl8tdgE1KZRCEVHu6",
+    "1juzU4D4renQZWTDFyJB1B",
+    "795m3zH0SlJGJ4t2dFYOx1",
+    "32KPGJ64EmQRW3tITSAQl8",
+    "7rKe8ByJq1VdlM8LUuRIG0",
+    "18yHkzUSR44wZSPzJbGuXK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c55"
+  },
+  "songwriter_id": "2tASauXefdvrtHk9JdgFhf",
+  "fans": 40,
+  "name": "Mezzrow - Ladnier Quintet",
+  "reputation": 8,
+  "genres": [],
+  "recordings": [
+    "2Kyy9lBDeSFa3NEYHcilXp"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c56"
+  },
+  "songwriter_id": "0jSih5LPRyNa5x7VMNPqUF",
+  "fans": 22274,
+  "name": "Schürzenjäger",
+  "reputation": 34,
+  "genres": [
+    "oktoberfest"
+  ],
+  "recordings": [
+    "223T6tgHvEJ718xwSuk3Fr",
+    "7H5iaDHpA19f6lyGGEMOCB",
+    "6uw9OEh0cnqv96JzdvMlen",
+    "70p024dkTavHsSiVA2dCXn"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c57"
+  },
+  "songwriter_id": "5sOWddjEptmmxjPoHpkvsQ",
+  "fans": 4,
+  "name": "Noble Sissle and His Orchestra",
+  "reputation": 9,
+  "genres": [],
+  "recordings": [
+    "5V2IalWDOd9ajvNWyEoelM",
+    "0uhuHrjG84NS1hjwdHo858"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c58"
+  },
+  "songwriter_id": "65y8x3zuy7HQVHrb3tn3hM",
+  "fans": 7562,
+  "name": "Zellberg Buam",
+  "reputation": 37,
+  "genres": [
+    "oberkrainer",
+    "volksmusik",
+    "zillertal"
+  ],
+  "recordings": [
+    "6DFNGK65OF8vPBwHmu2JSN",
+    "0LnaSXTkMZewDwhpDnqxfk",
+    "2otOb0yXUFQOsyfylpiiPw",
+    "3lLAD9ewj2UP7lDiBjj3JI",
+    "6GFwJXsmWiv9BEzoJIiGsM"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c59"
+  },
+  "songwriter_id": "711l77zwLTPIiN43h3ZJtL",
+  "fans": 23557,
+  "name": "Dzej",
+  "reputation": 37,
+  "genres": [
+    "narodna muzika",
+    "sevdah",
+    "turbo folk"
+  ],
+  "recordings": [
+    "3fclR0tKjdrlnbU5foRCCZ",
+    "1aKk2xF7gekdhYLbGPS0HC",
+    "6SO0VnVuFRCcpYIUbplgHh"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c5a"
+  },
+  "songwriter_id": "049W43Hw1Up2EXsZDgcmMt",
+  "fans": 13954,
+  "name": "Nina Badric",
+  "reputation": 38,
+  "genres": [
+    "croatian pop",
+    "eurovision",
+    "yugoslav rock"
+  ],
+  "recordings": [
+    "0sLyN7EVQH8Q29lIwtbr0g",
+    "1vMAVukqG9AX4l0KRV1yal"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c5b"
+  },
+  "songwriter_id": "1xmmqPgPSW7jn8rs6fH0e2",
+  "fans": 28029,
+  "name": "Austria 3",
+  "reputation": 41,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "5DqzpNpDjnepPUPsOAXEKF",
+    "7q75I08Bx5ILRUzJPFTX8p",
+    "1jCtxipcCiqclMDy5m1o2l",
+    "5WsfNduYgzvXuIygODUUip",
+    "0bKfaV6AkBgMjwISpAjC5n",
+    "1FSNb9UXkKXNYOR8l46qq0",
+    "1dEOWGx1qIVi8mk7JoKwXw",
+    "3XNCvdlN08lEj6zfA533FU",
+    "5gsGVC8IoBqn3du22uprTB",
+    "3vGEgLYY146oIrTR52XSzu",
+    "73qwYzsINATWo3vUrEwDkc",
+    "6k4AOxkJQ3UJZi2cS3SfrT",
+    "30aackAfIIFcwBtecK3Epv",
+    "0En4vl8RQs8b3VEzDlZd0y",
+    "6IeOxXXCFvi2159T5YrDAM",
+    "5oST9Oj0pnJrAXzwOPxYmj",
+    "0vW0guGXXZdXa7BUVSr9bJ",
+    "0d8iDuS47ANPxYP3VCx6hk",
+    "6OJkFN8XaSLMPvFBds0uZC",
+    "2osAfz829nOe1ZX4Gz4Ezn",
+    "36Dcle2jSWefzNhWmfwz2r",
+    "1CvwYumi2BalQaeyfXOsPS",
+    "7dseb01UEtW7NkeTMOS0UU",
+    "5omxwat9cBosRqmMeRL47B",
+    "6mmyxD4KbR0XdE31paXyT3",
+    "69SGeXrTeU5KXdAeOVpkko",
+    "16WcvTVsbxvbccoJtxLXfc",
+    "5Hakfw9toFqZ5jXd1yM6te",
+    "27F6oOVibSTDo7DEX0dRRy",
+    "4azL1l30XyraYeUI7LGvHp",
+    "2sLdAdKdzCjGLGP5Yp3qIO",
+    "2W8URTQoWKF35jv0NakmmA",
+    "6Va2RPG2a6i5CpvBn3ReRf",
+    "40J3wugYeNO8tYrebhYLDV",
+    "1jzqs4hCuzDmxb5r76Mf9q"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c5c"
+  },
+  "songwriter_id": "3R1JFatRKS23NVIaUqMnDl",
+  "fans": 1,
+  "name": "Oscar Klein Quartett",
+  "reputation": 19,
+  "genres": [],
+  "recordings": [
+    "4OtSzXjH04FhdkI9XlV7aE",
+    "05cbxFBgKj04IuZhQ51ov2"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c5d"
+  },
+  "songwriter_id": "4V8kdr5P3wbMWlmN49ZJ0I",
+  "fans": 2,
+  "name": "Joe Hans Wirtl",
+  "reputation": 21,
+  "genres": [],
+  "recordings": [
+    "7uKvmpyopJgdVCJpRQXdUu",
+    "4leyQEicezG2YNfeftHhFp",
+    "3GyRUKStTf3Y0bjIwGnMOE",
+    "2wZAyN56BCww0RqDuhr9PR",
+    "6XPfbMQwoQFAAKh5QKwqod",
+    "5gHsTF2heQDIrUMvFC8Kpr",
+    "0BZqss653OUw3U6awR40k8",
+    "4aT1gNxTJAfs3igxnDGLr9",
+    "1gxkGhELok3qRkNCeFfv34",
+    "7ydVIqSDh3iSwKqtmO3pMd",
+    "3TPJEEInLzT0f95KZqm2Na",
+    "6H1J9QWAFwLV43GRNZ2P0b",
+    "6tv782xHOAfQDyXS51F8we",
+    "3iBdN2ucPeYUVhAZ2uFV9H",
+    "3PPUV0hke3YShqnReXBKVu",
+    "251qRsuXz5To613jLBYmVF"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c5e"
+  },
+  "songwriter_id": "058bioyBUzSkKCfrqvODLu",
+  "fans": 16411,
+  "name": "Ursprung Buam",
+  "reputation": 39,
+  "genres": [
+    "oberkrainer",
+    "volksmusik",
+    "zillertal"
+  ],
+  "recordings": [
+    "2NaEs77H48lzwU5PuDVICM",
+    "2sIb0LaQsxpw0WCUZsTcKP",
+    "2H5LSBsPjuSLWPQBSOoqFP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c5f"
+  },
+  "songwriter_id": "1JbDmDlop4Pm4IyJhc22jt",
+  "fans": 20390,
+  "name": "Petar Grašo",
+  "reputation": 41,
+  "genres": [
+    "croatian pop",
+    "yugoslav rock"
+  ],
+  "recordings": [
+    "6C8Nva04TeYOOaOYdIlJHz",
+    "5qDAe0YfvkuXgdO650726v"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c60"
+  },
+  "songwriter_id": "7f48lH588r6zo8ehM8W6ZE",
+  "fans": 301,
+  "name": "Whatever",
+  "reputation": 34,
+  "genres": [],
+  "recordings": [
+    "30ZsVrTK7vhVVdmT7DEAeq",
+    "6U8kIdkj9lKfYCwMG7XsBB",
+    "1H3QE9T4isn7SeClLxtppk",
+    "58GoNv0Yigu386DRCiz0Ct",
+    "0fYstH79Udv6MwOjOjLCs4",
+    "33cGWVy8214bQR6JE6RLL9",
+    "1uIVM0sz02DxtALy8BaoWR",
+    "7LBpgYYNepp1vlYJuassoH",
+    "0vLvUkqqw6TMCIVWL75K7B",
+    "2YMX44ovBIllOW3x7qGWCe"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c61"
+  },
+  "songwriter_id": "3ARTpaBnC94FVM8X4zTZV0",
+  "fans": 9585,
+  "name": "Rade Lackovic",
+  "reputation": 38,
+  "genres": [
+    "narodna muzika",
+    "sevdah",
+    "turbo folk"
+  ],
+  "recordings": [
+    "4KkfgqbCyXKHs7zUBA120O",
+    "5q54nhoQ7pOZlleR0DNiKQ",
+    "23IiwlU2Tbt7Uh7g8sZZwT"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c62"
+  },
+  "songwriter_id": "1Y4TI8dYJBMjMSq6ojiMje",
+  "fans": 3713,
+  "name": "Die Fidelen Mölltaler",
+  "reputation": 30,
+  "genres": [
+    "blaskapelle",
+    "swiss folk",
+    "volksmusik",
+    "zillertal"
+  ],
+  "recordings": [
+    "4Nfd91XYD16Rx5R2hPRo7c",
+    "3NKn8ElbAFL6G6AR9qKHgK"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c63"
+  },
+  "songwriter_id": "40GGIb7qIrskWYK2JHpyZH",
+  "fans": 7954,
+  "name": "Marta Savic",
+  "reputation": 30,
+  "genres": [
+    "sevdah",
+    "turbo folk"
+  ],
+  "recordings": [
+    "07WMwrGC61FvChSsDe20wu",
+    "2gOmko3OtEwl1rWcJnaouJ"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c64"
+  },
+  "songwriter_id": "7yFvfvcZ9L9joFdD2ALKJI",
+  "fans": 3336,
+  "name": "Ado Gegaj",
+  "reputation": 29,
+  "genres": [
+    "narodna muzika",
+    "sevdah"
+  ],
+  "recordings": [
+    "0haMuFhxj1aduJTDQ7g5cC",
+    "6ercZL5sS3CRinkmQU6zvB"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c65"
+  },
+  "songwriter_id": "4QjlsxGLNrgr4Qm6zcLafx",
+  "fans": 4251,
+  "name": "Asim Bajric",
+  "reputation": 37,
+  "genres": [],
+  "recordings": [
+    "4s9Q9P0Ev6Z4Vg930CZ1Gd"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c66"
+  },
+  "songwriter_id": "3ixpbCRBVOX0c8g6a6eIVg",
+  "fans": 6718,
+  "name": "Die Edlseer",
+  "reputation": 34,
+  "genres": [
+    "volksmusik",
+    "zillertal"
+  ],
+  "recordings": [
+    "2r7p1uVRtXA8MSNKAFzgel"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c67"
+  },
+  "songwriter_id": "0mGILIJWpHmDQuHfxaIBqz",
+  "fans": 552,
+  "name": "Rising Girl",
+  "reputation": 27,
+  "genres": [],
+  "recordings": [
+    "3vvJYDTiiPywVGEAgYff03"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c68"
+  },
+  "songwriter_id": "4uQ7lQs9bxenbl5WQTaUf5",
+  "fans": 15595,
+  "name": "Jovan Perisic",
+  "reputation": 40,
+  "genres": [
+    "sevdah",
+    "turbo folk"
+  ],
+  "recordings": [
+    "7JGCWx79k3yz5rffyBUbip",
+    "2lxM9k93knAtqi6JEe2FnN"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c69"
+  },
+  "songwriter_id": "6o9br0TgZMMQbDnAxLKoC0",
+  "fans": 5115,
+  "name": "Emina",
+  "reputation": 42,
+  "genres": [
+    "turbo folk"
+  ],
+  "recordings": [
+    "3Z8Zvz0E0SPvYdbgBzNGDz"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c6a"
+  },
+  "songwriter_id": "2fvI7o5v5e1U8iVvfRp9sH",
+  "fans": 9620,
+  "name": "Die Grubertaler",
+  "reputation": 40,
+  "genres": [
+    "oktoberfest",
+    "volksmusik",
+    "zillertal"
+  ],
+  "recordings": [
+    "241rGH27h67nFehbsLHvD5",
+    "5HzZfvNWKk4HDt7hHBO7ie",
+    "6iUd31f5UXUAAF5AK08taE",
+    "6jOrKQK0sIhEAZXYIfIjIA"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c6b"
+  },
+  "songwriter_id": "2abRLEEF4vohaF8BJf23sj",
+  "fans": 640,
+  "name": "Nickerbocker",
+  "reputation": 37,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "60cit3OzWNxraCM21YdalI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c6c"
+  },
+  "songwriter_id": "1BSQPdLAixzy85f5AXzVkp",
+  "fans": 5879,
+  "name": "Die Innsbrucker Böhmische",
+  "reputation": 38,
+  "genres": [
+    "blaskapelle",
+    "blasmusik"
+  ],
+  "recordings": [
+    "2Gra5abgzOrtL8bxx3XDOm"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c6d"
+  },
+  "songwriter_id": "6JmEMwDNuSUI03atBjGLT2",
+  "fans": 7707,
+  "name": "da Blechhauf´n",
+  "reputation": 36,
+  "genres": [
+    "blaskapelle",
+    "blasmusik",
+    "brass ensemble"
+  ],
+  "recordings": [
+    "5bAMOJLiZ2HouBTrwCvBrH"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c6e"
+  },
+  "songwriter_id": "6954hAhJVFELmb7rH5QjeX",
+  "fans": 2040,
+  "name": "Wally Warning",
+  "reputation": 28,
+  "genres": [
+    "german reggae"
+  ],
+  "recordings": [
+    "159gOJ1ZxJ7t5glGKxY2sN"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c6f"
+  },
+  "songwriter_id": "5l61fwQHdgaRSE6pazXvld",
+  "fans": 3514,
+  "name": "Alpenoberkrainer",
+  "reputation": 34,
+  "genres": [
+    "blasmusik",
+    "oberkrainer",
+    "swiss folk",
+    "volksmusik",
+    "zillertal"
+  ],
+  "recordings": [
+    "0hqK7GNkVcqQVKlusFO86D",
+    "1gXzH6ZV1kIhDHwjQASdei",
+    "3gsy8miRpBZS8uIj2XOds5"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c70"
+  },
+  "songwriter_id": "6w9qL3TcjDhq2x3Hsv2uSu",
+  "fans": 26670,
+  "name": "Dženan Lončarević",
+  "reputation": 41,
+  "genres": [
+    "turbo folk"
+  ],
+  "recordings": [
+    "1SOM70ULFPjvHSwLvcLPlC"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c71"
+  },
+  "songwriter_id": "6wBWBLQgEwIsC9galiOb7l",
+  "fans": 5650,
+  "name": "Holstuonarmusigbigbandclub",
+  "reputation": 36,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "3KttDSBXuACB5l9w8OtXfJ",
+    "5czfexUen9kxkphr8Ft9NE",
+    "2RKqH6nRfcKl7LR8M4yQfu"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c72"
+  },
+  "songwriter_id": "2CAmsUBJx7cg9HyxpYmlTM",
+  "fans": 3648,
+  "name": "Arik Brauer",
+  "reputation": 26,
+  "genres": [
+    "austropop",
+    "liedermacher"
+  ],
+  "recordings": [
+    "7D8jgqrXqSsFDyLJi4kLWT"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c73"
+  },
+  "songwriter_id": "0CqVW8NVc62ieVTxtvLnT0",
+  "fans": 8671,
+  "name": "5/8erl In Ehr'n",
+  "reputation": 30,
+  "genres": [
+    "austrian indie",
+    "austropop"
+  ],
+  "recordings": [
+    "612alrqNYNoIqDv9aTnZ61"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c74"
+  },
+  "songwriter_id": "5dEmNDjaVcNDfSiwkbghyM",
+  "fans": 6160,
+  "name": "Zillertaler Haderlumpen",
+  "reputation": 33,
+  "genres": [
+    "volksmusik",
+    "volkstumliche musik",
+    "zillertal"
+  ],
+  "recordings": [
+    "1MZ1jHS7BLJ5gsyb6nPbAY"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c75"
+  },
+  "songwriter_id": "0fLubJall2M6nQ61eCphyj",
+  "fans": 26978,
+  "name": "Natasa Bekvalac",
+  "reputation": 41,
+  "genres": [
+    "turbo folk"
+  ],
+  "recordings": [
+    "7yaY5L04OW57240FxSc2Qk"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c76"
+  },
+  "songwriter_id": "245cfTGLRjFApGjsOe1hLL",
+  "fans": 20161,
+  "name": "Steaming Satellites",
+  "reputation": 39,
+  "genres": [
+    "salzburg indie",
+    "vienna indie"
+  ],
+  "recordings": [
+    "0Yttun1hAYRl2Aq8eYPT6Q",
+    "1SiUYI4mRNCEiTqCfwIR57",
+    "7k1vbvXThJcd1pg1aCOZ1l"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c77"
+  },
+  "songwriter_id": "3Gp8VWTInvWvTiKu30ANd9",
+  "fans": 2487,
+  "name": "Matze Knop",
+  "reputation": 39,
+  "genres": [],
+  "recordings": [
+    "3brcfrah29RwbLpCLyHVHA"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c78"
+  },
+  "songwriter_id": "31CO1Q5pWgISHGf1D7cdT1",
+  "fans": 68,
+  "name": "Das Phantom Orchester",
+  "reputation": 29,
+  "genres": [],
+  "recordings": [
+    "6brxbAHE4bzueqwQLnb3no",
+    "6FBaaxhbZkdP9ym0EK991X"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c79"
+  },
+  "songwriter_id": "0qDjS3REOxIaHm4gn0tyyS",
+  "fans": 29396,
+  "name": "Miligram",
+  "reputation": 43,
+  "genres": [
+    "turbo folk"
+  ],
+  "recordings": [
+    "5Pk22JyzuBMprPml3HB9hP"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c7a"
+  },
+  "songwriter_id": "69kcnEE47Kd8pe8thqWik9",
+  "fans": 8413,
+  "name": "Hannah",
+  "reputation": 35,
+  "genres": [
+    "austrian pop"
+  ],
+  "recordings": [
+    "5GNIVKeDu7GftsG78ajSAy"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c7b"
+  },
+  "songwriter_id": "6qndIEvgFHLSuVsWADtFnu",
+  "fans": 7467,
+  "name": "Emadj",
+  "reputation": 35,
+  "genres": [
+    "italian trance"
+  ],
+  "recordings": [
+    "6wcO4uI2dnf6VPVJW6BCsD",
+    "5kEitmCApcxCSwcLFpS2Eq",
+    "28qGsKpDQucdS2T9oPSzi4",
+    "4hbIeoo9KwGGrEVwaqmV2Y"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c7c"
+  },
+  "songwriter_id": "5GQTwRGlE59rEbXDfGXoYI",
+  "fans": 10713,
+  "name": "Viera Blech",
+  "reputation": 41,
+  "genres": [
+    "blaskapelle",
+    "blasmusik"
+  ],
+  "recordings": [
+    "2XJyZMNuPwjCJk6elxbTJw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c7d"
+  },
+  "songwriter_id": "415CxUpa6CcHgLB9o7C4jJ",
+  "fans": 22175,
+  "name": "folkshilfe",
+  "reputation": 42,
+  "genres": [
+    "austropop",
+    "volkspop"
+  ],
+  "recordings": [
+    "0GMXiUAsc2pO9vNx70dliv",
+    "06KlrajGCAuZdxAqrJBSMz",
+    "5XUoqljPd3QSiwcG3N5tme"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c7e"
+  },
+  "songwriter_id": "4EXVZI73RObbQTd4vSmwyS",
+  "fans": 1053,
+  "name": "Leo Aberer",
+  "reputation": 24,
+  "genres": [],
+  "recordings": [
+    "6oDgwUtdXLJqoGXgxJVbCM"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c7f"
+  },
+  "songwriter_id": "5Q21lE17HPq3sOPh7bnWUm",
+  "fans": 14416,
+  "name": "Marco Wagner",
+  "reputation": 46,
+  "genres": [
+    "partyschlager"
+  ],
+  "recordings": [
+    "2tUxTQSGGteM7HljpqWU6J"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c80"
+  },
+  "songwriter_id": "0iUE4vZTKK9L3QH7bjOIhF",
+  "fans": 274,
+  "name": "Die Obersteirer",
+  "reputation": 36,
+  "genres": [],
+  "recordings": [
+    "2tUxTQSGGteM7HljpqWU6J"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c81"
+  },
+  "songwriter_id": "5TWfctF6c9Iiq35fU8EJMi",
+  "fans": 10599,
+  "name": "Lemo",
+  "reputation": 42,
+  "genres": [
+    "austropop"
+  ],
+  "recordings": [
+    "74fONxiQvXM4Ypdn3FkPIM",
+    "5HchKSJpC6Wy0rCMi5QzoP",
+    "5RFajDIZKZwz5WYNxr6ZY9",
+    "35krTfayGlMi8npczgUGE9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c82"
+  },
+  "songwriter_id": "2tuopAJlzPXrCsuAmae4sc",
+  "fans": 17486,
+  "name": "DeSchoWieda",
+  "reputation": 40,
+  "genres": [
+    "neue volksmusik",
+    "volkspop"
+  ],
+  "recordings": [
+    "5DBbLnpudojxfO6alK53rV"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c83"
+  },
+  "songwriter_id": "41g2y82Z8CADYGlzujOzKp",
+  "fans": 15176,
+  "name": "Some Sprouts",
+  "reputation": 48,
+  "genres": [
+    "german indie"
+  ],
+  "recordings": [
+    "0JmH9PvuIDyEbaSMRO7aGL"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c84"
+  },
+  "songwriter_id": "781WTPTstx1pdofBtCsZFs",
+  "fans": 2452,
+  "name": "Alle Achtung",
+  "reputation": 48,
+  "genres": [
+    "graz indie"
+  ],
+  "recordings": [
+    "7vdDVWWrTkg7LYwkgcWha9"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c85"
+  },
+  "songwriter_id": "72578usTM6Cj5qWsi471Nc",
+  "fans": 248568,
+  "name": "Raghu Dixit",
+  "reputation": 52,
+  "genres": [
+    "filmi",
+    "indian folk",
+    "indian rock",
+    "kannada pop"
+  ],
+  "recordings": [
+    "0WzODQag2H6Ob1JPOpSYSM",
+    "4uqs4He9JdU4ztAQtsgmyF",
+    "555NYWQ1PbmLJiTW6XFwtr",
+    "7yhvflcXyqw1pQgCSnelZ4",
+    "6J8qcTesEfzpGhZjBa6kfV",
+    "4ve9p2wRIRnwM7bbFHmtZG",
+    "3U4aD5lR1h9WrO3eUPaf6H",
+    "2HHnW1zEozzxU9spZVGO5I"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c86"
+  },
+  "songwriter_id": "7b6Ui7JVaBDEfZB9k6nHL0",
+  "fans": 701766,
+  "name": "The Local Train",
+  "reputation": 57,
+  "genres": [
+    "desi pop",
+    "hindi indie",
+    "indian indie",
+    "indian rock",
+    "new delhi indie",
+    "sufi"
+  ],
+  "recordings": [
+    "2qgXrzJsry4KgYoJCpuaul",
+    "6ZmtxXUXRVjxOhugKkmerC",
+    "5VSJ9OfZx8V91A7u8Fuoh1",
+    "2sNMcxZh7AwImXtrv8UV3S",
+    "1H5TcdTdMYvOfJ31SAA6H5",
+    "6IskNuvBwK8YzFrjvXIp5h",
+    "4LtSTc3xANVhYeeN69nscM",
+    "3Gc4zbfvgZSBEfpd0aWEFb"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c87"
+  },
+  "songwriter_id": "4gdMJYnopf2nEUcanAwstx",
+  "fans": 103905,
+  "name": "Anuv Jain",
+  "reputation": 58,
+  "genres": [
+    "hindi indie",
+    "indian indie",
+    "indian singer-songwriter"
+  ],
+  "recordings": [
+    "5iCY0TXNImK4hyKfcplQsg",
+    "4BL4aEbddW0OGv6fFYYFUt",
+    "6Ln89sczgIcAJXGAIdS94R",
+    "74kCarkFBzXYXNkkYJIsG0",
+    "1xtkLqZcGPQZP9549WlmfH",
+    "5qyEyqpT0TBVun8W07MEmR"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c88"
+  },
+  "songwriter_id": "5wJ1H6ud777odtZl5gG507",
+  "fans": 211174,
+  "name": "Vishal Mishra",
+  "reputation": 66,
+  "genres": [
+    "desi pop",
+    "modern bollywood"
+  ],
+  "recordings": [
+    "5w0Xpt2YHT2Y3z3e4UUJP7",
+    "1y1rQTkWmrZdJmjwuK07GC",
+    "53S98SFeRSxjd7F7eUnfAJ",
+    "6LpswW9691XT9OjVSvDU6G",
+    "0UZLaEOSIc5kg0cc7eszqC",
+    "5LrLEdTTE5eGsVnwJNByII"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c89"
+  },
+  "songwriter_id": "4bvGDTEPFnllKiJaEZGuXk",
+  "fans": 6395,
+  "name": "Achint",
+  "reputation": 49,
+  "genres": [
+    "indian folk"
+  ],
+  "recordings": [
+    "3A04b0nJb2nAzGUw2rqDsI"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c8a"
+  },
+  "songwriter_id": "7DLDYPMRJ0NFPcBTlg04DE",
+  "fans": 187,
+  "name": "Guru Dutt",
+  "reputation": 2,
+  "genres": [],
+  "recordings": [
+    "1YZkudiD6LfY5vmZKdOTyO",
+    "36OG5Ep6IPA4Mj6TxoTpcw"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c8b"
+  },
+  "songwriter_id": "2KewEocognk3bL1lQZe45G",
+  "fans": 10609,
+  "name": "C2d",
+  "reputation": 58,
+  "genres": [],
+  "recordings": [
+    "6r3Wa1lkJVEuc67aZhwO61"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c8c"
+  },
+  "songwriter_id": "0n4a5imdLBN24fIrBWoqrv",
+  "fans": 328492,
+  "name": "Because",
+  "reputation": 59,
+  "genres": [
+    "opm",
+    "pinoy hip hop",
+    "pinoy r&b",
+    "pinoy trap",
+    "tagalog rap"
+  ],
+  "recordings": [
+    "0WRSaei4JRI1KTYhMqQh9y",
+    "2aBdvC7X0r68dhp7O2gY2k",
+    "0AvWhHI8TjPJwVl8KkeBPJ",
+    "0AiUFrU3Bj0ZzYFSWoAM0O"
+  ]
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c8d"
+  },
+  "songwriter_id": "1104165",
+  "fans": 361,
+  "name": "Danielle Bollinger",
+  "reputation": 7,
+  "genres": [
+    "deep vocal house"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c8e"
+  },
+  "songwriter_id": "1104166",
+  "fans": 46,
+  "name": "Hiroaki Yamazaki & Dynamics",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c8f"
+  },
+  "songwriter_id": "1104167",
+  "fans": 1,
+  "name": "Mrdeath",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c90"
+  },
+  "songwriter_id": "1104168",
+  "fans": 54,
+  "name": "Amante",
+  "reputation": 8,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c91"
+  },
+  "songwriter_id": "1104169",
+  "fans": 3008,
+  "name": "Twen",
+  "reputation": 15,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c92"
+  },
+  "songwriter_id": "1104170",
+  "fans": 11,
+  "name": "D2com",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c93"
+  },
+  "songwriter_id": "1104171",
+  "fans": 3,
+  "name": "DJ Billy The Willy",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c94"
+  },
+  "songwriter_id": "1104172",
+  "fans": 188,
+  "name": "The Dirty Christmas Band",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c95"
+  },
+  "songwriter_id": "1104173",
+  "fans": 5,
+  "name": "Dirty-Z",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c96"
+  },
+  "songwriter_id": "1104174",
+  "fans": 54,
+  "name": "Miss Papaya",
+  "reputation": 0,
+  "genres": [
+    "bubblegum dance"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c97"
+  },
+  "songwriter_id": "1104175",
+  "fans": 16,
+  "name": "Bambie",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c98"
+  },
+  "songwriter_id": "1104176",
+  "fans": 14,
+  "name": "Hd Blue",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c99"
+  },
+  "songwriter_id": "1104177",
+  "fans": 4,
+  "name": "TRIPONAS (ANALOG PUSSY)",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c9a"
+  },
+  "songwriter_id": "1104178",
+  "fans": 1,
+  "name": "big.peaches",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c9b"
+  },
+  "songwriter_id": "1104179",
+  "fans": 7,
+  "name": "Lonnie Chance",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c9c"
+  },
+  "songwriter_id": "1104180",
+  "fans": 29,
+  "name": "TV Rock & Luke Chable",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c9d"
+  },
+  "songwriter_id": "1104181",
+  "fans": 2,
+  "name": "Lil' Face",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c9e"
+  },
+  "songwriter_id": "1104182",
+  "fans": 4,
+  "name": "Sobel Allstars",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3c9f"
+  },
+  "songwriter_id": "1104183",
+  "fans": 1,
+  "name": "Paul Morrell feat. Sonique",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca0"
+  },
+  "songwriter_id": "1104184",
+  "fans": 7,
+  "name": "Karl Hepler",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca1"
+  },
+  "songwriter_id": "1104185",
+  "fans": 1,
+  "name": "eXise",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca2"
+  },
+  "songwriter_id": "1104186",
+  "fans": 79,
+  "name": "Paul Barry",
+  "reputation": 2,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca3"
+  },
+  "songwriter_id": "1104187",
+  "fans": 12,
+  "name": "Bob Dechamps",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca4"
+  },
+  "songwriter_id": "1104188",
+  "fans": 118,
+  "name": "MarcAlex",
+  "reputation": 7,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca5"
+  },
+  "songwriter_id": "1104189",
+  "fans": 0,
+  "name": "Dance Aid",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca6"
+  },
+  "songwriter_id": "1104190",
+  "fans": 407,
+  "name": "Young Fire",
+  "reputation": 22,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca7"
+  },
+  "songwriter_id": "1104191",
+  "fans": 6,
+  "name": "Yvonne Lee",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca8"
+  },
+  "songwriter_id": "1104192",
+  "fans": 2,
+  "name": "Spencer & Natalie Powers",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ca9"
+  },
+  "songwriter_id": "1104193",
+  "fans": 6,
+  "name": "Rick & Lisa",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3caa"
+  },
+  "songwriter_id": "1104194",
+  "fans": 7,
+  "name": "Simongad",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cab"
+  },
+  "songwriter_id": "1104195",
+  "fans": 193,
+  "name": "Michael Grant",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cac"
+  },
+  "songwriter_id": "1104196",
+  "fans": 75,
+  "name": "England Football Team",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cad"
+  },
+  "songwriter_id": "1104197",
+  "fans": 2,
+  "name": "Deezin",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cae"
+  },
+  "songwriter_id": "1104198",
+  "fans": 129,
+  "name": "Pryme Minister",
+  "reputation": 3,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3caf"
+  },
+  "songwriter_id": "1104199",
+  "fans": 4836,
+  "name": "Robyn & La Bagatelle Magique",
+  "reputation": 27,
+  "genres": [
+    "electropop"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb0"
+  },
+  "songwriter_id": "1104200",
+  "fans": 7,
+  "name": "The Presents",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb1"
+  },
+  "songwriter_id": "1104201",
+  "fans": 8424,
+  "name": "Lo-Fi-Fnk",
+  "reputation": 21,
+  "genres": [
+    "alternative dance",
+    "dance-punk",
+    "electrofox",
+    "new rave",
+    "swedish electropop"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb2"
+  },
+  "songwriter_id": "1104202",
+  "fans": 18,
+  "name": "Max Tuohy",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb3"
+  },
+  "songwriter_id": "1104203",
+  "fans": 4,
+  "name": "adnap family",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb4"
+  },
+  "songwriter_id": "1104204",
+  "fans": 23,
+  "name": "Tor Newcomer",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb5"
+  },
+  "songwriter_id": "1104205",
+  "fans": 3,
+  "name": "The Unexpected Items",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb6"
+  },
+  "songwriter_id": "1104206",
+  "fans": 55,
+  "name": "Inju5tice",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb7"
+  },
+  "songwriter_id": "1104207",
+  "fans": 18,
+  "name": "Alex Lodge",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb8"
+  },
+  "songwriter_id": "1104208",
+  "fans": 767,
+  "name": "Pat O’May",
+  "reputation": 26,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cb9"
+  },
+  "songwriter_id": "1104209",
+  "fans": 68,
+  "name": "Alexandra Amor",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cba"
+  },
+  "songwriter_id": "1104210",
+  "fans": 7,
+  "name": "Jerry Meehan, Adrian Meehan, Nichol Thomson",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cbb"
+  },
+  "songwriter_id": "1104211",
+  "fans": 428,
+  "name": "The Switchblade 3",
+  "reputation": 22,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cbc"
+  },
+  "songwriter_id": "1104212",
+  "fans": 44,
+  "name": "Tumbleweed Mile",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cbd"
+  },
+  "songwriter_id": "1104213",
+  "fans": 60,
+  "name": "The Horror Herd",
+  "reputation": 11,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cbe"
+  },
+  "songwriter_id": "1104214",
+  "fans": 2,
+  "name": "My Fine Friend Phil",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cbf"
+  },
+  "songwriter_id": "1104215",
+  "fans": 194,
+  "name": "A.T.H.Projekt",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc0"
+  },
+  "songwriter_id": "1104216",
+  "fans": 270,
+  "name": "Tristeza Melancolía",
+  "reputation": 30,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc1"
+  },
+  "songwriter_id": "1104217",
+  "fans": 273,
+  "name": "Jack and the Ripper Girl",
+  "reputation": 26,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc2"
+  },
+  "songwriter_id": "1104218",
+  "fans": 1378,
+  "name": "Voltage City",
+  "reputation": 35,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc3"
+  },
+  "songwriter_id": "1104219",
+  "fans": 2,
+  "name": "Edith B",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc4"
+  },
+  "songwriter_id": "1104220",
+  "fans": 19,
+  "name": "Joanna Angel and Princess Frank",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc5"
+  },
+  "songwriter_id": "1104221",
+  "fans": 136,
+  "name": "Babar Khan",
+  "reputation": 4,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc6"
+  },
+  "songwriter_id": "1104222",
+  "fans": 2,
+  "name": "Thrill Monster",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc7"
+  },
+  "songwriter_id": "1104223",
+  "fans": 0,
+  "name": "Sun Family",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc8"
+  },
+  "songwriter_id": "1104224",
+  "fans": 57,
+  "name": "Either Way",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cc9"
+  },
+  "songwriter_id": "1104225",
+  "fans": 7,
+  "name": "Carter Banks",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cca"
+  },
+  "songwriter_id": "1104226",
+  "fans": 1,
+  "name": "Bodat Ink",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ccb"
+  },
+  "songwriter_id": "1104227",
+  "fans": 103,
+  "name": "Shawn Brandon",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ccc"
+  },
+  "songwriter_id": "1104228",
+  "fans": 0,
+  "name": "Honey, I Stole Your Jumper",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ccd"
+  },
+  "songwriter_id": "1104229",
+  "fans": 47,
+  "name": "Abacu5",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cce"
+  },
+  "songwriter_id": "1104230",
+  "fans": 1,
+  "name": "The Midnight Winter",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ccf"
+  },
+  "songwriter_id": "1104231",
+  "fans": 59,
+  "name": "Behind The Words",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd0"
+  },
+  "songwriter_id": "1104232",
+  "fans": 288,
+  "name": "Landia",
+  "reputation": 2,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd1"
+  },
+  "songwriter_id": "1104233",
+  "fans": 44,
+  "name": "June",
+  "reputation": 17,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd2"
+  },
+  "songwriter_id": "1104234",
+  "fans": 82,
+  "name": "Aurelio Mendoza",
+  "reputation": 2,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd3"
+  },
+  "songwriter_id": "1104235",
+  "fans": 23,
+  "name": "Banski",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd4"
+  },
+  "songwriter_id": "1104236",
+  "fans": 2,
+  "name": "Blue Kollar Ballers",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd5"
+  },
+  "songwriter_id": "1104237",
+  "fans": 14,
+  "name": "Johnny 3 Legs",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd6"
+  },
+  "songwriter_id": "1104238",
+  "fans": 13,
+  "name": "Bourne Aspekt",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd7"
+  },
+  "songwriter_id": "1104239",
+  "fans": 9,
+  "name": "Mona Murray",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd8"
+  },
+  "songwriter_id": "1104240",
+  "fans": 4,
+  "name": "Bayssic Kinetiks",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cd9"
+  },
+  "songwriter_id": "1104241",
+  "fans": 2,
+  "name": "T-Double",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cda"
+  },
+  "songwriter_id": "1104242",
+  "fans": 6,
+  "name": "Lost Copper",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cdb"
+  },
+  "songwriter_id": "1104243",
+  "fans": 28,
+  "name": "Pedro el Poeta",
+  "reputation": 0,
+  "genres": [
+    "spoken word"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cdc"
+  },
+  "songwriter_id": "1104244",
+  "fans": 7,
+  "name": "Killakee Kat",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cdd"
+  },
+  "songwriter_id": "1104245",
+  "fans": 10,
+  "name": "Nino pipitò",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cde"
+  },
+  "songwriter_id": "1104246",
+  "fans": 4,
+  "name": "Inkwizitive",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cdf"
+  },
+  "songwriter_id": "1104247",
+  "fans": 8,
+  "name": "soulicious",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce0"
+  },
+  "songwriter_id": "1104248",
+  "fans": 35,
+  "name": "Gonna Make You Dance",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce1"
+  },
+  "songwriter_id": "1104249",
+  "fans": 48,
+  "name": "San Francisco Gay Men's Chorus, Dick Kramer",
+  "reputation": 0,
+  "genres": [
+    "gay chorus",
+    "men's choir"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce2"
+  },
+  "songwriter_id": "1104250",
+  "fans": 19,
+  "name": "Gateway Men's Chorus",
+  "reputation": 0,
+  "genres": [
+    "gay chorus",
+    "men's choir"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce3"
+  },
+  "songwriter_id": "1104251",
+  "fans": 2,
+  "name": "Ives Ridge Rockers",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce4"
+  },
+  "songwriter_id": "1104252",
+  "fans": 7,
+  "name": "Punk Ass Mo Fo",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce5"
+  },
+  "songwriter_id": "1104253",
+  "fans": 8,
+  "name": "Curious Grace",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce6"
+  },
+  "songwriter_id": "1104254",
+  "fans": 1,
+  "name": "arr. by Kathleen McGuire",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce7"
+  },
+  "songwriter_id": "1104255",
+  "fans": 14,
+  "name": "Opulence",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce8"
+  },
+  "songwriter_id": "1104256",
+  "fans": 208,
+  "name": "Autumn Diet Plans",
+  "reputation": 0,
+  "genres": [
+    "nottingham indie"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ce9"
+  },
+  "songwriter_id": "1104257",
+  "fans": 64,
+  "name": "Basements",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cea"
+  },
+  "songwriter_id": "1104258",
+  "fans": 283,
+  "name": "No Real Pioneers",
+  "reputation": 1,
+  "genres": [
+    "lithuanian indie"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ceb"
+  },
+  "songwriter_id": "1104259",
+  "fans": 310,
+  "name": "Marie Chante",
+  "reputation": 4,
+  "genres": [
+    "belarusian punk"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cec"
+  },
+  "songwriter_id": "1104260",
+  "fans": 90,
+  "name": "Escapism",
+  "reputation": 3,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3ced"
+  },
+  "songwriter_id": "1104261",
+  "fans": 98,
+  "name": "Castletroy",
+  "reputation": 0,
+  "genres": [
+    "russian shoegaze"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cee"
+  },
+  "songwriter_id": "1104262",
+  "fans": 154,
+  "name": "Tiny Fractures",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cef"
+  },
+  "songwriter_id": "1104263",
+  "fans": 93,
+  "name": "Toluca",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf0"
+  },
+  "songwriter_id": "1104264",
+  "fans": 17,
+  "name": "Ett Turbulent Liv",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf1"
+  },
+  "songwriter_id": "1104265",
+  "fans": 14,
+  "name": "Downtown Stories",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf2"
+  },
+  "songwriter_id": "1104266",
+  "fans": 9,
+  "name": "Tiler",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf3"
+  },
+  "songwriter_id": "1104267",
+  "fans": 41,
+  "name": "Marevo",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf4"
+  },
+  "songwriter_id": "1104268",
+  "fans": 1,
+  "name": "Burkewitz",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf5"
+  },
+  "songwriter_id": "1104269",
+  "fans": 385,
+  "name": "det är därför vi bygger städer",
+  "reputation": 5,
+  "genres": [
+    "swedish emo"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf6"
+  },
+  "songwriter_id": "1104270",
+  "fans": 2403,
+  "name": "letters to catalonia",
+  "reputation": 13,
+  "genres": [
+    "emoviolence",
+    "skramz"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf7"
+  },
+  "songwriter_id": "1104271",
+  "fans": 30,
+  "name": "JamAntics",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf8"
+  },
+  "songwriter_id": "1104272",
+  "fans": 11,
+  "name": "P.S.K. & Mollz",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cf9"
+  },
+  "songwriter_id": "1104273",
+  "fans": 15482,
+  "name": "Kaonashi",
+  "reputation": 33,
+  "genres": [
+    "metallic hardcore",
+    "pennsylvania hardcore"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cfa"
+  },
+  "songwriter_id": "1104274",
+  "fans": 8251,
+  "name": "Wristmeetrazor",
+  "reputation": 32,
+  "genres": [
+    "emoviolence",
+    "metallic hardcore"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cfb"
+  },
+  "songwriter_id": "1104275",
+  "fans": 10338,
+  "name": "Cursed Earth",
+  "reputation": 30,
+  "genres": [
+    "australian post-hardcore",
+    "metallic hardcore"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cfc"
+  },
+  "songwriter_id": "1104276",
+  "fans": 1010,
+  "name": "Starve",
+  "reputation": 22,
+  "genres": [
+    "australian metalcore"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cfd"
+  },
+  "songwriter_id": "1104277",
+  "fans": 1182,
+  "name": "Speed",
+  "reputation": 15,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cfe"
+  },
+  "songwriter_id": "1104278",
+  "fans": 2612,
+  "name": "Caged Existence",
+  "reputation": 14,
+  "genres": [
+    "australian hardcore"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3cff"
+  },
+  "songwriter_id": "1104279",
+  "fans": 8667,
+  "name": "Chamber",
+  "reputation": 28,
+  "genres": [
+    "mathcore",
+    "metallic hardcore"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d00"
+  },
+  "songwriter_id": "1104280",
+  "fans": 6899,
+  "name": "Bloom",
+  "reputation": 34,
+  "genres": [
+    "australian post-hardcore",
+    "melodic hardcore"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d01"
+  },
+  "songwriter_id": "1104281",
+  "fans": 2375,
+  "name": "Graves",
+  "reputation": 15,
+  "genres": [
+    "australian metalcore"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d02"
+  },
+  "songwriter_id": "1104282",
+  "fans": 4569,
+  "name": "Belle Haven",
+  "reputation": 31,
+  "genres": [
+    "australian post-hardcore"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d03"
+  },
+  "songwriter_id": "1104283",
+  "fans": 42,
+  "name": "Reverse Mechanic",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d04"
+  },
+  "songwriter_id": "1104284",
+  "fans": 6,
+  "name": "DJ ShaL",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d05"
+  },
+  "songwriter_id": "1104285",
+  "fans": 25,
+  "name": "Sound Shaman",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d06"
+  },
+  "songwriter_id": "1104286",
+  "fans": 64,
+  "name": "Almost Hero",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d07"
+  },
+  "songwriter_id": "1104287",
+  "fans": 1852,
+  "name": "Tigerweather",
+  "reputation": 16,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d08"
+  },
+  "songwriter_id": "1104288",
+  "fans": 6,
+  "name": "Starlight and Arms",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d09"
+  },
+  "songwriter_id": "1104289",
+  "fans": 355,
+  "name": "The So Manys",
+  "reputation": 6,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d0a"
+  },
+  "songwriter_id": "1104290",
+  "fans": 931,
+  "name": "Jordan Millar",
+  "reputation": 17,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d0b"
+  },
+  "songwriter_id": "1104291",
+  "fans": 37,
+  "name": "Wings of a Hero",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d0c"
+  },
+  "songwriter_id": "1104292",
+  "fans": 112,
+  "name": "Messrs",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d0d"
+  },
+  "songwriter_id": "1104293",
+  "fans": 175,
+  "name": "Blue Satellite & Jhameel",
+  "reputation": 2,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d0e"
+  },
+  "songwriter_id": "1104294",
+  "fans": 182,
+  "name": "Hurricane Kids",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d0f"
+  },
+  "songwriter_id": "1104295",
+  "fans": 276,
+  "name": "The Role Call",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d10"
+  },
+  "songwriter_id": "1104296",
+  "fans": 413,
+  "name": "Devyn Bess",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d11"
+  },
+  "songwriter_id": "1104297",
+  "fans": 5,
+  "name": "Tyler Drake",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d12"
+  },
+  "songwriter_id": "1104298",
+  "fans": 4790,
+  "name": "Action Item",
+  "reputation": 10,
+  "genres": [
+    "alternative pop rock",
+    "neon pop punk"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d13"
+  },
+  "songwriter_id": "1104299",
+  "fans": 499,
+  "name": "Anson Li",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d14"
+  },
+  "songwriter_id": "1104300",
+  "fans": 75,
+  "name": "Charlie B",
+  "reputation": 17,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d15"
+  },
+  "songwriter_id": "1104301",
+  "fans": 103,
+  "name": "Goodbye Friday",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d16"
+  },
+  "songwriter_id": "1104302",
+  "fans": 21,
+  "name": "Sethway",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d17"
+  },
+  "songwriter_id": "1104303",
+  "fans": 526,
+  "name": "Braiden Wood",
+  "reputation": 4,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d18"
+  },
+  "songwriter_id": "1104304",
+  "fans": 31993,
+  "name": "This Century",
+  "reputation": 33,
+  "genres": [
+    "alternative pop rock",
+    "neon pop punk",
+    "pixie",
+    "pop emo"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d19"
+  },
+  "songwriter_id": "1104305",
+  "fans": 5,
+  "name": "Shivice Brown",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d1a"
+  },
+  "songwriter_id": "1104306",
+  "fans": 31,
+  "name": "Benjamin Romeo",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d1b"
+  },
+  "songwriter_id": "1104307",
+  "fans": 468,
+  "name": "Kevin Rivas",
+  "reputation": 5,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d1c"
+  },
+  "songwriter_id": "1104308",
+  "fans": 1,
+  "name": "California Burning",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d1d"
+  },
+  "songwriter_id": "1104309",
+  "fans": 6929,
+  "name": "Antipodi",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d1e"
+  },
+  "songwriter_id": "1104310",
+  "fans": 12,
+  "name": "Relative Effect",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d1f"
+  },
+  "songwriter_id": "1104311",
+  "fans": 15,
+  "name": "The Morels",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d20"
+  },
+  "songwriter_id": "1104312",
+  "fans": 78,
+  "name": "Ken Fox",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d21"
+  },
+  "songwriter_id": "1104313",
+  "fans": 0,
+  "name": "Living Dead Things",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d22"
+  },
+  "songwriter_id": "1104314",
+  "fans": 5,
+  "name": "The Amazing Mongooses",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d23"
+  },
+  "songwriter_id": "1104315",
+  "fans": 1,
+  "name": "Rayzed",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d24"
+  },
+  "songwriter_id": "1104316",
+  "fans": 0,
+  "name": "Late Night 50 & Michael Bann;Kirk Widener",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d25"
+  },
+  "songwriter_id": "1104317",
+  "fans": 0,
+  "name": "The Velvet Nines",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d26"
+  },
+  "songwriter_id": "1104318",
+  "fans": 2696,
+  "name": "Jack Carty",
+  "reputation": 17,
+  "genres": [
+    "australian singer-songwriter"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d27"
+  },
+  "songwriter_id": "1104319",
+  "fans": 10099,
+  "name": "Patrick James",
+  "reputation": 36,
+  "genres": [
+    "australian indie",
+    "australian indie folk"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d28"
+  },
+  "songwriter_id": "1104320",
+  "fans": 44,
+  "name": "Elon Sarafian",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d29"
+  },
+  "songwriter_id": "1104321",
+  "fans": 0,
+  "name": "Jocelyn Celaya",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d2a"
+  },
+  "songwriter_id": "1104322",
+  "fans": 14,
+  "name": "Prester John, Shawn Persinger & David Miller",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d2b"
+  },
+  "songwriter_id": "1104323",
+  "fans": 63,
+  "name": "Heinz Riegler",
+  "reputation": 7,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d2c"
+  },
+  "songwriter_id": "1104324",
+  "fans": 14,
+  "name": "Grant Withington",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d2d"
+  },
+  "songwriter_id": "1104325",
+  "fans": 46,
+  "name": "Benedict Moleta",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d2e"
+  },
+  "songwriter_id": "1104326",
+  "fans": 30,
+  "name": "Mindy Sotiri",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d2f"
+  },
+  "songwriter_id": "1104327",
+  "fans": 42,
+  "name": "paper wallpaper",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d30"
+  },
+  "songwriter_id": "1104328",
+  "fans": 90087,
+  "name": "Brent Rivera",
+  "reputation": 33,
+  "genres": [
+    "social media pop",
+    "teen pop"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d31"
+  },
+  "songwriter_id": "1104329",
+  "fans": 932,
+  "name": "Meghan & Lucas",
+  "reputation": 5,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d32"
+  },
+  "songwriter_id": "1104330",
+  "fans": 201,
+  "name": "Adam Dollar$",
+  "reputation": 19,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d33"
+  },
+  "songwriter_id": "1104331",
+  "fans": 309,
+  "name": "Lone Kodiak",
+  "reputation": 20,
+  "genres": [
+    "la indie"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d34"
+  },
+  "songwriter_id": "1104332",
+  "fans": 62,
+  "name": "Siobhan Heard",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d35"
+  },
+  "songwriter_id": "1104333",
+  "fans": 876,
+  "name": "We Are the Strike",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d36"
+  },
+  "songwriter_id": "1104334",
+  "fans": 774,
+  "name": "The Str!ke",
+  "reputation": 0,
+  "genres": [
+    "indie rockism"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d37"
+  },
+  "songwriter_id": "1104335",
+  "fans": 27,
+  "name": "John Beninghof",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d38"
+  },
+  "songwriter_id": "1104336",
+  "fans": 205,
+  "name": "Hunter Fraser",
+  "reputation": 6,
+  "genres": [
+    "indie rockism"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d39"
+  },
+  "songwriter_id": "1104337",
+  "fans": 161,
+  "name": "The Cabana Kids",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d3a"
+  },
+  "songwriter_id": "1104338",
+  "fans": 2749,
+  "name": "Astro Safari USA",
+  "reputation": 19,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d3b"
+  },
+  "songwriter_id": "1104339",
+  "fans": 52,
+  "name": "Dolo Jones",
+  "reputation": 9,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d3c"
+  },
+  "songwriter_id": "1104340",
+  "fans": 86,
+  "name": "EMRSN",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d3d"
+  },
+  "songwriter_id": "1104341",
+  "fans": 13,
+  "name": "Life As We Know It",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d3e"
+  },
+  "songwriter_id": "1104342",
+  "fans": 443,
+  "name": "Ben Bishop",
+  "reputation": 5,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d3f"
+  },
+  "songwriter_id": "1104343",
+  "fans": 5,
+  "name": "Chase Kroesche",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d40"
+  },
+  "songwriter_id": "1104344",
+  "fans": 3345,
+  "name": "Cody Longo",
+  "reputation": 8,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d41"
+  },
+  "songwriter_id": "1104345",
+  "fans": 2123,
+  "name": "Right the Stars",
+  "reputation": 18,
+  "genres": [
+    "deep acoustic pop"
+  ],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d42"
+  },
+  "songwriter_id": "1104346",
+  "fans": 26,
+  "name": "Jesse Giddings",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d43"
+  },
+  "songwriter_id": "1104347",
+  "fans": 406,
+  "name": "The Boy Band Project",
+  "reputation": 0,
+  "genres": [],
+  "recordings": []
+},{
+  "_id": {
+    "$oid": "61002ea023062862f66c3d44"
+  },
+  "songwriter_id": "1104348",
+  "fans": 146,
+  "name": "10 Reasons",
+  "reputation": 1,
+  "genres": [],
+  "recordings": []
+}]
